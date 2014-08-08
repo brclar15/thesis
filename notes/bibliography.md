@@ -6,7 +6,13 @@
 - Timothy Gantz, Early Greek Myth: A Guide to Literary and Artistic Sources, Vol. 1 & Vol. 2 (Johns Hopkins University Press 1996)
 
 ## Online Links ##
-- Juan Manuel Díaz Lavado, Las citas de homero en plutarco [link] (http://dialnet.unirioja.es/servlet/tesis?codigo=378)
+- Juan Manuel Díaz Lavado, Las citas de homero en plutarco (Universidad de Extremadura 1999): [link] (http://dialnet.unirioja.es/servlet/tesis?codigo=378)
+- 
+## Holy Cross Library ##
+- Jonathan S. Burgess, The tradition of the Trojan War in Homer and the epic cycle (Johns Hopkins University Press 2001)
+- Luca Giuliani, Image and myth : a history of pictorial narration in Greek art (University of Chicago Press 2013)
+- Benjamin Sammons, NARRATIVE DOUBLETS IN THE EPIC CYCLE (American Journal Of Philology Volume: 134 Issue: 4 (2013-12-01) p. 529-556. ISSN: 0002-9475)
+
 
 ## Other ##
 
