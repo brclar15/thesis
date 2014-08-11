@@ -13,3 +13,4 @@ Things to Check
 - Sort through extrailiadic repository and validate it
 - Start collecting for Athenaeus
 - Tablua Iliaca
+- Aristotle's Poetics
