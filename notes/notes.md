@@ -12,3 +12,4 @@ Things to Check
 - Chrestomathy
 - Sort through extrailiadic repository and validate it
 - Start collecting for Athenaeus
+- Tablua Iliaca
