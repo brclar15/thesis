@@ -7,6 +7,7 @@
 
 ## Online Links ##
 - Juan Manuel Díaz Lavado, Las citas de homero en plutarco (Universidad de Extremadura 1999): [link] (http://dialnet.unirioja.es/servlet/tesis?codigo=378)
+- Greg Nagy, "Aristarchus and the Greek Epic Cycle," (2010) [link](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=3231)
 
 
 ## Holy Cross Library ##
