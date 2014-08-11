@@ -1,5 +1,5 @@
 ## Have in Hand ##
-- Apollodorus, The Library, Vol. 2: Book 3.10-16 / Epitome Loeb (Harvard University Press 1921)
+- Apollodorus, The Library, Vol. 1 & 2: Loeb (Harvard University Press 1921)
 - M. L. West, Greek Epic Fragments: Loeb (Harvard University Press 2003)
 - M. L. West, The Epic Cycle: A Commentary on the Lost Troy Epics (Oxford University Press 2013)
 - T. W. Allen, Homeri Opera V OCT (Oxonii: E Typographeo Clarendoniano 1966)
