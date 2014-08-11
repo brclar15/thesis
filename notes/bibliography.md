@@ -7,7 +7,8 @@
 
 ## Online Links ##
 - Juan Manuel Díaz Lavado, Las citas de homero en plutarco (Universidad de Extremadura 1999): [link] (http://dialnet.unirioja.es/servlet/tesis?codigo=378)
-- 
+
+
 ## Holy Cross Library ##
 - Jonathan S. Burgess, The tradition of the Trojan War in Homer and the epic cycle (Johns Hopkins University Press 2001)
 - Luca Giuliani, Image and myth : a history of pictorial narration in Greek art (University of Chicago Press 2013)
