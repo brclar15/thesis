@@ -14,13 +14,14 @@
 - Jonathan S. Burgess, The tradition of the Trojan War in Homer and the epic cycle (Johns Hopkins University Press 2001)
 - Luca Giuliani, Image and myth : a history of pictorial narration in Greek art (University of Chicago Press 2013)
 - Benjamin Sammons, NARRATIVE DOUBLETS IN THE EPIC CYCLE (American Journal Of Philology Volume: 134 Issue: 4 (2013-12-01) p. 529-556. ISSN: 0002-9475)
+- John Miles Foley, A Companion to Ancient Epic  (Blackwell Pub., 2005.) [link](http://books.google.com/books?id=V4mZmoZhG68C&pg=PA347&lpg=PA347&dq=kuklos+CHS&source=bl&ots=aqfYqEcwep&sig=QJ7VusjEepBvdqgg-uAhRtoaIlA&hl=en&sa=X&ei=AybpU5eIMejisATW0oGICQ&ved=0CCIQ6AEwAQ#v=onepage&q&f=false)
 
 
 ## CHS Library ##
 - Christos Tsagalis, The Oral Palimpsest: Exploring Intertextuality in the Homeric Epics (Harvard University Press 2008)
-- Albert Severyns, *Le cycle épique dans l'école d'Aristarque* (Liège 1929) (below)
-
-## Other ##
-
-
 - Albert Severyns, *Le cycle épique dans l'école d'Aristarque* (Liège 1929) available in [snippet view from Google books](http://books.google.com/books?id=NBYrAAAAIAAJ&source=gbs_ViewAPI)
+
+## Other Reference Links ##
+
+- [KYKLOS CLASSICS CHS] (http://chs.harvard.edu/cgi-bin/WebObjects/workbench.woa/wa/pageR?tn=ArticleWrapper&bdc=12&mn=5188)
+- [Digital Athenaeus](http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/digital-athenaeus/)
