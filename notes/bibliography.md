@@ -6,16 +6,16 @@
 - Timothy Gantz, Early Greek Myth: A Guide to Literary and Artistic Sources, Vol. 1 & Vol. 2 (Johns Hopkins University Press 1996)
 
 ## Online Links ##
-- Juan Manuel Díaz Lavado, Las citas de homero en plutarco (Universidad de Extremadura 1999) [link] (http://dialnet.unirioja.es/servlet/tesis?codigo=378)
-- Greg Nagy, "Aristarchus and the Greek Epic Cycle," (2010) [link](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=3231)
-- D. B. Monro, On the Fragment of Proclus' Abstract (The Journal of Hellenic Studies Vol 4 1883)   [link](http://books.google.com/books?id=nzcGAAAAQAAJ&pg=PA315&lpg=PA315&dq=athenaeus+epic+cycle&source=bl&ots=vhg2SRbyi0&sig=dhD8u4b1ff96FJXe0CAiBJkH0ng&hl=en&sa=X&ei=YR7pU4uTF-LMsQSdrYHYDA&ved=0CCwQ6AEwAjgK#v=onepage&q&f=false)
+- Juan Manuel Díaz Lavado, Las citas de homero en plutarco (Universidad de Extremadura 1999) [pdf] (http://dialnet.unirioja.es/servlet/tesis?codigo=378)
+- Greg Nagy, "Aristarchus and the Greek Epic Cycle," (2010) [CHS](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=3231)
+- D. B. Monro, On the Fragment of Proclus' Abstract (The Journal of Hellenic Studies Vol 4 1883)   [Google Books](http://books.google.com/books?id=nzcGAAAAQAAJ&pg=PA315&lpg=PA315&dq=athenaeus+epic+cycle&source=bl&ots=vhg2SRbyi0&sig=dhD8u4b1ff96FJXe0CAiBJkH0ng&hl=en&sa=X&ei=YR7pU4uTF-LMsQSdrYHYDA&ved=0CCwQ6AEwAjgK#v=onepage&q&f=false)
 
 
 ## Holy Cross Library ##
 - Jonathan S. Burgess, The tradition of the Trojan War in Homer and the epic cycle (Johns Hopkins University Press 2001)
 - Luca Giuliani, Image and myth : a history of pictorial narration in Greek art (University of Chicago Press 2013)
 - Benjamin Sammons, NARRATIVE DOUBLETS IN THE EPIC CYCLE (American Journal Of Philology Volume: 134 Issue: 4 (2013-12-01) p. 529-556. ISSN: 0002-9475)
-- John Miles Foley, A Companion to Ancient Epic  (Blackwell Pub., 2005.) [link](http://books.google.com/books?id=V4mZmoZhG68C&pg=PA347&lpg=PA347&dq=kuklos+CHS&source=bl&ots=aqfYqEcwep&sig=QJ7VusjEepBvdqgg-uAhRtoaIlA&hl=en&sa=X&ei=AybpU5eIMejisATW0oGICQ&ved=0CCIQ6AEwAQ#v=onepage&q&f=false)
+- John Miles Foley, A Companion to Ancient Epic  (Blackwell Pub., 2005.) [Google Books](http://books.google.com/books?id=V4mZmoZhG68C&pg=PA347&lpg=PA347&dq=kuklos+CHS&source=bl&ots=aqfYqEcwep&sig=QJ7VusjEepBvdqgg-uAhRtoaIlA&hl=en&sa=X&ei=AybpU5eIMejisATW0oGICQ&ved=0CCIQ6AEwAQ#v=onepage&q&f=false)
 
 
 ## CHS Library ##
