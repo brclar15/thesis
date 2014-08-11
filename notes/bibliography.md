@@ -14,6 +14,10 @@
 - Benjamin Sammons, NARRATIVE DOUBLETS IN THE EPIC CYCLE (American Journal Of Philology Volume: 134 Issue: 4 (2013-12-01) p. 529-556. ISSN: 0002-9475)
 
 
+## CHS Library ##
+- Christos Tsagalis, The Oral Palimpsest: Exploring Intertextuality in the Homeric Epics (Harvard University Press 2008)
+- Albert Severyns, *Le cycle épique dans l'école d'Aristarque* (Liège 1929) (below)
+
 ## Other ##
 
 
