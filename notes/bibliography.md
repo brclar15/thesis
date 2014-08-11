@@ -1,6 +1,6 @@
 ## Have in Hand ##
 - Apollodorus, The Library, Vol. 2: Book 3.10-16 / Epitome Loeb (Harvard University Press 1921)
-- M. L. West, Greek Epic Fragments: From the Seventh to the Fifth Centuries BC Loeb (Harvard University Press 2003)
+- M. L. West, Greek Epic Fragments: Loeb (Harvard University Press 2003)
 - M. L. West, The Epic Cycle: A Commentary on the Lost Troy Epics (Oxford University Press 2013)
 - T. W. Allen, Homeri Opera V OCT (Oxonii: E Typographeo Clarendoniano 1966)
 - Timothy Gantz, Early Greek Myth: A Guide to Literary and Artistic Sources, Vol. 1 & Vol. 2 (Johns Hopkins University Press 1996)
