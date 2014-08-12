@@ -9,8 +9,8 @@
 - Juan Manuel Díaz Lavado, Las citas de homero en plutarco (Universidad de Extremadura 1999) [pdf] (http://dialnet.unirioja.es/servlet/tesis?codigo=378)
 - @Classics Journal Reflecting on the Greek Epic Cycle," (CHS 2010) [CHS](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=3232)
 - D. B. Monro, On the Fragment of Proclus' Abstract of the Epic Cycle (The Journal of Hellenic Studies Vol 4 1883)   [Google Books](http://books.google.com/books?id=nzcGAAAAQAAJ&pg=PA315&lpg=PA315&dq=athenaeus+epic+cycle&source=bl&ots=vhg2SRbyi0&sig=dhD8u4b1ff96FJXe0CAiBJkH0ng&hl=en&sa=X&ei=YR7pU4uTF-LMsQSdrYHYDA&ved=0CCwQ6AEwAjgK#v=onepage&q&f=false)
-  -pg. 305 - pg. 334
-  -attempted recreation of material in VA before *Iliad*, defining the Epic Cycle, the cycle's order and continuity, meaning/use of κύκλος and κυκλικός 
+  * pg. 305 - pg. 334
+  * attempted recreation of material in VA before *Iliad*, defining the Epic Cycle, the cycle's order and continuity, meaning/use of κύκλος and κυκλικός 
 
 
 ## Holy Cross Library ##
