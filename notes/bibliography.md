@@ -32,7 +32,7 @@
   * does not look overly helpful on Epic Cycle, but not worthless
 
 
-## Online Journals ## 
+## Online Journals ##
 - Several articles in @Classics Journal Reflecting on the Greek Epic Cycle," (CHS 2010) [CHS](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=3232)
 - Fee-Alexandra Haase, An Intertextual Reading of a Myth: Between Poetry, Myth, Cult Topography, and History (AJCN 2007?) [article](http://cf.hum.uva.nl/narratology/a07_haase.htm)
 - Tzveta Manolova, Outside the Homeric Lens: The Epic Cycle and the Trojan War Tradition (McGill Classics 2010) [article](http://www.mcgill.ca/classics/files/classics/2010-11-10.pdf)
