@@ -8,22 +8,33 @@
 ## Online Links ##
 - Juan Manuel Díaz Lavado, Las citas de homero en plutarco (Universidad de Extremadura 1999) [pdf] (http://dialnet.unirioja.es/servlet/tesis?codigo=378)
 - Several articles in @Classics Journal Reflecting on the Greek Epic Cycle," (CHS 2010) [CHS](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=3232)
-- D. B. Monro, On the Fragment of Proclus' Abstract of the Epic Cycle (The Journal of Hellenic Studies Vol 4 1883)   [Google Books](http://books.google.com/books?id=nzcGAAAAQAAJ&pg=PA315&lpg=PA315&dq=athenaeus+epic+cycle&source=bl&ots=vhg2SRbyi0&sig=dhD8u4b1ff96FJXe0CAiBJkH0ng&hl=en&sa=X&ei=YR7pU4uTF-LMsQSdrYHYDA&ved=0CCwQ6AEwAjgK#v=onepage&q&f=false)
+- D. B. Monro, On the Fragment of Proclus' Abstract of the Epic Cycle (The Journal of Hellenic Studies Vol 4 1883)   [complete Google Book](http://books.google.com/books?id=nzcGAAAAQAAJ&pg=PA315&lpg=PA315&dq=athenaeus+epic+cycle&source=bl&ots=vhg2SRbyi0&sig=dhD8u4b1ff96FJXe0CAiBJkH0ng&hl=en&sa=X&ei=YR7pU4uTF-LMsQSdrYHYDA&ved=0CCwQ6AEwAjgK#v=onepage&q&f=false)
   * pg. 305 - pg. 334
   * valuable recreation of material in VA before *Iliad*, defining the Epic Cycle, the cycle's order and continuity, meaning/use of κύκλος and κυκλικός 
 - Robert McQueen Grant, Heresy and Criticism: The Search for Authenticity in Early Christian Literature (Westminster John Knox Press 1993) [Google Books](http://books.google.com/books?id=nShsVh0F_V8C&pg=PA17&lpg=PA17&dq=athenaeus+epic+cycle&source=bl&ots=sZYXzTwOb6&sig=MSymqL80LkwAnhQ4GM-xvE0Chwg&hl=en&sa=X&ei=YR7pU4uTF-LMsQSdrYHYDA&ved=0CDsQ6AEwBTgK#v=onepage&q&f=true)
   * pg. 16 - pg. 19
-  * largely unremarkable and brief, focuses on authorship of Epic Cycle, possibly useful notes at the back
-- Jonathan S. Burgess, The Tradition of the Trojan War in Homer and the Epic Cycle (JHU Press 2003) [Google Books](http://books.google.com/books?id=bEYXqRmYkx0C&printsec=frontcover&dq=epic+cycle&hl=en&sa=X&ei=fKjsU-tnyIvIBKHVgbgJ&ved=0CB4Q6AEwAA#v=onepage&q&f=false)
-  * full book, largely complete online
+  * largely unremarkable and brief, focuses on authorship of Epic Cycle
+  * possibly useful notes at the back
+- Jonathan S. Burgess, The Tradition of the Trojan War in Homer and the Epic Cycle (JHU Press 2003) [largely complete Google Book](http://books.google.com/books?id=bEYXqRmYkx0C&printsec=frontcover&dq=epic+cycle&hl=en&sa=X&ei=fKjsU-tnyIvIBKHVgbgJ&ved=0CB4Q6AEwAA#v=onepage&q&f=false)
+  * full book of interest
   * looks useful, at a glance 
-- Barbara Graziosi, Inventing Homer: The Early Reception of Epic (Cambridge University Press 2002) [Google Books](http://books.google.com/books?id=vCHsh9QWzLYC&pg=PA188&lpg=PA188&dq=Athenaeus+cypria&source=bl&ots=nzw0htD-aj&sig=_xsPAaO9H94mw07wFn0p_usjFrM&hl=en&sa=X&ei=oCvpU8KzBsXMsQTC4IGQDA&ved=0CCkQ6AEwAg#v=onepage&q&f=false)
+- Barbara Graziosi, Inventing Homer: The Early Reception of Epic (Cambridge University Press 2002) [incomplete Google Book](http://books.google.com/books?id=vCHsh9QWzLYC&pg=PA188&lpg=PA188&dq=Athenaeus+cypria&source=bl&ots=nzw0htD-aj&sig=_xsPAaO9H94mw07wFn0p_usjFrM&hl=en&sa=X&ei=oCvpU8KzBsXMsQTC4IGQDA&ved=0CCkQ6AEwAg#v=onepage&q&f=false)
   * pg. 174 - end
   * key sections incomplete online
+  * valuable questionable
+-Peter Jackson, The Transformations of Helen: Indo-European Myth and the Roots of the Trojan Cycle (J.H.Röll Verlag, 2006) [half complete Google Book](http://books.google.com/books?id=tJaSTyuMmw4C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+  * full book of possible interest
+  * potentially good information on the Cypria
+- Andrew Lang, Homer and the Epic (Longmans, Green, and Co. 1983)[complete Goole Book](http://books.google.com/books?id=C0UVAAAAQAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+  * pg. 323 - pg. 348
+  * looks useful, at a glance
+
 
 
 ## Holy Cross Library ##
-- Jonathan S. Burgess, The tradition of the Trojan War in Homer and the epic cycle (Johns Hopkins University Press 2001)
+- Jonathan S. Burgess, The tradition of the Trojan War in Homer and the epic cycle (Johns Hopkins University Press 2001)[first third Google Book](http://books.google.com/books?id=bEYXqRmYkx0C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+  * fully book of interest
+  * looks highly valuable
 - Luca Giuliani, Image and myth : a history of pictorial narration in Greek art (University of Chicago Press 2013)
 - Benjamin Sammons, NARRATIVE DOUBLETS IN THE EPIC CYCLE (American Journal Of Philology Volume: 134 Issue: 4 (2013-12-01) p. 529-556. ISSN: 0002-9475)
 - John Miles Foley, A Companion to Ancient Epic  (Blackwell Pub., 2005.) [Google Books](http://books.google.com/books?id=V4mZmoZhG68C&pg=PA347&lpg=PA347&dq=kuklos+CHS&source=bl&ots=aqfYqEcwep&sig=QJ7VusjEepBvdqgg-uAhRtoaIlA&hl=en&sa=X&ei=AybpU5eIMejisATW0oGICQ&ved=0CCIQ6AEwAQ#v=onepage&q&f=false)
