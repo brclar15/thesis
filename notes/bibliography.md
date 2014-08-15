@@ -5,9 +5,8 @@
 - T. W. Allen, Homeri Opera V OCT (Oxonii: E Typographeo Clarendoniano 1966)
 - Timothy Gantz, Early Greek Myth: A Guide to Literary and Artistic Sources, Vol. 1 & Vol. 2 (Johns Hopkins University Press 1996)
 
-## Online Links ##
+## Online Books ##
 - Juan Manuel Díaz Lavado, Las citas de homero en plutarco (Universidad de Extremadura 1999) [pdf] (http://dialnet.unirioja.es/servlet/tesis?codigo=378)
-- Several articles in @Classics Journal Reflecting on the Greek Epic Cycle," (CHS 2010) [CHS](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=3232)
 - D. B. Monro, On the Fragment of Proclus' Abstract of the Epic Cycle (The Journal of Hellenic Studies Vol 4 1883)   [complete Google Book](http://books.google.com/books?id=nzcGAAAAQAAJ&pg=PA315&lpg=PA315&dq=athenaeus+epic+cycle&source=bl&ots=vhg2SRbyi0&sig=dhD8u4b1ff96FJXe0CAiBJkH0ng&hl=en&sa=X&ei=YR7pU4uTF-LMsQSdrYHYDA&ved=0CCwQ6AEwAjgK#v=onepage&q&f=false)
   * pg. 305 - pg. 334
   * valuable recreation of material in VA before *Iliad*, defining the Epic Cycle, the cycle's order and continuity, meaning/use of κύκλος and κυκλικός 
@@ -22,17 +21,29 @@
   * pg. 174 - end
   * key sections incomplete online
   * valuable questionable
--Peter Jackson, The Transformations of Helen: Indo-European Myth and the Roots of the Trojan Cycle (J.H.Röll Verlag, 2006) [half complete Google Book](http://books.google.com/books?id=tJaSTyuMmw4C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+- Peter Jackson, The Transformations of Helen: Indo-European Myth and the Roots of the Trojan Cycle (J.H.Röll Verlag, 2006) [half complete Google Book](http://books.google.com/books?id=tJaSTyuMmw4C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
   * full book of possible interest
   * potentially good information on the Cypria
-- Andrew Lang, Homer and the Epic (Longmans, Green, and Co. 1983)[complete Goole Book](http://books.google.com/books?id=C0UVAAAAQAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+- Andrew Lang, Homer and the Epic (Longmans, Green, and Co. 1983) [complete Goole Book](http://books.google.com/books?id=C0UVAAAAQAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
   * pg. 323 - pg. 348
   * looks useful, at a glance
+- J. P. Mahaffy, A History of Classical Greek Literature Vol 1: The poets, epic and lyric, with an appendix on Homer by Prof. Sayce (Macmillan, 1903) [complete Google Book](http://books.google.com/books?id=1PEwAQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+  * pg. 101 - pg. 106, plus select early chapters possibly for background on early epic poetry
+  * does not look overly helpful on Epic Cycle, but not worthless
+
+
+## Online Journals ## 
+- Several articles in @Classics Journal Reflecting on the Greek Epic Cycle," (CHS 2010) [CHS](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=3232)
+- Fee-Alexandra Haase, An Intertextual Reading of a Myth: Between Poetry, Myth, Cult Topography, and History (AJCN 2007?) [article](http://cf.hum.uva.nl/narratology/a07_haase.htm)
+- Tzveta Manolova, Outside the Homeric Lens: The Epic Cycle and the Trojan War Tradition (McGill Classics 2010) [article](http://www.mcgill.ca/classics/files/classics/2010-11-10.pdf)
+- D. B. Monro, The Poems of the Epic Cycle (The Journal of Hellenic Studies, Vol. 5 (1884), pp. 1-41) [article](http://redel.eu/schneelaeufer/wiki/images/3/31/Monro-Epic-Cycle-1884.pdf)
+
+
 
 
 
 ## Holy Cross Library ##
-- Jonathan S. Burgess, The tradition of the Trojan War in Homer and the epic cycle (Johns Hopkins University Press 2001)[first third Google Book](http://books.google.com/books?id=bEYXqRmYkx0C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+- Jonathan S. Burgess, The tradition of the Trojan War in Homer and the epic cycle (Johns Hopkins University Press 2001) [first third Google Book](http://books.google.com/books?id=bEYXqRmYkx0C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
   * fully book of interest
   * looks highly valuable
 - Luca Giuliani, Image and myth : a history of pictorial narration in Greek art (University of Chicago Press 2013)
@@ -50,3 +61,4 @@
 
 - [KYKLOS CLASSICS CHS] (http://chs.harvard.edu/cgi-bin/WebObjects/workbench.woa/wa/pageR?tn=ArticleWrapper&bdc=12&mn=5188)
 - [Digital Athenaeus](http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/digital-athenaeus/)
+- Try to get a hold of this from CHS online: [Achilles at Scyros and the Cypria: Tradition and Myth in the Epic Cycle](http://www.academia.edu/7402140/Achilles_at_Scyros_and_the_Cypria_Tradition_and_Myth_in_the_Epic_Cycle)
