@@ -36,8 +36,11 @@
 - Several articles in @Classics Journal Reflecting on the Greek Epic Cycle," (CHS 2010) [CHS](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=3232)
 - Fee-Alexandra Haase, An Intertextual Reading of a Myth: Between Poetry, Myth, Cult Topography, and History (AJCN 2007?) [article](http://cf.hum.uva.nl/narratology/a07_haase.htm)
 - Tzveta Manolova, Outside the Homeric Lens: The Epic Cycle and the Trojan War Tradition (McGill Classics 2010) [article](http://www.mcgill.ca/classics/files/classics/2010-11-10.pdf)
-- D. B. Monro, The Poems of the Epic Cycle (The Journal of Hellenic Studies, Vol. 5 (1884), pp. 1-41) [article](http://redel.eu/schneelaeufer/wiki/images/3/31/Monro-Epic-Cycle-1884.pdf)
-
+- D. B. Monro, The Poems of the Epic Cycle (The Journal of Hellenic Studies 1884) [article](http://redel.eu/schneelaeufer/wiki/images/3/31/Monro-Epic-Cycle-1884.pdf)
+- Ingrid Holmberg, The Creation of the Ancient Epic Cycle (Oral Tradition 1998) [article](http://journal.oraltradition.org/files/articles/13ii/10_holmberg.pdf)
+- John Miles Foley and Chao Gejin, Challenges in Comparative Oral Epic (Oral Tradition 2012) [article](http://journal.oraltradition.org/files/articles/27ii/08_27.2.pdf)
+- Steve Reece, Homeric Studies (Oral Tradition 2003) [article](http://journal.oraltradition.org/files/articles/18i/10i_reece.pdf)
+- Giampiero Scafoglio, Two Fragments of the Epic Cycle (GRBS 2006) [article](https://web.duke.edu/classics/grbs/FTexts/46/Scafoglio.pdf)
 
 
 
@@ -60,5 +63,11 @@
 ## Other Reference Links ##
 
 - [KYKLOS CLASSICS CHS] (http://chs.harvard.edu/cgi-bin/WebObjects/workbench.woa/wa/pageR?tn=ArticleWrapper&bdc=12&mn=5188)
+- [Someone doing similar work](http://www.frias.uni-freiburg.de/en/people/present-fellows/rengakos)
+  * Prof. Dr. Antonios Rengakos, University of Freiburg / Thessaloniki
 - [Digital Athenaeus](http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/digital-athenaeus/)
+- [Summaries of the Trojan Cycle](http://www.maicar.com/GML/TCSummaries.html#n2)
+  * English, maybe just a reprinting of the Loeb
+- [Epic Cycle - Livius](http://www.livius.org/source-content/epic-cycle/)
+  * similar to above, maybe a helpful table or two
 - Try to get a hold of this from CHS online: [Achilles at Scyros and the Cypria: Tradition and Myth in the Epic Cycle](http://www.academia.edu/7402140/Achilles_at_Scyros_and_the_Cypria_Tradition_and_Myth_in_the_Epic_Cycle)
