@@ -14,9 +14,6 @@
   * pg. 16 - pg. 19
   * largely unremarkable and brief, focuses on authorship of Epic Cycle
   * possibly useful notes at the back
-- Jonathan S. Burgess, The Tradition of the Trojan War in Homer and the Epic Cycle (JHU Press 2003) [largely complete Google Book](http://books.google.com/books?id=bEYXqRmYkx0C&printsec=frontcover&dq=epic+cycle&hl=en&sa=X&ei=fKjsU-tnyIvIBKHVgbgJ&ved=0CB4Q6AEwAA#v=onepage&q&f=false)
-  * full book of interest
-  * looks useful, at a glance 
 - Barbara Graziosi, Inventing Homer: The Early Reception of Epic (Cambridge University Press 2002) [incomplete Google Book](http://books.google.com/books?id=vCHsh9QWzLYC&pg=PA188&lpg=PA188&dq=Athenaeus+cypria&source=bl&ots=nzw0htD-aj&sig=_xsPAaO9H94mw07wFn0p_usjFrM&hl=en&sa=X&ei=oCvpU8KzBsXMsQTC4IGQDA&ved=0CCkQ6AEwAg#v=onepage&q&f=false)
   * pg. 174 - end
   * key sections incomplete online
@@ -54,6 +51,8 @@
 - John Miles Foley, A Companion to Ancient Epic  (Blackwell Pub., 2005.) [Google Books](http://books.google.com/books?id=V4mZmoZhG68C&pg=PA347&lpg=PA347&dq=kuklos+CHS&source=bl&ots=aqfYqEcwep&sig=QJ7VusjEepBvdqgg-uAhRtoaIlA&hl=en&sa=X&ei=AybpU5eIMejisATW0oGICQ&ved=0CCIQ6AEwAQ#v=onepage&q&f=false)
   * pg. 344 - pg. 348 
   * looks very useful, at a brief glance
+- Ross Scaife, The Kypria and its Early Reception (Classical Antiquity, Volume 14/No. 1/April 1995)
+  * may be in Dinand
 
 
 ## CHS Library ##
