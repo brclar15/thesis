@@ -23,7 +23,7 @@
   * potentially good information on the Cypria
 - Andrew Lang, Homer and the Epic (Longmans, Green, and Co. 1983) [complete Goole Book](http://books.google.com/books?id=C0UVAAAAQAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
   * pg. 323 - pg. 348
-  * Diminished Proclus, supports Pausanias, poems were patchwork and trimmed by others, denies an early κύκλος, good break-down of events of the poems, Homeric silence vs Homeric ignorance, Homer's tastes, views Homer as model for Epic Cylce
+  * Doubts Proclus, supports Pausanias, poems were patchwork and trimmed by others, denies an early κύκλος, good break-down of events of the poems, Homeric silence vs Homeric ignorance, Homer's tastes, views Homer as model for Epic Cylce
 - J. P. Mahaffy, A History of Classical Greek Literature Vol 1: The poets, epic and lyric, with an appendix on Homer by Prof. Sayce (Macmillan, 1903) [complete Google Book](http://books.google.com/books?id=1PEwAQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
   * pg. 101 - pg. 106, plus select early chapters possibly for background on early epic poetry
   * does not look overly helpful on Epic Cycle, but not worthless
@@ -51,7 +51,7 @@
 - John Miles Foley, A Companion to Ancient Epic  (Blackwell Pub., 2005.) [Google Books](http://books.google.com/books?id=V4mZmoZhG68C&pg=PA347&lpg=PA347&dq=kuklos+CHS&source=bl&ots=aqfYqEcwep&sig=QJ7VusjEepBvdqgg-uAhRtoaIlA&hl=en&sa=X&ei=AybpU5eIMejisATW0oGICQ&ved=0CCIQ6AEwAQ#v=onepage&q&f=false)
   * pg. 344 - pg. 348 in particular, full book as background
   * looks very useful, at a brief glance
-  * Ch. 24 - Supports Proclus, summaries maybe altered for VA, peoms from Archaic but fixed in Hellenistic period, nature of the Cycle with Homeric epics as the center, art suggests early importance of the Cycle, difference in nature between the Cycle and Homeric poetry, dependence/knowledge of Homeric poetry
+  * __Ch. 24__ - Supports Proclus, summaries maybe altered for VA, peoms from Archaic but fixed in Hellenistic period, nature of the Cycle with Homeric epics as the center, art suggests early importance of the Cycle, difference in nature between the Cycle and Homeric poetry, dependence/knowledge of Homeric poetry
 - Ross Scaife, The Kypria and its Early Reception (Classical Antiquity, Volume 14/No. 1/April 1995)
   * may be in Dinand
 
