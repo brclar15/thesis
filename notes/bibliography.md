@@ -23,7 +23,7 @@
   * potentially good information on the Cypria
 - Andrew Lang, Homer and the Epic (Longmans, Green, and Co. 1983) [complete Goole Book](http://books.google.com/books?id=C0UVAAAAQAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
   * pg. 323 - pg. 348
-  * looks useful, at a glance
+  * Diminished Proclus, supports Pausanias, poems were patchwork and trimmed by others, denies an early κύκλος, good break-down of events of the poems, Homeric silence vs Homeric ignorance, Homer's tastes, views Homer as model for Epic Cylce
 - J. P. Mahaffy, A History of Classical Greek Literature Vol 1: The poets, epic and lyric, with an appendix on Homer by Prof. Sayce (Macmillan, 1903) [complete Google Book](http://books.google.com/books?id=1PEwAQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
   * pg. 101 - pg. 106, plus select early chapters possibly for background on early epic poetry
   * does not look overly helpful on Epic Cycle, but not worthless
