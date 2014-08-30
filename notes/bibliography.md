@@ -1,9 +1,11 @@
 ## Have in Hand ##
 - Apollodorus, The Library, Vol. 1 & 2: Loeb (Harvard University Press 1921)
 - M. L. West, Greek Epic Fragments: Loeb (Harvard University Press 2003)
-- M. L. West, The Epic Cycle: A Commentary on the Lost Troy Epics (Oxford University Press 2013)
 - T. W. Allen, Homeri Opera V OCT (Oxonii: E Typographeo Clarendoniano 1966)
 - Timothy Gantz, Early Greek Myth: A Guide to Literary and Artistic Sources, Vol. 1 & Vol. 2 (Johns Hopkins University Press 1996)
+- M. L. West, The Epic Cycle: A Commentary on the Lost Troy Epics (Oxford University Press 2013)
+  * Prolegomena, commentaries on the Epic Cycle
+  * Trojan Cycle within the Epic Cycle, outline of the Chrestomathy, supports unaltered Proclus summaries not written by Proclus, Proclus & Apollodorus had shared older source, Archaic poems were stand-alone before the Cycle, Original arranger of Cycle?, supports Aristotle's use of Epic Cycle, Phayllos as epitomer, ascriptions, use in art and literature, no direct knowledge after 200 CE
 
 ## Online Books ##
 - Juan Manuel Díaz Lavado, Las citas de homero en plutarco (Universidad de Extremadura 1999) [pdf] (http://dialnet.unirioja.es/servlet/tesis?codigo=378)
