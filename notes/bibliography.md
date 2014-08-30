@@ -19,7 +19,7 @@
 - Barbara Graziosi, Inventing Homer: The Early Reception of Epic (Cambridge University Press 2002) [incomplete Google Book](http://books.google.com/books?id=vCHsh9QWzLYC&pg=PA188&lpg=PA188&dq=Athenaeus+cypria&source=bl&ots=nzw0htD-aj&sig=_xsPAaO9H94mw07wFn0p_usjFrM&hl=en&sa=X&ei=oCvpU8KzBsXMsQTC4IGQDA&ved=0CCkQ6AEwAg#v=onepage&q&f=false)
   * pg. 174 - end
   * key sections incomplete online
-  * valuable questionable
+  * value questionable
 - Peter Jackson, The Transformations of Helen: Indo-European Myth and the Roots of the Trojan Cycle (J.H.Röll Verlag, 2006) [half complete Google Book](http://books.google.com/books?id=tJaSTyuMmw4C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
   * full book of possible interest
   * potentially good information on the Cypria
