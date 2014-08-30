@@ -28,7 +28,7 @@
   * Doubts Proclus, supports Pausanias, poems were patchwork and trimmed by others, denies an early κύκλος, good break-down of events of the poems, Homeric silence vs Homeric ignorance, Homer's tastes, views Homer as model for Epic Cylce
 - J. P. Mahaffy, A History of Classical Greek Literature Vol 1: The poets, epic and lyric, with an appendix on Homer by Prof. Sayce (Macmillan, 1903) [complete Google Book](http://books.google.com/books?id=1PEwAQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
   * pg. 101 - pg. 106, plus select early chapters possibly for background on early epic poetry
-  * does not look overly helpful on Epic Cycle, but not worthless
+  * says the Cypria starts with Aphrodite's birth, brief discussion of Aristole's use of the Epic Cycle, nothing else new or noteable
 
 
 ## Online Journals ##
