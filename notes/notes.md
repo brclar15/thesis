@@ -6,11 +6,11 @@ we need to ILL, links to online things, etc.
 
 
 Things to Do
-- Reread Prolegomena in ML West
-- sort through bundle of Google Books
+- ~~Reread Prolegomena in ML West~~
+- ~~sort through bundle of Google Books~~
 - Photius
 - Chrestomathy
-- ~~Sort through extrailiadic repository~~ and validate it
+- ~~Sort through extrailiadic repository and validate it~~
 - Start collecting for Athenaeus
 - Tablua Iliaca
 - Aristotle's Poetics
