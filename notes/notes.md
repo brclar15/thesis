@@ -11,14 +11,18 @@ Things to Do
 - Photius
 - Chrestomathy
 - ~~Sort through extrailiadic repository and validate it~~
-- Start collecting for Athenaeus
-- Tablua Iliaca
-- Aristotle's Poetics
+- Start collecting sources for Athenaeus
+- Collect Sources for Tablua Iliaca
+- Aristotle's Poetics - see what's there
 - ILL Severyns books
 - move all sources into bibliography
+- Clean up Athenaeus edition (later books)
+- Start reading later books of Athenaeus in English
+- Diplomatic edition of Allen's Chrestomathy
 
 
 ## Possible Big Questions ##
+- How do those quoting and those summarizing deal with Trojan material?
 - When do the scholia cite the Epic Cycle?
   * look at Epic echo passages
   * look at scholia of infrequent / unmentioned Epic characters
