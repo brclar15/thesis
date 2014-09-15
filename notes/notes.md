@@ -18,7 +18,7 @@ Things to Do
 - move all sources into bibliography
 - Clean up Athenaeus edition (later books)
 - Start reading later books of Athenaeus in English
-- Diplomatic edition of Allen's Chrestomathy
+- ~~Diplomatic edition of Allen's Chrestomathy~~
 
 
 ## Possible Big Questions ##
