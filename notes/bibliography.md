@@ -13,7 +13,7 @@
 
 {++We should make notes on entries into sublists -- that takes 4 spaces indentation in markdown. ++}
 
-- Juan Manuel Díaz Lavado, Las citas de homero en plutarco (Universidad de Extremadura 1999) [pdf] (http://dialnet.unirioja.es/servlet/tesis?codigo=378)
+- Juan Manuel {==Diaz==}{>>We should correctly spell the name with diacritic once we figure out why VM is not getting Unicode from github properly.<<} Lavado, Las citas de homero en plutarco (Universidad de Extremadura 1999) [pdf] (http://dialnet.unirioja.es/servlet/tesis?codigo=378)
 - D. B. Monro, On the Fragment of Proclus' Abstract of the Epic Cycle (The Journal of Hellenic Studies Vol 4 1883)   [complete Google Book](http://books.google.com/books?id=nzcGAAAAQAAJ&pg=PA315&lpg=PA315&dq=athenaeus+epic+cycle&source=bl&ots=vhg2SRbyi0&sig=dhD8u4b1ff96FJXe0CAiBJkH0ng&hl=en&sa=X&ei=YR7pU4uTF-LMsQSdrYHYDA&ved=0CCwQ6AEwAjgK#v=onepage&q&f=false)
   * pg. 305 - pg. 334
   * valuable recreation of material in VA before *Iliad*, defining the Epic Cycle, the cycle's order and continuity, meaning/use of κύκλος and κυκλικός 
