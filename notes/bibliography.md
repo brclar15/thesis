@@ -35,6 +35,12 @@
   * pg. 101 - pg. 106, plus select early chapters possibly for background on early epic poetry
   * says the Cypria starts with Aphrodite's birth, brief discussion of Aristole's use of the Epic Cycle, nothing else new or noteable
 
+## ILL Material ##
+- Elena Walter-Karydi, Myths, Texts, Images Homeric Epics and Ancient Greek Art (Center for Odyssean Studies 2009) 
+  * "The Best of Homer'. Homeric Texts, Performances and Images in the Hellenistic World and beyond. The Contribution of Inscriptions by Angelos Chaniotis
+    * significane of Homeric Epics in Hellenistic period, examples, interplay of text and images: possibility of illuminated paypri, Ambrosian Iliad, mentions Tabluae, one Homeric Bowl with commentary, oi poloi knew the homeric poems in a less complete sense
+ * Michael James Squire, Toying with Homer in Words and Pictures: The Tabulae Iliacae and the Aesthetics of Play
+
 
 ## Online Journals ##
 - Several articles in @Classics Journal Reflecting on the Greek Epic Cycle," (CHS 2010) [CHS](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=3232)
