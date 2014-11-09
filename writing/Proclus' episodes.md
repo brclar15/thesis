@@ -1,1 +1,4 @@
 ## Explanation of episodic divisions within Proclus' Chrestomathy ##
+
+The summaries of the Epic Cycle that are found in Proclus' *Chrestomathy* relate the mythological events that complete the story of the Trojan War. They offer a chronological retelling of the actions not covered in the surviving Homeric epics in a  continuous narrative without the inclusion of alternate mythological traditions. Within his individual summaries, Proclus' seperates the narrative into distnict episodes with the use of strong transitional adverbs or prepositional phrases, such as ἔπειτα or μετὰ ταῦτα. In contrast, he uses common connective particles, such as καὶ and δὲ, to continue the narrative within the boundary of an episode. 
+However, this trend does not carry over to the *Nostoi*
