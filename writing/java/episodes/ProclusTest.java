@@ -1,4 +1,4 @@
-package writing.episodes;
+package episodes;
 
 import org.concordion.integration.junit4.ConcordionRunner;
 import org.junit.runner.RunWith;
@@ -9,6 +9,6 @@ import org.concordion.integration.junit3.ConcordionTestCase;
 public class ProclusTest extends ConcordionTestCase {
     
     public String getPassageBegin(String urn) {
-        return ("Never looked anything up.");
+        return ("Never looked anything up for urn " + urn);
     }
 }
