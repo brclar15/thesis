@@ -8,7 +8,7 @@ import org.concordion.integration.junit3.ConcordionTestCase;
 
 public class NostoiTest extends ConcordionTestCase {
     
-    public String getPassageBegin(String urn) {
+    public String getTokens(String urn) {
         return ("Never looked anything up for urn " + urn);
     }
 }
