@@ -38,7 +38,11 @@ Also, reading Aristotle's *Poetics* could prove to be helpful in identifying wor
 
 #Thesis Writing#
 
-Fairly little thesis writing has been done.....
+Fairly little thesis writing has been done so far.....
+
+I am in the process of writing up a highly detailed explanation of the episodes depicted in the Tabula Capitlona. I'll need to go back and add the citation to the images of the Tabula. 
+
+I have also written an analysis of episodes in Proclus. I will need to flesh out the argument more, and explain the lack of similar divisions in two of the summaries. 
 
 **Moving Forward**
 
