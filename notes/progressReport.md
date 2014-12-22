@@ -2,5 +2,44 @@
 
 #Stages of Editing #
 
-*Proclus Summaries*
-The Proclus Summaries found in the Venetus A have been full edited and validated. 
+**Proclus Summaries**
+
+The Proclus summaries found in the Venetus A have been full edited and validated. 
+
+The summary of the *Cypria* in the Omega 1.12 has been edited and not validated.
+
+**Tabula Capitolina Steele**
+
+73 lines out of 108 have been edited. I need to move the edition over from a text file to an xml document and add markup. 
+
+Additionally, the Tabula images need to be put in an image server in order to make them citeable. 
+
+**John Tzetzes Homeric Allegories**
+
+A retelling of the events that take place before the *Iliad*, closely corresponding to the range of events in the *Cypria*. This retelling runs from line 133 to line 1214. Currently, we have edited through line 321. The next two folios, 9v and 9r, are missing from the manuscript. I need to move my edition over from a text file to an xml document. Mark up for abbreviations and unclear characters have been added, but no personal names or places have been tagged. 
+
+**Moving Forward**
+
+I will most likely finish the Tabula editing within a week or two. The Tzetzes editing will take a great deal of time, but is moving along well. It may not be the highest priority, but does interest me a lot and the training is beneficial for Claude. 
+
+Other texts to edit include the material at the start of Munich 311, consisting of a *Life of Homer* and other extra-Iliadic material. Melody and I can start on that after the break.
+
+BNF 2706 contains a ὑποθέσεις of the *Iliad* that begins with the wedding of Peleus and Thetis. It covers about six folio sides, and the hand looks manageable. Andrew and I could most likely do an edition of this in a session or two. 
+
+
+#Greek Reading#
+
+I have fully worked through the Greek of the Proclus summaries and the Tabula Capitolina. I have gotten into the Epic Cycle portion of Apollodrus' *Library*. 
+
+**Moving Forward**
+
+I still need to read through the rest of Apollodorus, Tzetzes, and any other editions that we add. 
+Also, reading Aristotle's *Poetics* could prove to be helpful in identifying words to use to search through the  Iliadic scholia. 
+
+#Thesis Writing#
+
+Fairly little thesis writing has been done.....
+
+**Moving Forward**
+
+A great deal of introductory material needs to be added, such as background on the Tabulae and on Proclus. 
