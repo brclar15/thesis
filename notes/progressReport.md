@@ -36,6 +36,23 @@ I have fully worked through the Greek of the Proclus summaries and the Tabula Ca
 I still need to read through the rest of Apollodorus, Tzetzes, and any other editions that we add. 
 Also, reading Aristotle's *Poetics* could prove to be helpful in identifying words to use to search through the  Iliadic scholia. 
 
+
+#Analysis#
+
+- determined episodes in Proclus
+	- explained one of the two summaries without episode divisions
+- determined visual episodes in Tabula
+- Created thematic divisions in Apollodrus
+	- need to revise them
+
+**Moving Forward** 
+
+- look at lexical overlap between Proclus, Apollodorus, and Tabula
+- look at episodes by persNames
+- see what the Iliadic scholia say about episode divisions
+
+
+
 #Thesis Writing#
 
 Fairly little thesis writing has been done so far.....
@@ -47,3 +64,5 @@ I have also written an analysis of episodes in Proclus. I will need to flesh out
 **Moving Forward**
 
 A great deal of introductory material needs to be added, such as background on the Tabulae and on Proclus. 
+
+I'll need to add the results from future analyses. 
