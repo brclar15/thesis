@@ -50,8 +50,9 @@ Also, reading Aristotle's *Poetics* could prove to be helpful in identifying wor
 - look at lexical overlap between Proclus, Apollodorus, and Tabula
 - look at episodes by persNames
 - see what the Iliadic scholia say about episode divisions
-
-
+- compare depictions of episodes on the other Tabulae Iliacae
+	- compare them to the action in Proclus and Apollodorus as well
+- compare the text of Proclus and Apollodrus, as well as the testimonia found in West's *Ancient Greek Fragments* and his book
 
 #Thesis Writing#
 
