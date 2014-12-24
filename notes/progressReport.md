@@ -31,6 +31,8 @@ BNF 2706 contains a ὑποθέσεις of the *Iliad* that begins with the wedd
 
 I have fully worked through the Greek of the Proclus summaries and the Tabula Capitolina. I have gotten into the Epic Cycle portion of Apollodrus' *Library*. 
 
+Also, I read Herodotus and Gorgias on Helen (you said it would be fun early in the semester).
+
 **Moving Forward**
 
 I still need to read through the rest of Apollodorus, Tzetzes, and any other editions that we add. 
@@ -67,3 +69,7 @@ I have also written an analysis of episodes in Proclus. I will need to flesh out
 A great deal of introductory material needs to be added, such as background on the Tabulae and on Proclus. 
 
 I'll need to add the results from future analyses. 
+
+#Secondary Sources#
+
+See Bibliography in the Notes folder of this repository. 
