@@ -20,6 +20,8 @@ The episode on the right takes place around the tomb of Achilles, and is spatial
 
 The last episode in the *Iliupersis* is not only spatially separate from the rest of the scenes below the Trojan citadel, but also marked off with a carved line. This marking separates the scenes on the Trojan plain from this scene on the shore. 13. Here Aeneas boards a ship, accompanied by his pilot Misenus and his father carrying the household gods. 
 
+#Aethiopis#
+
 
 _____________________________________
 The upper row of carvings that depict scenes from {++++}Iliad 1{++++} are similarly divided using structural barriers. Additionally, {==characters with their backs==}{>>use 'their' as a plural pronoun<<} turned to another group clearly shows the boundary of an episode. The right-hand side of the table has scenes from Iliad 13-24. Each book is in a separate block, often with the corresponding book letter. When different episodes appear within the depiction of one book, the separation is again generally shown by having non-linked characters stand back to back. Structural divisions are less common, though not entirely absent. In this section, the captions are also employed to show groupings. Names that are close together correspond to characters that appear in the same episode.
