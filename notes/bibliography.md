@@ -5,6 +5,7 @@
 - M. L. West, Greek Epic Fragments: Loeb (Harvard University Press 2003)
 - T. W. Allen, Homeri Opera V OCT (Oxonii: E Typographeo Clarendoniano 1966)
 - Timothy Gantz, Early Greek Myth: A Guide to Literary and Artistic Sources, Vol. 1 & Vol. 2 (Johns Hopkins University Press 1996)
+- Eleanor Dickey, Ancient Greek Scholarship (Oxford University Press 2007)
 - M. L. West, The Epic Cycle: A Commentary on the Lost Troy Epics (Oxford University Press 2013)
     - Prolegomena
       - Trojan Cycle within the Epic Cycle, outline of the Chrestomathy, supports unaltered Proclus summaries not written by Proclus, Proclus & Apollodorus had shared older source, Archaic poems were stand-alone before the Cycle, Original arranger of Cycle?, supports Aristotle's use of Epic Cycle, Phayllos as epitomer, ascriptions, use in art and literature, no direct knowledge after 200 CE
@@ -61,16 +62,18 @@
 
 ## Holy Cross Library ##
 - Jonathan S. Burgess, The tradition of the Trojan War in Homer and the epic cycle (Johns Hopkins University Press 2001) [first third Google Book](http://books.google.com/books?id=bEYXqRmYkx0C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
-  * fully book of interest
-  * looks highly valuable
+    - fully book of interest
+    - looks highly valuable
 - Luca Giuliani, Image and myth : a history of pictorial narration in Greek art (University of Chicago Press 2013)
 - Benjamin Sammons, NARRATIVE DOUBLETS IN THE EPIC CYCLE (American Journal Of Philology Volume: 134 Issue: 4 (2013-12-01) p. 529-556. ISSN: 0002-9475)
 - John Miles Foley, A Companion to Ancient Epic  (Blackwell Pub., 2005.) [Google Books](http://books.google.com/books?id=V4mZmoZhG68C&pg=PA347&lpg=PA347&dq=kuklos+CHS&source=bl&ots=aqfYqEcwep&sig=QJ7VusjEepBvdqgg-uAhRtoaIlA&hl=en&sa=X&ei=AybpU5eIMejisATW0oGICQ&ved=0CCIQ6AEwAQ#v=onepage&q&f=false)
     - pg. 344 - pg. 348 in particular, full book as background
-    - __Ch. 24__ - Supports Proclus, summaries maybe altered for VA, poems from Archaic but fixed in Hellenistic period, nature of the Cycle with Homeric epics as the center, art suggests early importance of the Cycle, difference in nature between the Cycle and Homeric poetry, dependence/knowledge of Homeric poetry
+    - **Ch. 24** - Supports Proclus, summaries maybe altered for VA, poems from Archaic but fixed in Hellenistic period, nature of the Cycle with Homeric epics as the center, art suggests early importance of the Cycle, difference in nature between the Cycle and Homeric poetry, dependence/knowledge of Homeric poetry
 - Ross Scaife, The Kypria and its Early Reception (Classical Antiquity, Volume 14/No. 1/April 1995)
-  * may be in Dinand?
-
+    - may be in Dinand?
+- Rene Nunlist, The Ancient Critic at Work Terms and Concepts of Literary Criticism in Greek Scholia (Cambridge University Press 2009)
+    - several scattered chapters of interest, notably **Plot**, **Allusions**, and **Mythography**
+    - help define what an episode is, will read the other chapters soon 
 
 ## CHS Library ##
 - Christos Tsagalis, The Oral Palimpsest: Exploring Intertextuality in the Homeric Epics (Harvard University Press 2008)
