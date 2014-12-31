@@ -6,7 +6,7 @@
 
 The Proclus summaries found in the Venetus A have been full edited and validated. 
 
-The summary of the *Cypria* in the Omega 1.12 has been edited and not validated.
+The summary of the *Cypria* in the Omega 1.12 has been edited and not validated. (still need to remove the unnecessary diaereses) 
 
 **Tabula Capitolina Steele**
 
@@ -16,7 +16,7 @@ Additionally, the Tabula images need to be put in an image server in order to ma
 
 **John Tzetzes Homeric Allegories**
 
-A retelling of the events that take place before the *Iliad*, closely corresponding to the range of events in the *Cypria*. This retelling runs from line 133 to line 1214. Currently, we have edited through line 321. The next two folios, 9v and 9r, are missing from the manuscript. I need to move my edition over from a text file to an xml document. Mark up for abbreviations and unclear characters have been added, but no personal names or places have been tagged. 
+This work contains a retelling of the events that take place before the *Iliad*, closely corresponding to the range of events in the *Cypria*. This retelling runs from line 133 to line 1214. Currently, we have edited through line 321. The next two folios, 9v and 9r, are missing from the manuscript. I need to move my edition over from a text file to an xml document. Mark up for abbreviations and unclear characters have been added, but no personal names or places have been tagged. 
 
 **Moving Forward**
 
@@ -36,7 +36,7 @@ Also, I read Herodotus and Gorgias on Helen (you said it would be fun early in t
 **Moving Forward**
 
 I still need to read through the rest of Apollodorus, Tzetzes, and any other editions that we add. 
-Also, reading Aristotle's *Poetics* could prove to be helpful in identifying words to use to search through the  Iliadic scholia. 
+Also, reading Aristotle's *Poetics* will hopefully prove to be helpful in identifying words to use to search through the  Iliadic scholia, as you mentioned in our latest meeting. 
 
 
 #Analysis#
@@ -60,13 +60,13 @@ Also, reading Aristotle's *Poetics* could prove to be helpful in identifying wor
 
 Fairly little thesis writing has been done so far.....
 
-I am in the process of writing up a highly detailed explanation of the episodes depicted in the Tabula Capitlona. I'll need to go back and add the citation to the images of the Tabula. 
+I am in the process of writing up a highly detailed explanation of the episodes depicted in the Tabula Capitlona. I'll need to go back and add the citation to the images of the Tabula when those are available. 
 
 I have also written an analysis of episodes in Proclus. I will need to flesh out the argument more, and explain the lack of similar divisions in two of the summaries. 
 
 **Moving Forward**
 
-A great deal of introductory material needs to be added, such as background on the Tabulae and on Proclus. 
+A great deal of introductory material needs to be added, such as background on the Tabulae and on Proclus, the nature of the Epic Cycle, where Apollodrus fits in, ktl. 
 
 I'll need to add the results from future analyses. 
 

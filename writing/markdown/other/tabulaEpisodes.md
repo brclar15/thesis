@@ -1,4 +1,4 @@
-{>>Need to add citations of images for specific observations.<<} 
+{>>Need to add citations of images for specific observations. *Numbers in the text show where to add citations, once the images become citeable*<<} 
 
 #Intro#
 
