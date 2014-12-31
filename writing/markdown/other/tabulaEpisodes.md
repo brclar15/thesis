@@ -22,6 +22,8 @@ The last episode in the *Iliupersis* is not only spatially separate from the res
 
 #Aethiopis#
 
+Below the scenes of the *Iliupersis* are two rows of carvings that depict scenes from the *Aethiopis* and the *Little Iliad*. The seven episodes within the scenes from the *Aethiopis* are mainly separated by architectural structures. 
+
 
 _____________________________________
 The upper row of carvings that depict scenes from {++++}Iliad 1{++++} are similarly divided using structural barriers. Additionally, {==characters with their backs==}{>>use 'their' as a plural pronoun<<} turned to another group clearly shows the boundary of an episode. The right-hand side of the table has scenes from Iliad 13-24. Each book is in a separate block, often with the corresponding book letter. When different episodes appear within the depiction of one book, the separation is again generally shown by having non-linked characters stand back to back. Structural divisions are less common, though not entirely absent. In this section, the captions are also employed to show groupings. Names that are close together correspond to characters that appear in the same episode.
