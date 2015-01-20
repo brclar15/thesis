@@ -24,7 +24,7 @@ I will most likely finish the Tabula editing within a week or two. The Tzetzes e
 
 Other texts to edit include the material at the start of Munich 311, consisting of a *Life of Homer* and other extra-Iliadic material. Melody and I can start on that after the break.
 
-BNF 2706 contains a ὑποθέσεις of the *Iliad* that begins with the wedding of Peleus and Thetis. It covers about six folio sides, and the hand looks manageable. Andrew and I could most likely do an edition of this in a session or two. 
+BNF 2706 contains a ὑπόθεσις of the *Iliad* that begins with the wedding of Peleus and Thetis. It covers about six folio sides, and the hand looks manageable. Andrew and I could most likely do an edition of this in a session or two. 
 
 
 #Greek Reading#
