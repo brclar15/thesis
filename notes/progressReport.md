@@ -6,7 +6,7 @@
 
 The Proclus summaries found in the Venetus A have been full edited and validated. 
 
-The summary of the *Cypria* in the Omega 1.12 has been edited and not validated. (still need to remove the unnecessary diaereses) 
+The summary of the *Cypria* in the Omega 1.12 has been edited and not validated. ~~(still need to remove the unnecessary diaereses)~~ 
 
 **Tabula Capitolina Steele**
 
