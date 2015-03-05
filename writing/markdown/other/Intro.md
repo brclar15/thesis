@@ -16,8 +16,11 @@ The Tabula Capitolina, one of about twenty-two stone tables that date to the ear
 
 John Tzetzes, in the proglegomena to his *Homeric Allegories*, provides a brief "life of Homer", and then moves on to instruct his reader about the events that occurred before the *Iliad*. These events roughly correspond to the events that would have been found in the *Cypria*. 
 
+It has been the aim of this thesis to look at the different retellings of the *Iliad* and the Epic Cycle in conjunction with one another, instead of analyzing one author or genre in isolation. However, the separate works were not mixed together, as scholars often do with Proclus' summaries and the text of Apollodorus. Each work was treated as a single, distinct entity. Furthermore,  primary source documents, such as diplomatic digital editions of manuscripts or inscriptions, form the foundation of this thesis whenever possible. The reason for this approach was to faithfully represent what is found in the original tradition of these works, rather than to correct them in a modern sense that would be foreign to their historical context. This decision and process will be expanded in later chapters. 
 
 
-- talk about work done on these?
+
+
+- talk about work done on these before?
 - talk about why the need to be looked at in context
-- 
+- more on the Homeric Allegories
