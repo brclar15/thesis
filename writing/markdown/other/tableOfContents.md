@@ -14,9 +14,8 @@
 
 #Chapter 7: Conclusion#
 
-
-
 ----------
+
 ##Table of Contents##
 
 #Chapter 1: Introduction#
