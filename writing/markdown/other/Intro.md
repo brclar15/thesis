@@ -22,5 +22,5 @@ It has been the aim of this thesis to look at the different retellings of the *I
 
 
 - talk about work done on these before?
-- talk about why the need to be looked at in context
+- talk about why they need to be looked at in context together
 - more on the Homeric Allegories
