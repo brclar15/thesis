@@ -23,8 +23,3 @@ Additionally, it is important to look at these works together because of the inc
 I have divided these works into episodes based on various criteria. Some texts have episodic divisions based on certain phrases or grammatical constructions, such as Proclus' summaries. When these divisions were not as consistent or evident, I created the divisions myself, following the ancient critic's view of episodes as seen in the Homeric scholia (Nunlist). A detailed explanation of my methods will be given in subsequent chapters. Regarding the Tabula, both visual and textual indicators work to create distinct episodes within the artistic narrative. 
 
 Furthermore, primary source documents, such as diplomatic digital editions of manuscripts or inscriptions, form the foundation of this thesis whenever possible. The reason for this approach was to faithfully represent what is found in the original tradition of these works, rather than to correct them in a modern sense that would be foreign to their historical context. This decision and process will be expanded in later chapters. 
-
-
-
-
-- talk about work done on these before?
