@@ -1,6 +1,7 @@
-##Wedding of Peleus & Thetis##
+#Wedding of Peleus & Thetis#
 
-#Proclus#        3/38 ms lines  50/609     8.2%
+##Proclus##        
+- 3/38 ms lines  50/609     8.2%
 - Will of Zeus and Thetis OR Themis
 - just says that she showed up
 - no apple, but quarrel over beauty
@@ -10,7 +11,8 @@
 - only what Aphorodite offered, nothing else
 
 
-#Apollodorus# 2 / 35 sections   86/ 1583 words 5.4%    
+##Apollodorus##
+- 2 / 35 sections   86/ 1583 words 5.4%    
 - Helen taken by the Will of Zeus
 - OR to praise the demigods[alternate stories] tines/alloi
 - mentions the apple, prize of beauty
@@ -20,7 +22,8 @@
 - names what each goddess gives to Paris
 
 
-#BNF 2706# 12/50 ms lines   113/446        25%
+##BNF 2706##
+- 12/50 ms lines   113/446        25%
 Mt. Pelion in Thessaly
 Explains absence of Eris
 GOLDEN apple, and to the fairest
@@ -30,7 +33,7 @@ Paris = Alexander, son of Priam, shepherd
 names what they'd give, the same stuffs
 
 
-#Tzetzes#
+##Tzetzes##
 - at Pelion
 - Eris wasnt invited and was pissed
 - golden apple, longer quote "λάβε καλὴ τῶν θεαινῶν λάβε καλὴ τὸ μῆλον· σοὶ τῆ καλῆ τῶν θεαινῶν ἔστα τὸ μῆλον δῶρον·"
@@ -60,48 +63,48 @@ names what they'd give, the same stuffs
 ----
 
 
-##Paris Leaves Troy for Sparta##
+#Paris Leaves Troy for Sparta#
 
-#Proclus#
+##Proclus##
 - warnings of Helenus
 - Aphrodite orders Aeneas to sail with him
 - warnings of Kassandra
 - guest of Castor and Pollux
 
-#Hypothesis#
+##Hypothesis##
 - mentions name of ship builder
 - many companions go with him
 
-#Apollodorus#
+##Apollodorus##
 - mentions name of ship builder 
 
-#Tzetzes#
+##Tzetzes##
 - mentions name of ship builder
 
-#Common Elements#
+##Common Elements##
 - Paris went by sea
 
-#Unique Elements#
+##Unique Elements##
 - Proclus is entirely unique
 - rest mention name of ship builder
 
 -------
 
-##Paris at Sparta##
+#Paris at Sparta#
 
-#Proclus#
+##Proclus##
 - arrives at Menelaus'
 - gives Helen gifts at the banquet
 - 2nd Menelaus goes to Crete
 - tells Helen to take care of the guests
 
-#Hypothesis#
+##Hypothesis##
 - entertained as a guest at Menelaus
 - Menelaus goes abroad
 - takes Helen by  a trick and deceit
 - takes a lot of money 
 
-#Apollodorus#
+##Apollodorus##
 - guest of Menelaus for 9 days
 - Menelaus to Crete for the funeral of his maternal grandfather
 - persuades Helen to go off with him
@@ -109,19 +112,19 @@ names what they'd give, the same stuffs
 - takes a lot of money
 - 
 
-#Tzetes#
+##Tzeztes##
 - saw her first in the orchard, 20 years old
 - stresses the beauty of Helen
 - struck by love and takes her away
 - takes a certain amount of money
 
-#Common Elements#
+##Common Elements##
 - arrives at Sparta
 - Menelaus goes to Crete for a funeral
 - takes Helen
 - takes money
 
-#Unique Elements#
+##Unique Elements##
 - ξενος  by all but Tzetzes
 - Apollodoros says 9 days, Tzeztes says Helen is 20 years old
 - carried her off ἁρπάζω in all but Apollodorus, but its there at the beginning
@@ -132,32 +135,32 @@ names what they'd give, the same stuffs
 -------
 
 
-##Menelaus hears the news##
+#Menelaus hears the news#
 
-#Proclus#
+##Proclus##
 - Iris tells Menelaus
 - goes to Agamemnon to go to war
 - goes to Nestor
 - Nestor tells four stories
 
-#Hypothesis#
+##Hypothesis##
 - the rumor of the rape spread through Hella
 - seemed good to Pythia
 
-#Apollodorus#
+##Apollodorus##
 - goes to Agamemnon to go to war
 - reminds the suitors of their oaths
 - warns of wives
 
-#Tzetes#
+##Tzeztes##
 - chases them in vain
 - send letters and embassies
 
 
-#Common Elements#
+##Common Elements##
 - Menelaus finds out and goes to war with the Greeks
 
-#Unique Elements#
+##Unique Elements##
 - Iris and Nestor and his stories are unique to Proclus
 - Pythia and lack of agency is big in Hypothesis
 - oaths and warnings unique to Apollodorus
@@ -166,68 +169,68 @@ names what they'd give, the same stuffs
 -------
 
 
-##Mustering the Greeks##
+#Mustering the Greeks#
 
-#Proclus#
+##Proclus##
 - muster the Greeks
 - Odysseus' pretends to be mad so he doesn't have to go
 - Palamedes makes as if to strike Telemachus
 - Odysseus joins
 
-#Hypothesis#
+##Hypothesis##
 
-#Apollodorus#
+##Apollodorus##
 - many join
 - Odysseus pretends to be mad because he doesn't want to go
 - Palamedes takes Telemachus from Penelope and makes as if to kill him
 - Odysseus joins
 - **shows death of Palamedes here**
 
-#Tzetes#
+##Tzeztes##
 
-#Common Elements#
+##Common Elements##
 
-#Unique Elements#
+##Unique Elements##
 - Proclus, Tzeztes, and Apollodorus talk of many joining
 - Proc and Apollod talk of Odysseus and Telemachus, Apollod added Penelope
 
 -------
 
 
-##Aulis & Kalchas##
+#Aulis & Kalchas#
 
-#Proclus#
+##Proclus##
 - sacrifice at Aulis
 - Prophesy of the snake and sparrows from Kalchas
 
-#Hypothesis#
+##Hypothesis##
 - muster at Aulis
 - Kalchas lead as a prophet
 
-#Apollodorus#
+##Apollodorus##
 - Add Cynyras (in Tzeztes)and oinoitrefoi
 - sacrifice to Apollo on Aulis
 - prophecy of snake to stone and sparrows, 
      - explains the meaning
 
-#Tzetes#
+##Tzeztes##
 - muster at Aulis, gives a number
 - seen 758 and on
  
-#Common Elements#
+##Common Elements##
 - muster at Aulis
 - role of Kalchas
 
-#Unique Elements#
+##Unique Elements##
 - Kalchas seems big here
 - prophecy in Proc and Apollod, Iliad 2, sacrifice to Apollo in Apollod
 
 -------
 
 
-##Telephus and Scyros##
+#Telephus and Scyros#
 
-#Proclus#
+##Proclus##
 - land at Teuthrania and attack thinking its Troy
 - Telephus aids and kills Thersander
 - he is wounded by Achilles
@@ -235,9 +238,9 @@ names what they'd give, the same stuffs
 - Achilles goes to Scyros
 - marries Deidamea daughter of Lycomedes
 
-#Hypothesis#
+##Hypothesis##
 
-#Apollodorus#
+##Apollodorus##
 - gives position of Agamemnon and Achilles age 15
 - land at Teuthrania and attack thinking its Troy
 - Telephus aids and kills Thersander
@@ -246,7 +249,7 @@ names what they'd give, the same stuffs
      - earlier talks of Scyros, Phyrrus, Achilles
      - prophesy of Kalchas
 
-#Tzetes#
+##Tzeztes##
 - appears way later with Telephus
 - Achilles hiding with the women at the loom
      - prophecy of Chiron
@@ -254,10 +257,10 @@ names what they'd give, the same stuffs
 - Achilles shows his honor
 - Odysseus, Nestor, and Palamedes were gathering everyone
 
-#Common Elements#
+##Common Elements##
 
 
-#Unique Elements#
+##Unique Elements##
 - Hypothesis has nothing
 - Proclus and Apollodorus really close
      - just kinda happens in Proclus, not to avoid the war
@@ -266,9 +269,9 @@ names what they'd give, the same stuffs
 -------
 
 
-##Telephus and Iphegenia#
+#Telephus and Iphegenia#
 
-#Proclus#
+##Proclus##
 - at Argos healed by Achilles, leads them to Troy
 - go to Aulis again
 - backstory of bragging about shooting better than Artemis
@@ -277,9 +280,9 @@ names what they'd give, the same stuffs
 - Artemis takes her to Tauros and puts a deer there instead
      - immortal
 
-#Hypothesis#
+##Hypothesis##
 
-#Apollodorus#
+##Apollodorus##
 - at Argos healed by Achilles, leads them to Troy
 - explains prophecy of Apollo and how he was healed
 - helped Kalchas steer
@@ -290,7 +293,7 @@ names what they'd give, the same stuffs
 -  Artemis takes her to Tauros and puts a deer there instead
      - immortal and priestess 
 
-#Tzetes#
+##Tzeztes##
 - stuck at Aulis
 - Agamemnon shot a deer of Artemis
      - Maybe the deer was Iphegenia?
@@ -298,9 +301,9 @@ names what they'd give, the same stuffs
 - Telephus later
      
 
-#Common Elements#
+##Common Elements##
 
-#Unique Elements#
+##Unique Elements##
 - Telephus leads them to Troy after being healed
      - Kalchas helps in Apollodorus
 - Reasons for Artemis' anger vary in all 3
@@ -312,127 +315,191 @@ names what they'd give, the same stuffs
 -------
 
 
-##Philoctetes on Lemnos##
+#Philoctetes on Lemnos#
 
-#Proclus#
+##Proclus##
+- sail to Tenedos
+- Philoctetes bitten by a water snake while feasting
+- left on Lemnos due to the bad smell
+- Achilles is angered by Agamemnon for being invited late
 
-#Hypothesis#
+##Hypothesis##
+- Left on Lemnos after being bitten by a water snake
 
-#Apollodorus#
+##Apollodorus##
+- Tenedos
+- story and Cycnus
+- Death of Tenes
+- sacrificing to Apollo
+- bitten by the water snake
+- left on Lemnos by Odysseus on order of Agamemnon
+- foul smelling wound
+- had bow of Heracles
 
-#Tzetes#
+##Tzeztes##
+- bitten by a snake
+- left on Lemnos
+     - mentioned in his catalog
 
-#Common Elements#
+##Common Elements##
+- Left on Lemnos after being bitten by a  snake
 
-#Unique Elements#
-
-
--------
-
-
-##Paris at Sparta##
-
-#Proclus#
-
-#Hypothesis#
-
-#Apollodorus#
-
-#Tzetes#
-
-#Common Elements#
-
-#Unique Elements#
-
-
--------
-
-
-##Paris at Sparta##
-
-#Proclus#
-
-#Hypothesis#
-
-#Apollodorus#
-
-#Tzetes#
-
-#Common Elements#
-
-#Unique Elements#
+##Unique Elements##
+- Proc and Apollod after sacrificing to Apollon on Tenedos
+- foul smell
+- done by Odysseus on order of Agamemnon in Apollodorus
+- bow of Heracles - prophecy - in Apollodorus
+- Tenes unique to Apollod
+-  Achilles anger unique to Proclus
 
 
 -------
 
 
-##Paris at Sparta##
+#Death of Protesilaos#
 
-#Proclus#
+##Proclus##
+- Hector kills Protesilaos 
 
-#Hypothesis#
+##Hypothesis##
+- Protesilaos is killed first
 
-#Apollodorus#
+##Apollodorus##
+- Protesilaos disembarks first
+- kills many
+- Hector kills him
+- **story about his wife**
 
-#Tzetes#
+##Tzeztes##
+- Protesilaos is killed by Hector
+- talks about his wife?
 
-#Common Elements#
+##Common Elements##
+- Protesilaos dies
 
-#Unique Elements#
+##Unique Elements##
+- some stress the fact that he's first, but not you can tell from sequence
+- story about his wife in Apollod and Tzetzes
+- kills many in Apollod - arestia?
+
+-------
+
+
+#Cynus and Embassy to Troy#
+
+##Proclus##
+- Achilles kills Cycnus
+- send embassies to Troy demanding Helen and the property
+- refused, so begin the siege
+
+##Hypothesis##
+- Greeks take the beach
+- send Odysseus and Menelaus as an embassy
+- plead their case
+- housed in Antenors house
+- Antimachus wants to kill them
+- draw up the ships
+
+##Apollodorus##
+- happens before the first landing at Troy
+- send Odysseus and Menelaus to Troy for Helen and the property
+- refused and want to kill them
+- Antenor saves them
+- Achilles kills Cycnus with a stone
+- siege, draw up the ships
+
+##Tzeztes##
+- Achilles kills Cycnus
+- takes his city
+- earlier, embassy of Odysseus and Menelaus
+- go with letters from Klytemnesrtra
+- Antimachus wants to kill them
+     - urged on by Paris
+- housed in Antenors house
+
+
+##Common Elements##
+- Greeks take the beach
+- send Odysseus and Menelaus as an embassy
+- housed in Antenors house
+- Antimachus wants to kill them
+
+##Unique Elements##
+- Apollod and Proc say its for Helen and the property
+- Cycnus in those two and Tzeztes
+- urged on by Paris in Tzetzes, letters from Klytemnestra
 
 
 -------
 
 
-##Paris at Sparta##
+#Paris at Sparta#
 
-#Proclus#
+##Proclus##
 
-#Hypothesis#
+##Hypothesis##
 
-#Apollodorus#
+##Apollodorus##
 
-#Tzetes#
+##Tzeztes##
 
-#Common Elements#
+##Common Elements##
 
-#Unique Elements#
-
-
--------
-
-
-##Paris at Sparta##
-
-#Proclus#
-
-#Hypothesis#
-
-#Apollodorus#
-
-#Tzetes#
-
-#Common Elements#
-
-#Unique Elements#
+##Unique Elements##
 
 
 -------
 
 
-##Paris at Sparta##
+#Paris at Sparta#
 
-#Proclus#
+##Proclus##
 
-#Hypothesis#
+##Hypothesis##
 
-#Apollodorus#
+##Apollodorus##
 
-#Tzetes#
+##Tzeztes##
 
-#Common Elements#
+##Common Elements##
 
-#Unique Elements#
+##Unique Elements##
+
+
+-------
+
+
+#Paris at Sparta#
+
+##Proclus##
+
+##Hypothesis##
+
+##Apollodorus##
+
+##Tzeztes##
+
+##Common Elements##
+
+##Unique Elements##
+
+
+-------
+
+
+#Paris at Sparta#
+
+##Proclus##
+
+##Hypothesis##
+
+##Apollodorus##
+
+##Tzeztes##
+
+##Common Elements##
+
+##Unique Elements##
 
 
 -------
