@@ -1,6 +1,6 @@
 ##Wedding of Peleus & Thetis##
 
-#Proclus#       3/38 ms lines  50/609     8.2%
+#Proclus#        3/38 ms lines  50/609     8.2%
 - Will of Zeus and Thetis OR Themis
 - just says that she showed up
 - no apple, but quarrel over beauty
@@ -56,3 +56,386 @@ names what they'd give, the same stuffs
 - All gifts - Apollodorus, BNF, Tzetzes
 - Why need Paris - BNF
 - whats written on apple - BNF Tzetzes
+
+----
+
+
+##Paris Leaves Troy for Sparta##
+
+#Proclus#
+- warnings of Helenus
+- Aphrodite orders Aeneas to sail with him
+- warnings of Kassandra
+- guest of Castor and Pollux
+
+#Hypothesis#
+- mentions name of ship builder
+- many companions go with him
+
+#Apollodorus#
+- mentions name of ship builder 
+
+#Tzetzes#
+- mentions name of ship builder
+
+#Common Elements#
+- Paris went by sea
+
+#Unique Elements#
+- Proclus is entirely unique
+- rest mention name of ship builder
+
+-------
+
+##Paris at Sparta##
+
+#Proclus#
+- arrives at Menelaus'
+- gives Helen gifts at the banquet
+- 2nd Menelaus goes to Crete
+- tells Helen to take care of the guests
+
+#Hypothesis#
+- entertained as a guest at Menelaus
+- Menelaus goes abroad
+- takes Helen by  a trick and deceit
+- takes a lot of money 
+
+#Apollodorus#
+- guest of Menelaus for 9 days
+- Menelaus to Crete for the funeral of his maternal grandfather
+- persuades Helen to go off with him
+- leaves behind 9 year old Hermione
+- takes a lot of money
+- 
+
+#Tzetes#
+- saw her first in the orchard, 20 years old
+- stresses the beauty of Helen
+- struck by love and takes her away
+- takes a certain amount of money
+
+#Common Elements#
+- arrives at Sparta
+- Menelaus goes to Crete for a funeral
+- takes Helen
+- takes money
+
+#Unique Elements#
+- ξενος  by all but Tzetzes
+- Apollodoros says 9 days, Tzeztes says Helen is 20 years old
+- carried her off ἁρπάζω in all but Apollodorus, but its there at the beginning
+- Tzetzes stresses beauty
+- Apollodoros mentions Hermione
+- Tzeztes mentions Aethra 
+
+-------
+
+
+##Menelaus hears the news##
+
+#Proclus#
+- Iris tells Menelaus
+- goes to Agamemnon to go to war
+- goes to Nestor
+- Nestor tells four stories
+
+#Hypothesis#
+- the rumor of the rape spread through Hella
+- seemed good to Pythia
+
+#Apollodorus#
+- goes to Agamemnon to go to war
+- reminds the suitors of their oaths
+- warns of wives
+
+#Tzetes#
+- chases them in vain
+- send letters and embassies
+
+
+#Common Elements#
+- Menelaus finds out and goes to war with the Greeks
+
+#Unique Elements#
+- Iris and Nestor and his stories are unique to Proclus
+- Pythia and lack of agency is big in Hypothesis
+- oaths and warnings unique to Apollodorus
+- Tzeztes' chase and letters and embassies unique, 
+
+-------
+
+
+##Mustering the Greeks##
+
+#Proclus#
+- muster the Greeks
+- Odysseus' pretends to be mad so he doesn't have to go
+- Palamedes makes as if to strike Telemachus
+- Odysseus joins
+
+#Hypothesis#
+
+#Apollodorus#
+- many join
+- Odysseus pretends to be mad because he doesn't want to go
+- Palamedes takes Telemachus from Penelope and makes as if to kill him
+- Odysseus joins
+- **shows death of Palamedes here**
+
+#Tzetes#
+
+#Common Elements#
+
+#Unique Elements#
+- Proclus, Tzeztes, and Apollodorus talk of many joining
+- Proc and Apollod talk of Odysseus and Telemachus, Apollod added Penelope
+
+-------
+
+
+##Aulis & Kalchas##
+
+#Proclus#
+- sacrifice at Aulis
+- Prophesy of the snake and sparrows from Kalchas
+
+#Hypothesis#
+- muster at Aulis
+- Kalchas lead as a prophet
+
+#Apollodorus#
+- Add Cynyras (in Tzeztes)and oinoitrefoi
+- sacrifice to Apollo on Aulis
+- prophecy of snake to stone and sparrows, 
+     - explains the meaning
+
+#Tzetes#
+- muster at Aulis, gives a number
+- seen 758 and on
+ 
+#Common Elements#
+- muster at Aulis
+- role of Kalchas
+
+#Unique Elements#
+- Kalchas seems big here
+- prophecy in Proc and Apollod, Iliad 2, sacrifice to Apollo in Apollod
+
+-------
+
+
+##Telephus and Scyros##
+
+#Proclus#
+- land at Teuthrania and attack thinking its Troy
+- Telephus aids and kills Thersander
+- he is wounded by Achilles
+- bad storm blows them away
+- Achilles goes to Scyros
+- marries Deidamea daughter of Lycomedes
+
+#Hypothesis#
+
+#Apollodorus#
+- gives position of Agamemnon and Achilles age 15
+- land at Teuthrania and attack thinking its Troy
+- Telephus aids and kills Thersander
+- he is wounded by Achilles
+- bad storm blows them away
+     - earlier talks of Scyros, Phyrrus, Achilles
+     - prophesy of Kalchas
+
+#Tzetes#
+- appears way later with Telephus
+- Achilles hiding with the women at the loom
+     - prophecy of Chiron
+- Odysseus throws a sword at it
+- Achilles shows his honor
+- Odysseus, Nestor, and Palamedes were gathering everyone
+
+#Common Elements#
+
+
+#Unique Elements#
+- Hypothesis has nothing
+- Proclus and Apollodorus really close
+     - just kinda happens in Proclus, not to avoid the war
+- Odysseus always discovers him, but differently
+
+-------
+
+
+##Telephus and Iphegenia#
+
+#Proclus#
+- at Argos healed by Achilles, leads them to Troy
+- go to Aulis again
+- backstory of bragging about shooting better than Artemis
+- She sends a storm
+- Kalchas says need to sacrifice Iphigenia, fakes to marry Achilles
+- Artemis takes her to Tauros and puts a deer there instead
+     - immortal
+
+#Hypothesis#
+
+#Apollodorus#
+- at Argos healed by Achilles, leads them to Troy
+- explains prophecy of Apollo and how he was healed
+- helped Kalchas steer
+- Kalchas says need to sacrifice most beautiful daughter
+- because of bragging and the golden sheep
+- Odysseus and Talthybus go to Klytemnestra
+- fakes to marry Achilles
+-  Artemis takes her to Tauros and puts a deer there instead
+     - immortal and priestess 
+
+#Tzetes#
+- stuck at Aulis
+- Agamemnon shot a deer of Artemis
+     - Maybe the deer was Iphegenia?
+     - became a priestess of Artemis
+- Telephus later
+     
+
+#Common Elements#
+
+#Unique Elements#
+- Telephus leads them to Troy after being healed
+     - Kalchas helps in Apollodorus
+- Reasons for Artemis' anger vary in all 3
+- Odysseus and Talthybus go to Klytemnestra in Apollodorus
+- fakes to marry Achilles in Proc and Apollod
+- always becomes a priestesss, often immortal
+- substation of the deer
+
+-------
+
+
+##Philoctetes on Lemnos##
+
+#Proclus#
+
+#Hypothesis#
+
+#Apollodorus#
+
+#Tzetes#
+
+#Common Elements#
+
+#Unique Elements#
+
+
+-------
+
+
+##Paris at Sparta##
+
+#Proclus#
+
+#Hypothesis#
+
+#Apollodorus#
+
+#Tzetes#
+
+#Common Elements#
+
+#Unique Elements#
+
+
+-------
+
+
+##Paris at Sparta##
+
+#Proclus#
+
+#Hypothesis#
+
+#Apollodorus#
+
+#Tzetes#
+
+#Common Elements#
+
+#Unique Elements#
+
+
+-------
+
+
+##Paris at Sparta##
+
+#Proclus#
+
+#Hypothesis#
+
+#Apollodorus#
+
+#Tzetes#
+
+#Common Elements#
+
+#Unique Elements#
+
+
+-------
+
+
+##Paris at Sparta##
+
+#Proclus#
+
+#Hypothesis#
+
+#Apollodorus#
+
+#Tzetes#
+
+#Common Elements#
+
+#Unique Elements#
+
+
+-------
+
+
+##Paris at Sparta##
+
+#Proclus#
+
+#Hypothesis#
+
+#Apollodorus#
+
+#Tzetes#
+
+#Common Elements#
+
+#Unique Elements#
+
+
+-------
+
+
+##Paris at Sparta##
+
+#Proclus#
+
+#Hypothesis#
+
+#Apollodorus#
+
+#Tzetes#
+
+#Common Elements#
+
+#Unique Elements#
+
+
+-------
+
+
+
