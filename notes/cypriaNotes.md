@@ -97,6 +97,7 @@ names what they'd give, the same stuffs
 - gives Helen gifts at the banquet
 - 2nd Menelaus goes to Crete
 - tells Helen to take care of the guests
+- Aphrodite brings them together
 
 ##Hypothesis##
 - entertained as a guest at Menelaus
