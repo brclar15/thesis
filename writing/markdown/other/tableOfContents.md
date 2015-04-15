@@ -2,9 +2,9 @@
 
 ##Chapter 1: Introduction##
 
-##Chapter 2: The Nature of the Epic Cycle##
+##Chapter 2: The Sources of the Epic Cycle##
 
-##Chapter 3: Editorial Practices of a Diplomatic Digital Edition##
+##Chapter 3: Editorial Practices##
 
 ##Chapter 4: Divisions of Episodes Across the Various Retellings##
 
