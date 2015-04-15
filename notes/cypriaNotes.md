@@ -1,6 +1,6 @@
 #Wedding of Peleus & Thetis#
 
-##Proclus##        
+##Proclus##
 - 3/38 ms lines  50/609     8.2%
 - Will of Zeus and Thetis OR Themis
 - just says that she showed up
