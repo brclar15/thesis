@@ -12,7 +12,7 @@
 
 ##Chapter 6: Retellings of the *Iliad*: Tabula Capitolina, Apollodorus' *Library*##
 
-##Chapter 7: Post-Iliadic Retellings: Hypothesis BNF 2706, Tabula Capitolina, Proclus' Summaries, John Tzetzes *Homeric Allegories*##
+##Chapter 7: Post-Iliadic Retellings: Apollodorus' *Library*, Proclus' Summaries, Tabula Capitolina##
 
 ##Chapter 8: Catalogs in Retellings##
 
