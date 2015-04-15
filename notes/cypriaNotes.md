@@ -110,7 +110,6 @@ names what they'd give, the same stuffs
 - persuades Helen to go off with him
 - leaves behind 9 year old Hermione
 - takes a lot of money
-- 
 
 ##Tzeztes##
 - saw her first in the orchard, 20 years old
