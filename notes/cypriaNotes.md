@@ -8,7 +8,7 @@
 - Does not give location of the wedding, but gives Ida for Paris
 - names the goddesses
 - Hermes was sent on Zeus' order
-- only what Aphorodite offered, nothing else
+- only what Aphrodite offered, nothing else
 
 
 ##Apollodorus##
