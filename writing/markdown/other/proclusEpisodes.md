@@ -1,8 +1,6 @@
 ## Explanation of episodic divisions within Proclus' Chrestomathy ##
 
-One of the most essential sources of what is known about the Epic Cycle comes from the summaries of these epics found in Proclus' *Chrestomathy*. There is little evidence with which to identify which Proclus is meant here. While he previously had been thought to be the fifth century Neoplatonist, scholars today reject that notion. The most one can deduce is that he may be from the second century(Monoro article, West). Regardless of the difficulties in identifying him, the summaries are invaluable to studying the Epic Cycle. They preserve the title of the epic, a proposed author, the number of books, as well as the sequence that each epic held in the Cycle. 
 
-These summaries provide a chronological retelling of the actions not covered in the surviving Homeric epics. Proclus does not include alternate mythological traditions, but rather writes in a continuous narrative.  He covers the *Cypria*, *Aithiopis*, *Iliasparva*,*Iliupersis*, and the *Telegonia*. He omits the *Iliad* and the *Odyssey*, due to their popularity and prevalence at his time. There was no need to retells these two epics, as they were readily accessible and well known. 
 
 Within his individual summaries, Proclus' separates the narrative into distinct episodes with the use of strong transitional adverbs or prepositional phrases, such as ἔπειτα or μετὰ ταῦτα. In contrast, he uses common connective particles, such as καὶ and δὲ, to continue the narrative within the boundary of an episode. 
   
