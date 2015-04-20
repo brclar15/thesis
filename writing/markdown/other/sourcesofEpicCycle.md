@@ -24,6 +24,8 @@ However, certain passages that appear before this retelling section in the moder
 
 John Tzetzes, the twelfth century Byzantine scholar wrote a number of works both in prose and in poetry. The Homeric epics, as well as the wider tradition of Greek mythology were favorite topics of his. In addition to his fairly well known and studied *Antehomerica*, *Homerica*, and *Posthomerica*, he also wrote a work on *Homeric Allegories*. This book was dedicated to the Bavarian princess who would become Empress Irene upon marrying the Byzantine emperor Manuel I Comnenus. Tzetzes intended his work to serve as an introduction to Greek culture for the new foreign ruler[cite allegories book]. 
 
+The prolegomena to the *Homeric Allegories* runs for 1214 lines in political verse. Tzetzes dedicates just over a thousand of these lines to a retelling of the events that precede the *Iliad*. After providing a brief life of Homer, he instructs his reader to learn ὑποθισιν τῆς ὀλης Ἰ̈λιάδος. 
+
 ##Tabula Capitolina##
 
 ##Hypothesis##
