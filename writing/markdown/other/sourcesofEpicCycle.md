@@ -22,6 +22,8 @@ However, certain passages that appear before this retelling section in the moder
 
 ##John Tzetzes##
 
+John Tzetzes, the twelfth century Byzantine scholar wrote a number of works both in prose and in poetry. The Homeric epics, as well as the wider tradition of Greek mythology were favorite topics of his. In addition to his fairly well known and studied *Antehomerica*, *Homerica*, and *Posthomerica*, he also wrote a work on *Homeric Allegories*. This book was dedicated to the Bavarian princess who would become Empress Irene upon marrying the Byzantine emperor Manuel I Comnenus. Tzetzes intended his work to serve as an introduction to Greek culture for the new foreign ruler[cite allegories book]. 
+
 ##Tabula Capitolina##
 
 ##Hypothesis##
