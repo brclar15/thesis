@@ -13,20 +13,31 @@
 
 ----------
 
-#Outline of Retellings Sources#
+# Sources for retellings #
+
 
 - Proclus [Summaries](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA006RN-0007) from the Venetus A
 - John Tzetzes [*Homeric Allegories*](http://gallica.bnf.fr/ark:/12148/btv1b520005627/f22.zoom.r=.langFR)
 - [Hypothesis](http://gallica.bnf.fr/ark:/12148/btv1b52500995q/f9.zoom.r=grec%202706.langFR) of events that precede the *Iliad*
 - Apollodorus' *Library*
+
+Annotated reliefs:
+
 - [Tabula Capitolina](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_1.jpg)
 
 ----------
 #Aims & Goals#
 
-- look at these retellings together, while preserving their independence
+- look at these retellings in relation to each other, while preserving their integrity
 - examine how each breaks their work into episodes
 - compare these episodes across the various retellings
+
+
+----
+
+# Methods #
+
+
 - work in a digital environment 
 
 ----------
