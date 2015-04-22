@@ -6,8 +6,8 @@
 
 #Overview of the Epic Cycle#
 
-- Six epics that complete the story of the Trojan War
-- Orally composed, codified 7th/6th century BC, lost by about AD 200 
+- Traditional stories that complete the story of the Trojan War
+- later codified in six epìcs 
 - What survives are quotations, testimonia, and  **retellings**
 
 
@@ -31,14 +31,16 @@ Annotated reliefs:
 - look at these retellings in relation to each other, while preserving their integrity
 - examine how each breaks their work into episodes
 - compare these episodes across the various retellings
-
+- see a historial reuse of tradition stories
+     - 	this intersection puts each retelling into a more complete context
 
 ----
 
 # Methods #
 
-
 - work in a digital environment 
+- Diplomatic digital editions
+     - How are these retellings presented in their original form?
 
 ----------
 
@@ -102,7 +104,7 @@ Essential Elements
 Essential Elements
 
 - Patroclus dons Achilles' armor and uses his horses
-- Hector slays Patroclus
+- Patroclus flees Hector
 
 
 ----------
@@ -132,7 +134,6 @@ Found at the start of the *Aithiopis*
 Essential Elements
 
 - Penthesilea arrives at Troy
--  she fights bravely
 -  Achilles slays her
 -  Achilles kills Thersites for mocking his love of her
 
@@ -144,7 +145,8 @@ Extra Elements
 - Daughter of Ares in both text sources
      - Proclus gives her race
 - Apollodorus explains her presence
-- She kills Machaon in Apollodorus
+- She fights bravely in both text sources
+     - She kills Machaon in Apollodorus
 - The killing of Thersites causes a στάσις in Proclus
 
 
