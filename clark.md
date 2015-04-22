@@ -50,30 +50,35 @@ Annotated reliefs:
 #What is an episode?#
 
 - recognizable unit of narrative action
-- divided linguistically, pictorially, or thematically
-	- Characters, geography, or a major event
+- divided 
+    - linguistically: e.g., μετὰ δὲ ταῦτα in Proclus
+    - pictorially:  e.g., orientation of figures
+    - thematically:  characters, geography, or a major event
 
 
 ----------
 
 
-#Three comparisons#
+## Three comparisons#
 
 - One from  before the *Iliad* Material
 - One from the *Iliad*
 - One from after the *Iliad* material
 
 ----------
-#Events Before the *Iliad*#
+## Events Before the *Iliad* ##
 
-##The Judgment of Paris##
+
+
+###The Judgment of Paris##
 
 Found at the start of the *Cypria*
 
 - Proclus, Apollodorus, Hypothesis, John Tzetzes
 
 ----------
-Essential Elements 
+
+## Essential Elements 
 
 - Wedding of Peleus and Thetis
 - Eris creates a quarrel over beauty
@@ -83,21 +88,28 @@ Essential Elements
 - Aphrodite wins by promising Helen 
 
 ----------
-#Extra Elements#
+
+## Extra Elements ##
+
+
 
 - all sources except Proclus mention the wedding's location
-- Proclus and Apollodorus cite the Will of Zeus
-	- *Iliad* 1.5   Διὸς δ᾽ ἐτελείετο βουλή,
-- hypothesis and Tzeztes explain Eris' involvement
-- all except Proclus mention the apple, golden in hypothesis and Tzetzes
+- Proclus: **Ζεὺς βουλεύεται**, Apollodorus: **κατὰ βούλησιν Διός**  (cf. *Iliad* 1.5   **Διὸς δ᾽ ἐτελείετο βουλή**)
+- Hypothesis and Tzeztes explain Eris' involvement
+- all except Proclus mention the apple, golden in Hypothesis and Tzetzes
 - all except Proclus provide a full list of the gifts offered to Paris
 - Hypothesis explains why Paris was needed
 
 
 ----------
-#From the *Iliad*#
 
-##Book 16 - Patroclus' Aristeia##
+## From the *Iliad* ##
+
+
+
+### Book 16 - Patroclus' *aristeia* ###
+
+
 
 - *Iliad*, Apollodorus, Tabula Capitolina text and [images](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_10.jpg)
 
@@ -122,9 +134,13 @@ Extra Elements
 
 ----------
 
-#Events After the *Iliad*#
+## Events After the *Iliad* ##
 
-##Penthesilea##
+
+
+### Penthesilea ###
+
+
 
 Found at the start of the *Aithiopis*
 
@@ -133,7 +149,8 @@ Found at the start of the *Aithiopis*
 
 
 ----------
-Essential Elements
+
+## Essential Elements
 
 - Penthesilea arrives at Troy
 -  Achilles slays her
@@ -142,7 +159,8 @@ Essential Elements
 
 
 ----------
-Extra Elements
+
+## Extra Elements
 
 - Daughter of Ares in both text sources
      - Proclus gives her race
