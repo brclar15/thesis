@@ -1,19 +1,21 @@
-##Retellings of the *Iliad* and the Epic Cycle
+#Retellings of the *Iliad* and the Epic Cycle
 
-*By Brian Clark*
+Brian Clark, '15
 
 ----------
 
-#Overview of the Epic Cycle#
+## Overview of the Epic Cycle ##
+
+
 
 - Traditional stories that complete the story of the Trojan War
-- later codified in six epìcs 
+- Later codified in six epics 
 - What survives are quotations, testimonia, and  **retellings**
 
 
 ----------
 
-# Sources for retellings #
+## Sources for retellings
 
 
 - Proclus [Summaries](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA006RN-0007) from the Venetus A
