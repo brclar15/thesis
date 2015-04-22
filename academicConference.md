@@ -6,28 +6,41 @@
 
 #Overview of the Epic Cycle#
 
-- Six epics that complete the story of the Trojan War
-- Orally composed, codified 7th/6th century BC, lost by about AD 200 
+- Traditional stories that complete the story of the Trojan War
+- later codified in six epìcs 
 - What survives are quotations, testimonia, and  **retellings**
 
 
 ----------
 
-#Outline of Retellings Sources#
+# Sources for retellings #
+
 
 - Proclus [Summaries](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA006RN-0007) from the Venetus A
 - John Tzetzes [*Homeric Allegories*](http://gallica.bnf.fr/ark:/12148/btv1b520005627/f22.zoom.r=.langFR)
 - [Hypothesis](http://gallica.bnf.fr/ark:/12148/btv1b52500995q/f9.zoom.r=grec%202706.langFR) of events that precede the *Iliad*
 - Apollodorus' *Library*
+
+Annotated reliefs:
+
 - [Tabula Capitolina](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_1.jpg)
 
 ----------
 #Aims & Goals#
 
-- look at these retellings together, while preserving their independence
+- look at these retellings in relation to each other, while preserving their integrity
 - examine how each breaks their work into episodes
 - compare these episodes across the various retellings
+- see a historial reuse of tradition stories
+     - 	this intersection puts each retelling into a more complete context
+
+----
+
+# Methods #
+
 - work in a digital environment 
+- Diplomatic digital editions
+     - How are these retellings presented in their original form?
 
 ----------
 
@@ -91,7 +104,7 @@ Essential Elements
 Essential Elements
 
 - Patroclus dons Achilles' armor and uses his horses
-- Hector slays Patroclus
+- Patroclus flees Hector
 
 
 ----------
@@ -121,7 +134,6 @@ Found at the start of the *Aithiopis*
 Essential Elements
 
 - Penthesilea arrives at Troy
--  she fights bravely
 -  Achilles slays her
 -  Achilles kills Thersites for mocking his love of her
 
@@ -133,7 +145,8 @@ Extra Elements
 - Daughter of Ares in both text sources
      - Proclus gives her race
 - Apollodorus explains her presence
-- She kills Machaon in Apollodorus
+- She fights bravely in both text sources
+     - She kills Machaon in Apollodorus
 - The killing of Thersites causes a στάσις in Proclus
 
 
