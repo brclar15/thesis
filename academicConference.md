@@ -157,6 +157,7 @@ Extra Elements
 - what can we learn from looking at the retellings in terms of episodes
      - vital episodes vs expanded episodes
      - added vs omitted episodes / characters
+     - simple elements that tell a wider story
 - Preferences of the different retellings
      - due to their genre, length, and goal
 
