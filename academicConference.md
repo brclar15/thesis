@@ -135,7 +135,7 @@ Essential Elements
 
 - Penthesilea arrives at Troy
 -  Achilles slays her
--  Achilles kills Thersites for mocking his love of her
+-  Achilles kills Thersites 
 
 
 
@@ -147,6 +147,7 @@ Extra Elements
 - Apollodorus explains her presence
 - She fights bravely in both text sources
      - She kills Machaon in Apollodorus
+- Both text sources explain why Achilles kills Thersites
 - The killing of Thersites causes a στάσις in Proclus
 
 
