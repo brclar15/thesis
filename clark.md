@@ -33,7 +33,7 @@ Annotated reliefs:
 - look at these retellings in relation to each other, while preserving their integrity
 - examine how each breaks their work into episodes
 - compare these episodes across the various retellings
-- see a historial reuse of tradition stories
+- see a historical reuse of tradition stories
      - 	this intersection puts each retelling into a more complete context
 
 ----
@@ -41,7 +41,7 @@ Annotated reliefs:
 # Methods #
 
 - work in a digital environment 
-- Diplomatic digital editions
+- diplomatic digital editions
      - How are these retellings presented in their original form?
 
 ----------
