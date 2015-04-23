@@ -28,21 +28,26 @@ Annotated reliefs:
 - [Tabula Capitolina](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_1.jpg)
 
 ----------
-#Aims & Goals#
+# Aims & Goals#
 
-- look at these retellings in relation to each other, while preserving their integrity
-- examine how each breaks their work into episodes
-- compare these episodes across the various retellings
-- see a historical reuse of tradition stories
-     - 	this intersection puts each retelling into a more complete context
+
+
+- see use of traditional stories in different genres across time
+- understand better how retellings can evoke meaning through:
+    - selection of multiforms
+    - compressed reference to identifying features
+
+
 
 ----
 
 # Methods #
 
-- work in a digital environment 
-- diplomatic digital editions
-     - How are these retellings presented in their original form?
+
+- look at these retellings in relation to each other, while preserving their integrity
+- examine how each breaks their work into episodes
+- compare these episodes across the various retellings
+- diplomatic digital editions to represent form of retelling
 
 ----------
 
@@ -172,15 +177,24 @@ Found at the start of the *Aithiopis*
 
 
 ----------
-#Conclusions#
+# Summary: treatment of episodes #
 
-- what can we learn from looking at the retellings in terms of episodes
-     - vital episodes vs expanded episodes
-     - added vs omitted episodes / characters
-     - simple elements that tell a wider story
-- Preferences of the different retellings
-     - due to their genre, length, and goal
 
+
+- vital episodes vs expanded episodes
+- added vs omitted episodes / characters
+-  simple elements that tell a wider story
+- preferences of the different retellings:  genre, length, and goal
+
+---
+
+
+# Conclusions #
+
+REPHRASE THIS:
+need to understand multiformity and intertextuality to read highly compressed allusions and retellings (like scholia)
 
 ----------
+
+
 ##Thank you!##
