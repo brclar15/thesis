@@ -25,7 +25,7 @@ Brian Clark, '15
 
 Annotated reliefs:
 
-- [Tabula Capitolina](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_1.jpg)
+- [Tabula Capitolina](http://beta.hpcc.uh.edu/tomcat/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:capimgs.Capitoline_1)
 
 ----------
 # Aims & Goals#
@@ -149,7 +149,7 @@ Extra Elements
 
 Found at the start of the *Aithiopis*
 
-- Proclus, Apollodorus, Tabula Capitolina [images](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_7.jpg)
+- Proclus, Apollodorus, Tabula Capitolina [images](http://beta.hpcc.uh.edu/tomcat/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:capimgs.Capitoline_7@0.006,0.6947,0.313,0.148)
 
 
 
