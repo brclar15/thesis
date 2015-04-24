@@ -116,7 +116,7 @@ Found at the start of the *Cypria*
 
 
 
-- *Iliad*, Apollodorus, Tabula Capitolina text and [images](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_10.jpg)
+- *Iliad*, Apollodorus, Tabula Capitolina text and [images](http://beta.hpcc.uh.edu/tomcat/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:capimgs.Capitoline_10@0.0801,0.1943,0.8799,0.1733)
 
 
 ----------
