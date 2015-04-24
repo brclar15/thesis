@@ -75,7 +75,7 @@ Annotated reliefs:
 
 
 
-###The Judgment of Paris##
+###The Judgment of Paris###
 
 Found at the start of the *Cypria*
 
