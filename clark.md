@@ -66,7 +66,7 @@ Annotated reliefs:
 
 ## Three comparisons#
 
-- One from  before the *Iliad* Material
+- One from  before the *Iliad* material
 - One from the *Iliad*
 - One from after the *Iliad* material
 
