@@ -190,6 +190,7 @@ Found at the start of the *Aithiopis*
 
 - retellings present complex multiformity and intertextuality
 - vital to understanding highly compressed reuse of traditional material
+     - various retellings in conjunction
      - Homeric scholia
 
 
