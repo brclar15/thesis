@@ -57,7 +57,7 @@ Annotated reliefs:
 - recognizable unit of narrative action
 - divided 
     - linguistically: e.g., μετὰ δὲ ταῦτα in Proclus
-    - pictorially:  e.g., orientation of figures
+    - pictorially:  e.g., orientation of figures and architecture
     - thematically: e.g., characters, geography, or a major event
 
 
@@ -66,7 +66,7 @@ Annotated reliefs:
 
 ## Three comparisons#
 
-- One from  before the *Iliad* material
+- One from  before the *Iliad* Material
 - One from the *Iliad*
 - One from after the *Iliad* material
 
@@ -75,7 +75,7 @@ Annotated reliefs:
 
 
 
-###The Judgment of Paris###
+###The Judgment of Paris##
 
 Found at the start of the *Cypria*
 
@@ -97,12 +97,10 @@ Found at the start of the *Cypria*
 ## Extra Elements ##
 
 
-
-- all sources except Proclus mention the wedding's location
 - Proclus: **Ζεὺς βουλεύεται**, Apollodorus: **κατὰ βούλησιν Διός**  (cf. *Iliad* 1.5   **Διὸς δ᾽ ἐτελείετο βουλή**)
-- Hypothesis and Tzeztes explain Eris' involvement
-- all except Proclus mention the apple, golden in Hypothesis and Tzetzes
+- all except Proclus mention the apple, which is golden in Hypothesis and Tzetzes
 - all except Proclus provide a full list of the gifts offered to Paris
+- Hypothesis and Tzeztes explain Eris' motivation
 - Hypothesis explains why Paris was needed
 
 
@@ -130,11 +128,11 @@ Essential Elements
 Extra Elements
 
 - In all three texts, Achilles sees the ship of Protesilaos burning
-- All texts have the Trojans flee Patroclus, Apollodorus explicitly says that they fear he is Achilles
 - The death of Sarpedon features in the text sources
 - Apollodorus and the *Iliad* mentions that Euphorobos wounds Patroclus
+- Apollo plays a significant role in the *Iliad*
 - The Tabula text specifies that Hector takes the armor 
-- The Tabula images is the only source in which Diomedes and Phoenix visit Achilles
+- The Tabula is the only source in which Diomedes and Phoenix visit Achilles
 
 
 ----------
@@ -168,7 +166,6 @@ Found at the start of the *Aithiopis*
 ## Extra Elements
 
 - Daughter of Ares in both text sources
-     - Proclus gives her race
 - Apollodorus explains her presence
 - She fights bravely in both text sources
      - She kills Machaon in Apollodorus
@@ -194,6 +191,15 @@ Found at the start of the *Aithiopis*
 - retellings present complex multiformity and intertextuality
 - vital to understanding highly compressed reuse of traditional material
      - Homeric scholia
+
+
+----------
+
+##Acknowledgments##
+
+Professor Smith
+
+- Nik Churik, Rebecca Finnigan, Drew Virtue, Melody Wauke, and Claude Hanley
 
 
 ----------
