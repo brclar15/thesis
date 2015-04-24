@@ -32,7 +32,7 @@ Annotated reliefs:
 
 
 
-- see use of traditional stories in different genres across time
+- see the use of traditional stories in different genres across time
 - understand better how retellings can evoke meaning through:
     - selection of multiforms
     - compressed reference to identifying features
@@ -47,7 +47,7 @@ Annotated reliefs:
 - look at these retellings in relation to each other, while preserving their integrity
 - examine how each breaks their work into episodes
 - compare these episodes across the various retellings
-- diplomatic digital editions to represent form of retelling
+- diplomatic digital editions to represent the original form of each retelling
 
 ----------
 
@@ -58,7 +58,7 @@ Annotated reliefs:
 - divided 
     - linguistically: e.g., μετὰ δὲ ταῦτα in Proclus
     - pictorially:  e.g., orientation of figures
-    - thematically:  characters, geography, or a major event
+    - thematically: e.g., characters, geography, or a major event
 
 
 ----------
