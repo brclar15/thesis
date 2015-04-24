@@ -182,7 +182,7 @@ Found at the start of the *Aithiopis*
 
 
 - vital episodes vs expanded episodes
-- added vs omitted episodes / characters
+     - added vs omitted episodes / characters
 -  simple elements that tell a wider story
 - preferences of the different retellings:  genre, length, and goal
 
