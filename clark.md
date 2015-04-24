@@ -191,8 +191,10 @@ Found at the start of the *Aithiopis*
 
 # Conclusions #
 
-REPHRASE THIS:
-need to understand multiformity and intertextuality to read highly compressed allusions and retellings (like scholia)
+- retellings present complex multiformity and intertextuality
+- vital to understanding highly compressed reuse of traditional material
+     - Homeric scholia
+
 
 ----------
 
