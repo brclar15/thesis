@@ -129,7 +129,7 @@ Extra Elements
 
 - In all three texts, Achilles sees the ship of Protesilaos burning
 - The death of Sarpedon features in the text sources
-- Apollodorus and the *Iliad* mentions that Euphorobos wounds Patroclus
+- Apollodorus and the *Iliad* mention that Euphorobos wounds Patroclus
 - Apollo plays a significant role in the *Iliad*
 - The Tabula text specifies that Hector takes the armor 
 - The Tabula is the only source in which Diomedes and Phoenix visit Achilles
