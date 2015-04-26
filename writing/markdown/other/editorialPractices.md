@@ -1,2 +1,8 @@
 ##Chapter 3: Editorial Practices##
 
+
+Throughout this thesis, I have worked in a digital environment. The task of breaking a retelling into episodes and then analyzing these respective episodes across other various retellings is not in itself inherently digital. However, this work method does allow for more precise comparisons to be made. Both my textual editions as well as certain data sets were all done in a digital format in order to make them long-lasting and easily accessible. 
+
+Wherever possible, I have created diplomatic digital editions for my sources by working with digital open access photography. A diplomatic edition is one that seeks to represent faithfully every mark that appears on a page. The purpose of this is to provide an authentic reading of a specific manuscript. In this type of edition, words that seem to be scribal errors are transcribed exactly as they appear, although there is a way to indicate that the editor believes there to be a problem with what the scribe has written. Modern corrections and rules of orthography are not imposed onto the text, thus preserving its integrity and original from. 
+
+Additionally, a diplomatic edition that is done digitally further enhances the usefulness of the edition and improves how faithfully it represents the original. First, it offers a reader of the edition the option of several different viewing options, as opposed to the a 
