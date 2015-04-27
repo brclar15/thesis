@@ -9,8 +9,14 @@ The Homeric epics are complex narratives that not only do not follow a linear pr
 **moved over from proclusEpisodes.md**
 
 Within his individual summaries, Proclus' separates the narrative into distinct episodes with the use of strong transitional adverbs or prepositional phrases, such as ἔπειτα or μετὰ ταῦτα. In contrast, he uses common connective particles, such as καὶ and δὲ, to continue the narrative within the boundary of an episode. 
+
+- need to cite examples
+- need to talk about why these things mark episodes
+- need to see if there are any problems with them 
   
-However, this trend does not carry over to the *Nostoi* or the *Iliupersis*. This difference cannot be due to the alleged size of these particular poems, if one is to follow the numbers given by Proclus. They are both the same length or longer than other poems where the episode divisions are present. A possible explanation for the lack of division within the *Nostoi* could be that this particular narrative was initially arranged into episodes. If the poem told the complete story of a hero or group of heroes, then the change in characters in the summary would be enough to signal a change of episode. Yet, even if this conjecture is true, it does not explain the lack of divisions in the *Ilioupersis*.
+However, this trend does not carry over to the *Nostoi* or the *Iliupersis*. This difference cannot be due to the alleged size of these particular poems, if one is to follow the numbers given by Proclus. While book number does not necessarily corralate to the length of the work as a whole, both poems have number of books or more than the others in which episode divisions are present. A possible explanation for the lack of division within the *Nostoi* could be that this particular narrative was initially arranged into episodes. If the poem told the complete story of a hero or group of heroes, then the change in characters in the summary would be enough to signal a change of episode. Yet, even if this conjecture is true, it does not explain the lack of divisions in the *Ilioupersis*.
+
+**moved over from elsewhere**
 
 The transitions within Proclus' summary of the Nostoi are not as evident as they are in the summaries of the other poems. Only two (three?) temporal transitions are used in
 where we read μεθ᾽ οὓς and, in εἶθ. An explanation for the missing episode distinctions is that the poem would have naturally fallen into separate episodes as the poet switched between narrating each different group of heroes' journeys home. Many of the Greek kings traveled home from Troy not only with their men, but also with other kings. Because each of these groups took separate routes, the reader finds transitions when Proclus changes his focus. Beyond simply looking for a new character in the nominative case, a reference to a group of ships or to "the ones around" a particular hero marks transitions. This can be seen in
