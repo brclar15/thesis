@@ -38,5 +38,7 @@ The row about the central portion of the tabula depicts scenes from *Iliad 1*. 2
 #Overall Layout#
 
 _____________________________________
+**probably not using this stuff**
+
 The upper row of carvings that depict scenes from {++++}Iliad 1{++++} are similarly divided using structural barriers. Additionally, {==characters with their backs==}{>>use 'their' as a plural pronoun<<} turned to another group clearly shows the boundary of an episode. The right-hand side of the table has scenes from Iliad 13-24. Each book is in a separate block, often with the corresponding book letter. When different episodes appear within the depiction of one book, the separation is again generally shown by having non-linked characters stand back to back. Structural divisions are less common, though not entirely absent. In this section, the captions are also employed to show groupings. Names that are close together correspond to characters that appear in the same episode.
 The depictions of the Aethiopis and the Little Iliad are found along the bottom left edge of the table. These carvings make use of all three episode markers. Characters within the same episode are named, often {++with vertical labels}{--in a vertical manner--}. 
