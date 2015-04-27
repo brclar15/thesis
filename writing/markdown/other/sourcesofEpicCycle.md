@@ -37,3 +37,4 @@ The Tabula Capitolina (1A) is one of twenty-two stone tablets that depict scenes
 
 The scholarship on the Tabulae Iliacae has been divided on the subject of their importance. Previously, they were thought to be low class carvings for adult education due to some inconsistencies between the stone and the *Iliad* [cite Horsfall]. However, more recent scholars have shown that these highly complex and allusive documents are greatly worthy of interest[Squire and Petrain]. NEED MORE HERE. My edition of the Tabula Capitolina was done from open access photography taken by Rebecca Finnigan and Nikolas Churik. Additionally, Drew Virtue digitally altered a number of these photographs, in order to make the texts clearer. The drawing of this tabula done by Jahn was also invaluable to the study of this document[cite Jahn].
 
+**NOT done, need to add more scholarship**
