@@ -2,6 +2,8 @@
 
 **NOT ready to be read yet**
 
+The Homeric epics are complex narratives that not only do not follow a linear progression, but are also full of digression. Since the other poems of the Epic Cycle grew out of the same oral traditional nature, it follows logically that they too were as complicated. Although this argument is often used to cite the failings of the Cyclic poems, Aristotle 
+
 ##Proclus##
 
 **moved over from proclusEpisodes.md**
@@ -9,6 +11,26 @@
 Within his individual summaries, Proclus' separates the narrative into distinct episodes with the use of strong transitional adverbs or prepositional phrases, such as ἔπειτα or μετὰ ταῦτα. In contrast, he uses common connective particles, such as καὶ and δὲ, to continue the narrative within the boundary of an episode. 
   
 However, this trend does not carry over to the *Nostoi* or the *Iliupersis*. This difference cannot be due to the alleged size of these particular poems, if one is to follow the numbers given by Proclus. They are both the same length or longer than other poems where the episode divisions are present. A possible explanation for the lack of division within the *Nostoi* could be that this particular narrative was initially arranged into episodes. If the poem told the complete story of a hero or group of heroes, then the change in characters in the summary would be enough to signal a change of episode. Yet, even if this conjecture is true, it does not explain the lack of divisions in the *Ilioupersis*.
+
+The transitions within Proclus' summary of the Nostoi are not as evident as they are in the summaries of the other poems. Only two (three?) temporal transitions are used in
+where we read μεθ᾽ οὓς and, in εἶθ. An explanation for the missing episode distinctions is that the poem would have naturally fallen into separate episodes as the poet switched between narrating each different group of heroes' journeys home. Many of the Greek kings traveled home from Troy not only with their men, but also with other kings. Because each of these groups took separate routes, the reader finds transitions when Proclus changes his focus. Beyond simply looking for a new character in the nominative case, a reference to a group of ships or to "the ones around" a particular hero marks transitions. This can be seen in
+
+(<code
+concordion:set="#urn">urn:cts:greekLit:tlg4036.tlg023:Nostoi.5.6-5.8</code>), where we read 
+<strong
+concordion:assertEquals="getTokens(#urn)">μετα πέντε. νεῶν </strong>,
+(<code
+concordion:set="#urn">urn:cts:greekLit:tlg4036.tlg023:Nostoi.6.1-6.8</code>), where we read 
+<strong
+concordion:assertEquals="getTokens(#urn)">οἱ δὲ περὶ Κάλχαντ καὶ Λεοντέα καὶ Πολυποίτην</strong>,
+and (<code
+concordion:set="#urn">urn:cts:greekLit:tlg4036.tlg023:Nostoi.7.1-7.5</code>), where we read 
+<strong
+concordion:assertEquals="getTokens(#urn)">τὸν δὲ περὶ τὸν Ἀγαμέμνονα</strong>.
+
+These separate journeys took place largely simultaneously, which is why Proclus does not rely on temporal transitions. Rather, he models his summary on the poetic narrative, which most likely would have treated an entire *nostos* before moving on to the next.
+	
+
 
 
 - how he creates episodes
