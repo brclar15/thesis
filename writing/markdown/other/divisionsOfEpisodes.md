@@ -1,5 +1,7 @@
 #Chapter 4: Divisions of Episodes Across the Various Retellings#
 
+**NOT ready to be read yet**
+
 ##Proclus##
 
 **moved over from proclusEpisodes.md**
