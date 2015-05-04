@@ -30,18 +30,26 @@ Because the episode dividers are largely logical and present in the summary of P
 
 The retelling of Apollodorus in the *Library* does not posses any linguistic dividers like those of Proclus. His text is a continuous narrative that does not mark the boundaries of any epic or books within a particular epic. Only once in his retelling of the Epic Cycle does he cite one of his sources by name [Apollodorus Epitome 5.14]. The fact that this retelling falls in the epitome, rather than the main work itself, makes it even more difficult to look for divisions of episodes based on linguistic features. The epitome is comprised of two different sources: the Epitoma Vaticana known as Vaticanus 950 and the Sabbaitic fragments known as Sabbaiticus-Hierosolymitanus 366 [Diller 304 - 305 and Frazer's sigla]. The Epitoma Vaticana "consist[s] of disconnected passages beginning with ὅτι [Diller 304]." These ὅτι passages do help identifying episodic divisions, but are too infrequent to be relied upon heavily[count number in EC retelling].
 
-In order to divide this work into episodes, I have followed a polythetic approach whereby significant characters, events, and geography work to mark a particular episode. Following the definition of episodes as recognizable units, my divisions are what I believe are logical sections of the text. A new episode starts when the main character in focus changes, a new geographic location is reached, or an essential action occurs. 
+In order to divide this work into episodes, I have followed a polythetic approach whereby significant characters, events, and geography work to mark a particular episode. Following the definition of episodes as recognizable units, my divisions are what I believe to be logical, cohesive sections of the text. A new episode starts when the main character in focus changes, a new geographic location is reached, or an essential action occurs. It is important not to truncate an episode too early, especially in the text of Apollodorus. He often provides expanded genealogies and backstories, which must be taken together with the main action of the episode. For example, the backstory explaining Penthesilea's involvement in the Trojan war is an element that Apollodorus chose to include within her broader episode [Apollodorus Epitome 5.1-5.2]. It is not its own episode because it does not fit logically with the narrative sequence of the retelling. 
+
+Occasionally, Apollodorus includes variant traditions, or multiforms, in his text. I have taken these together with the main action of the episode, as they do not constitute a new episode themselves, but rather a variation on a preexisting episode. The capture of Helen provides an example of this practice of including multiforms, when in addition to have Helen leave with Paris to Troy, Apollodorus also acknowledges that "some say that, according to the will of Zeus, Helen was conveyed secretly by Hermes to Egypt and was given to Proteus, the king of the Egyptians, to guard, and Paris arrived at Troy with a false likeness of Helen having been made out of clouds[Apollodorus Epitome 3.5]". Because Apollodorus does not assert that this event occurred, it does not form its own episode, but rather is a variant element of Paris' actions at Sparta. 
+
+I have largely relied on a combination of these practices while also employing the divisions offered by Proclus to divide the text of the *Library*. When Apollodorus includes an major event that Proclus omits, this action more often than not became an episode that was unique to Apollodorus, or simply not included by Proclus.
 
 ##John Tzetzes##
 
 
 ##Hypothesis##
 
+The hypothesis of the *Iliad* is the briefest retelling that I have worked with in this research. Although dwarfed by Apollodorus, it too is a continuous, although choppy narrative. With the exception of the Judgement of Paris, which spans about a quarter of the hypothesis, many episodes consist of merely a sentence or two. This brevity sheds great light on what the essential elements to a given episode are, due to the highly contracted nature of this text. In this text, it is largely the personal names that denote different episodes, as the geographic movement is not always state. The closing comments that link the hypothesis to the start of the *Iliad* have been ignored, as they are not narrative action, but rather an explanation of the text. 
 
 ##Tabula Capitolina##
 
-**a LOT of this needs to be reworked into the analysis of the episodes**
-**moved over from tabulaEpisodes.md**
+
+
+
+
+
 
 ###Iliupersis###
 
