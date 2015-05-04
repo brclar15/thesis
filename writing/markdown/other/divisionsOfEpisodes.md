@@ -10,8 +10,6 @@ Certain retellings have evident episodic divisions present in text, but this is 
 
 ##Proclus##
 
-**moved over from proclusEpisodes.md**
-
 Within the summaries of the individual epics, Proclus' separates his narrative into distinct episodes with the use of strong transitional adverbs or prepositional phrases, such as ἔπειτα or μετὰ δὲ ταῦτα. In contrast, he uses common connective particles, such as καὶ and δὲ, to continue the narrative within the boundary of an episode. 
 
 The narrative action that appears within the units that are formed by  these phrases support the idea of taking these . For example, the *Cypria* summary offers examples that  form the desired narrative units. For example,  characters that do not appear frequently in this epic, such as Iphigenia, Philoctetes, and Protesilaos, form the center piece of distinct episode [*Cypria* 15-17]. In accordance with this polytetic approach, the geographic change further supports these units as separate episodes. Iphigenia is sacrificed at Aulis, Philoctetes is abandoned on Lemnos, and Protesilaos fall at the beach of Troy. Additionally, more expanded aspect of an particular action can be contained within an episode. Proclus has placed the recruitment of Odysseus within the episode of the rallying of the Greek commanders [*Cypria* 10]. His involvement is merely one aspect of this wider narrative unit. 
@@ -24,37 +22,15 @@ However, this not all of Proclus' summaries have these episodic dividers. They a
 
 A possible explanation for the missing episode distinctions in the *Nostoi* is that the poem would have naturally fallen into separate episodes as the poet switched between narrating each different group of heroes' journeys home. Many of the Greek kings traveled home from Troy with not only their own men, but also with other kings. Because each of these groups took separate routes, the reader finds transitions when Proclus changes his focus. Beyond simply looking for a new character in the nominative case, a reference to a group of ships or to "the ones around" a particular hero marks transitions. If the poem told the complete story of the journey home of a hero or group of heroes, then the change in characters in the summary would be enough to signal a change of episode. Following this logic, the summary of the *Nostoi* is divided into six episodes that deal directly with journeys home, as well two additional episodes at the beginning and end with extra information. 
 
-Yet, even if this conjecture is true, it does not explain the lack of divisions in the *Ilioupersis*. 
+This theory does not apply to the *Ilioupersis*, which also lacks these linguistic divisions. Proclus appears to place the dispute over the Horse, Sinon's trick, and the bulk of the Greek assault on Troy into one episode. After this, he lists the fate of a small number of Trojans in the next episode, and then concludes the summary with the departure of the Greeks [following the ms tradition, NOT West's edition]. It is possible that the assault on Troy and the ensuing carnage was covered in rapid succession in the original poem. One can imagine the Greek forces flooding through the city, and the poet panning through the destruction and covering the essential deaths in his own order. If these deaths or captures were happening simultaneously, but in different parts of the citadel, they could be viewed as separate elements of the single episode made up on the Greek assault.  However, events such as the Trojan deliberation over what to do with the Horse and Sinon's ploy to enter Troy seem to belong to independent episodes. The shift in focus, from the Trojans to the Greek camp strongly suggests that these actions ought to be taken separately from the death and destruction at Troy, although Proclus does not separate them. This seems to be the biggest flaw in Proclus' episodic divisions. 
 
-**moved over from elsewhere**
-
-
-This can be seen in
-
-(<code
-concordion:set="#urn">urn:cts:greekLit:tlg4036.tlg023:Nostoi.5.6-5.8</code>), where we read 
-<strong
-concordion:assertEquals="getTokens(#urn)">μετα πέντε. νεῶν </strong>,
-(<code
-concordion:set="#urn">urn:cts:greekLit:tlg4036.tlg023:Nostoi.6.1-6.8</code>), where we read 
-<strong
-concordion:assertEquals="getTokens(#urn)">οἱ δὲ περὶ Κάλχαντ καὶ Λεοντέα καὶ Πολυποίτην</strong>,
-and (<code
-concordion:set="#urn">urn:cts:greekLit:tlg4036.tlg023:Nostoi.7.1-7.5</code>), where we read 
-<strong
-concordion:assertEquals="getTokens(#urn)">τὸν δὲ περὶ τὸν Ἀγαμέμνονα</strong>.
-
-These separate journeys took place largely simultaneously, which is why Proclus does not rely on temporal transitions. Rather, he models his summary on the poetic narrative, which most likely would have treated an entire *nostos* before moving on to the next.
-	
-
-
-
-- how he creates episodes
-- where they fall and what for him defines them
-- where they do not occur, and possibly why they're not there
+Because the episode dividers are largely logical and present in the summary of Proclus, I have taken them as the main source with which to compare the other retellings against. When these distinctions are not available, like in the *Ilioupersis*, I have followed a similar method of dividing episodes that I have used in the other retellings.  
 
 ##Apollodorus##
 
+The retelling of Apollodorus in the *Library* does not posses any linguistic dividers like those of Proclus. His text is a continuous narrative that does not mark the boundaries of any epic or books within a particular epic. Only once in his retelling of the Epic Cycle does he cite one of his sources by name [Apollodorus Epitome 5.14]. The fact that this retelling falls in the epitome, rather than the main work itself, makes it even more difficult to look for divisions of episodes based on linguistic features. The epitome is comprised of two different sources: the Epitoma Vaticana known as Vaticanus 950 and the Sabbaitic fragments known as Sabbaiticus-Hierosolymitanus 366 [Diller 304 - 305 and Frazer's sigla]. The Epitoma Vaticana "consist[s] of disconnected passages beginning with ὅτι [Diller 304]." These ὅτι passages do help identifying episodic divisions, but are too infrequent to be relied upon heavily[count number in EC retelling].
+
+In order to divide this work into episodes, I have followed a polythetic approach whereby significant characters, events, and geography work to mark a particular episode. Following the definition of episodes as recognizable units, my divisions are what I believe are logical sections of the text. A new episode starts when the main character in focus changes, a new geographic location is reached, or an essential action occurs. 
 
 ##John Tzetzes##
 
