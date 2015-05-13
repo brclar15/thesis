@@ -38,7 +38,7 @@ The last scene on the Tabula does not fall within the narrative bounds of Proclu
 
 ###Ilioupersis###
 
-The *Ilioupersis* would have narrated the events from the Trojans receiving the Horse until the Greek forces prepare to sail home, after pillaging and razing the city. The retelling of the Tabula Capitolina stops at end of this epic. Proclus' summary is nearly devoid of episodic divisions, as mentioned in Chapter 4. Here I have used the same method that I outlined for dividing the texts of Apollodorus and John Tzetzes into episodes. 
+The *Ilioupersis* would have narrated the events from the Trojans receiving the Horse until the Greek forces prepare to sail home, after pillaging and razing the city. The retelling of the Tabula Capitolina stops at end of this epic. Proclus' summary is nearly devoid of episodic divisions, as mentioned in Chapter 4. Here I have used the same method that I outlined for dividing the texts of Apollodorus and John Tzetzes into episodes. Both Proclus and Apollodorus quickly move through the fate of several main characters. I have grouped them before and after the Greeks burn the city.
 
 Being skeptical of the horse
 
