@@ -1,6 +1,5 @@
 #Chapter 4: Divisions of Episodes Across the Various Retellings#
 
-**NOT ready to be read yet**
 
 The Homeric epics are complex narratives that not only do not follow a linear progression, but are also full of digressions. Since the other poems of the Epic Cycle grew out of the same oral tradition, it follows logically that they too would have been as complicated. Aristotle acknowledges the complexity of these epics by stating that their plots have produced many tragedies  [Poetics 1459a37]. Although this argument is often used to cite the failings of the Cyclic poems and to differentiate them from the Homeric epics, Aristotle's view in a sense supports the need to divide these epics into smaller units, such as episodes. 
 
@@ -37,6 +36,8 @@ Occasionally, Apollodorus includes variant traditions, or multiforms, in his tex
 I have largely relied on a combination of these practices while also employing the divisions offered by Proclus to divide the text of the *Library*. When Apollodorus includes an major event that Proclus omits, this action more often than not became an episode that was unique to Apollodorus, or simply not included by Proclus.
 
 ##John Tzetzes##
+
+The episodic division in the *Homeric Allegories* are present in two distinct ways. First, he does have several stock phrases, similar to those of Proclus, that he uses to divide up his narrative. As previously mentioned, this work was meant to introduce Empress Irene to Greek culture, and therefore Tzetzes often employs imperative statements aimed at the reader. The imperative is usually μάνθανε, to introduce the new topic, and often paired with the participial μεμάθηκας, to recap what the reader has just learned. He makes frequent use of this when he introduces Homer, separating his race, his time period, and his death[Tzetzes Proleg. 50, 86, and 114]. Tzetzes transitions from his discussion on Homer to the events that precede the *Iliad* with the lines επεὶ λοιπὸν μεμάθηκας καὶ θάνατον Ὁμήρου, μάνθανε τὴν ὑποθισϊν τῆς ὀλης Ἰ̈λϊάδος[Tzetzes Proleg. 134-135]. He provides what seems to be a popular version of the Judgment of Paris, and then directly instructs the reader again that ταϋτα φασϊν οἱ ἀμαθῶς λαλοῦντες καὶ νηπίως. τὸ δ’ ἀληθὲς νῧν μάνθανε καλῶς ἠκρϊβωμένως.[Proleg. 170-171], where he gives the a lengthy back-stroy on the birth and early life of Paris. From there, he details the wedding of Peleus and Thetis and how it lead to the Judgment, before  he switches to a discussion on the apple of Eris with the use of another imperative[Proleg. 287]. These imperative episodic dividers appear occasionally through the rest of the prolegomena, but are not present for every episode change. The notably appear before and after the various catalogs that Tzetzes provides[Proleg. 505, 659, 744, and 786]. Where his narrative lacks episodic divisions, I have placed them myself in the same way that I have dealt with the text of Apollodorus.
 
 - **still working on this**
 - largely the same as Apollodorus
