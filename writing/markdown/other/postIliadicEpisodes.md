@@ -33,7 +33,20 @@ The next element for Proclus is can be treated as a different episode in the Tab
 
 The episode of the Trojan Horse is fairly expanded in all three retellings. The Tabula dedicates a large space to the Trojan procession that leads the Horse to the city[urn:cite:hmt:capimgs.Capitoline_8@0.413,0.46,0.365,0.1747]. The scene is accompanied by the caption Τρωαδες και Φρυγες αναγουσι τον ιππον. Both Proclus and Apollodorus agree that only τοὺς ἀρίστους enter the horse, and Apollodorus adds that they are led by Odysseus. The latter says that fifty men entered the Horse, or ὡς δὲ ὁ τὴν μικρὰν γράψας Ἰλιάδα φησί, τρισχιλίους[Apollod. Epit. 5.14]. This explicit reference to the a specific work is not uncommon in Apollodorus, but it is the only time that it happens within his retelling of the Epic Cycle. Both text sources say that the Greeks set fire to their tents, and the rest of them retreat to Tenedos. Proclus adds that the Trojans had to break the top of the gate in order for the Horse to enter, clearly a bad omen that went unseen by many. Apollodorus also adds that the Greeks put an inscription on the Horse that reads τῆς εἰς οἶκον ἀνακομιδῆς Ἕλληνες Ἀθηνᾷ χαριστήριον[Apollod. Epit. 5.15]. While this episode according to Proclus is fairly laid out, it is typical of Apollodorus to add flairs such as this. In addition to burning the tents and hiding behind Tenedos, Apollodorus mentions that the Greek Sinon is left behind to let the rest of the army into the city. He is shown being taken into the city by Priam in the Tabula[urn:cite:hmt:capimgs.Capitoline_8@0.768,0.4587,0.113,0.1787], which clearly is meant to evoke his role in the treachery done by the Greeks in order to enter the city. He is absent from Proclus' summary.
 
-The last scene on the Tabula does not fall within the narrative bounds of Proclus' summary of the *Little Iliad*. Here we see Kassandra being restrained by another Trojan in front of the Scaean gate. No doubt she, in her prophetic wisdom, is protesting the admittance of the Horse into the city. It is notable that the artist of the Tabula chose to include this episode at the end of this epic, as Proclus brings his summary of the *Ilioupersis* with this episode. 
+The last scene on the Tabula does not fall within the narrative bounds of Proclus' summary of the *Little Iliad*. Here we see Kassandra being restrained by another Trojan in front of the Scaean gate. No doubt she, in her prophetic wisdom, is protesting the admittance of the Horse into the city. It is notable that the artist of the Tabula chose to include this episode at the end of this epic, as Proclus brings his summary of the *Ilioupersis* with an episode where the Trojans debate about what to do with the Horse. However, he does not explicitly name Kassandra. 
 
 
 ###Ilioupersis###
+
+The *Ilioupersis* would have narrated the events from the Trojans receiving the Horse until the Greek forces prepare to sail home, after pillaging and razing the city. The retelling of the Tabula Capitolina stops at end of this epic. Proclus' summary is nearly devoid of episodic divisions, as mentioned in Chapter 4. Here I have used the same method that I outlined for dividing the texts of Apollodorus and John Tzetzes into episodes. 
+
+Being skeptical of the horse
+
+Leaving the horse and entering the city
+
+Those saved and not saved
+
+Kassandra and Ajax
+
+Final deaths and allotments
+

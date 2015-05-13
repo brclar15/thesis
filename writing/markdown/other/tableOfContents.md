@@ -10,10 +10,6 @@
 
 ##Chapter 5: Retellings of the Events Before the *Iliad* : Hypothesis BNF 2706, Proclus' Summaries, Apollodorus' *Library*, John Tzetzes *Homeric Allegories*##
 
-##Chapter 6: Retellings of the *Iliad*: Tabula Capitolina, Apollodorus' *Library*##
+##Chapter 6: Retellings of the Events After the *Iliad*: Apollodorus' *Library*, Proclus' Summaries, Tabula Capitolina##
 
-##Chapter 7: Retellings of the Events After the *Iliad*: Apollodorus' *Library*, Proclus' Summaries, Tabula Capitolina##
-
-##Chapter 8: Catalogs in Retellings##
-
-##Chapter 9: Conclusion##
+##Chapter 7: Conclusion##

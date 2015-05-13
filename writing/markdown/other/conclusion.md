@@ -14,4 +14,3 @@
 - the hypothesis largely does not cover one time stops on the way to Troy
 - the Tabula does not show action outside of Troy
 - The Tabula often  just shows the deaths
-- 
