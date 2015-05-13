@@ -5,8 +5,6 @@
 - Eleanor Dickey, Ancient Greek Scholarship (Oxford University Press 2007)
 - M. L. West, The Epic Cycle: A Commentary on the Lost Troy Epics (Oxford University Press 2013)
 
-## Online Books ##
-
 - D. B. Monro, On the Fragment of Proclus' Abstract of the Epic Cycle (The Journal of Hellenic Studies Vol 4 1883)   [complete Google Book](http://books.google.com/books?id=nzcGAAAAQAAJ&pg=PA315&lpg=PA315&dq=athenaeus+epic+cycle&source=bl&ots=vhg2SRbyi0&sig=dhD8u4b1ff96FJXe0CAiBJkH0ng&hl=en&sa=X&ei=YR7pU4uTF-LMsQSdrYHYDA&ved=0CCwQ6AEwAjgK#v=onepage&q&f=false)
 - Robert McQueen Grant, Heresy and Criticism: The Search for Authenticity in Early Christian Literature (Westminster John Knox Press 1993) [Google Books](http://books.google.com/books?id=nShsVh0F_V8C&pg=PA17&lpg=PA17&dq=athenaeus+epic+cycle&source=bl&ots=sZYXzTwOb6&sig=MSymqL80LkwAnhQ4GM-xvE0Chwg&hl=en&sa=X&ei=YR7pU4uTF-LMsQSdrYHYDA&ved=0CDsQ6AEwBTgK#v=onepage&q&f=true)
 - Barbara Graziosi, Inventing Homer: The Early Reception of Epic (Cambridge University Press 2002) [incomplete Google Book](http://books.google.com/books?id=vCHsh9QWzLYC&pg=PA188&lpg=PA188&dq=Athenaeus+cypria&source=bl&ots=nzw0htD-aj&sig=_xsPAaO9H94mw07wFn0p_usjFrM&hl=en&sa=X&ei=oCvpU8KzBsXMsQTC4IGQDA&ved=0CCkQ6AEwAg#v=onepage&q&f=false)
@@ -42,6 +40,8 @@
 - Christos Tsagalis, The Oral Palimpsest: Exploring Intertextuality in the Homeric Epics (Harvard University Press 2008)
 - Albert Severyns, *Le cycle épique dans l'école d'Aristarque* (Liège 1929) available in [snippet view from Google books](http://books.google.com/books?id=NBYrAAAAIAAJ&source=gbs_ViewAPI)
 
-## Other Reference Links ##
+- Monique van Rossum-Steenbeck, Greek Reader's Digests?: Studies on a selection of subliterary papyri (Mnemosyne 1998)
+- Malcom Davies, The Epic Cycle (Bristol Classical Press 1989)
+- Donald Charles Goertz, Proclus and Tzetzes (The University of Texas 1964)
 
 - [KYKLOS CLASSICS CHS] (http://chs.harvard.edu/cgi-bin/WebObjects/workbench.woa/wa/pageR?tn=ArticleWrapper&bdc=12&mn=5188)
