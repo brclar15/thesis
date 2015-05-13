@@ -58,6 +58,7 @@
 - John Miles Foley and Chao Gejin, Challenges in Comparative Oral Epic (Oral Tradition 2012) [article](http://journal.oraltradition.org/files/articles/27ii/08_27.2.pdf)
 - Steve Reece, Homeric Studies (Oral Tradition 2003) [article](http://journal.oraltradition.org/files/articles/18i/10i_reece.pdf)
 - Giampiero Scafoglio, Two Fragments of the Epic Cycle (GRBS 2006) [article](https://web.duke.edu/classics/grbs/FTexts/46/Scafoglio.pdf)
+- Sophia Xenophontos, A living portrait ofCato Self-fashioning and the Classical Past in John Tzetzes Chiliads (Estudios bizantinos 2 2014)[artile](https://www.academia.edu/9866595/A_living_portrait_of_Cato_Self-fashioning_and_the_Classical_Past_in_John_Tzetzes_Chiliads_Estudios_Bizantinos_2_2014_187-204)
 
 
 ## Holy Cross Library ##
