@@ -1,10 +1,9 @@
 - Apollodorus, The Library, Vol. 1 & 2: Loeb (Harvard University Press 1921)
 - M. L. West, Greek Epic Fragments: Loeb (Harvard University Press 2003)
 - T. W. Allen, Homeri Opera V OCT (Oxonii: E Typographeo Clarendoniano 1966)
-- Timothy Gantz, Early Greek Myth: A Guide to Literary and Artistic Sources, Vol. 1 & Vol. 2 (Johns Hopkins University Press 1996)
+- Timothy Gantz, Early Greek Myth: A Guide to Literary and Artistic Sources, Vol. 1 & 2 (Johns Hopkins University Press 1996)
 - Eleanor Dickey, Ancient Greek Scholarship (Oxford University Press 2007)
 - M. L. West, The Epic Cycle: A Commentary on the Lost Troy Epics (Oxford University Press 2013)
-
 - D. B. Monro, On the Fragment of Proclus' Abstract of the Epic Cycle (The Journal of Hellenic Studies Vol 4 1883)   
 - Robert McQueen Grant, Heresy and Criticism: The Search for Authenticity in Early Christian Literature (Westminster John Knox Press 1993) 
 - Barbara Graziosi, Inventing Homer: The Early Reception of Epic (Cambridge University Press 2002) 
@@ -16,8 +15,6 @@
 - Susan Rotroff, Hellenistic Pottery: Athenian and Imported Moldmade Bowls (The American School of Classics Studies at Athens 1982)
     - pg. 55 - pg. 73
 - David Petrain, Homer in Stone: The Tabulae Iliacae in their Roman context (Cambridge University Press 2014)
-
-
 - Several articles in @Classics Journal Reflecting on the Greek Epic Cycle," (CHS 2010) [CHS](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=3232)
 - Fee-Alexandra Haase, An Intertextual Reading of a Myth: Between Poetry, Myth, Cult Topography, and History (AJCN 2007?) 
 - Tzveta Manolova, Outside the Homeric Lens: The Epic Cycle and the Trojan War Tradition (McGill Classics 2010) 
