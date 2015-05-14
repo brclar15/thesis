@@ -1,11 +1,14 @@
-- Proclus does not show the heroes in a negative light
-     - more passive action
-          - being sent to sacrifice Iphigeneia,
-- Apollodorus shows the negative side of heroes
-     - has more active action
-- Apollodorus favors the inclusion of prophecies
-- Apollodorus expands for back-stories and genealogies 
-- Apollodorus provides alternate traditions
+##Chapter 7: Conclusion##
+
+Retellings of Ancient Greek epics offer a wealthy of multiformity and intertextuality. The take the original epic, and divide it into smaller, workable units. These units, or episodes, are often based around major characters, geography, or significant events. A comparison across various retellings reveals the way different authors and even genres expand and contract these episodes. Certain sources can add smaller elements to an episode, or gloss over others. However, there are essential elements that must always be present in order to make a given episode recognizable to the reader. Even highly contracted episodes can evoke great meaning for a traditional audience. The retellings that I have analyzed are varied in their length, genre, and even their medium. The authors' goals and preferences play heavily on each individual retellings. 
+
+Proclus is often taken as a highly authoritative source for the Epic Cycle. In the majority of his summaries of these epics, he employs certain phrases in order to signal a change in episode. His retelling does not offer any alternate traditions, but rather continues through the narrative span of the Cycle. However, Proclus does not retell the extant Homeric Epics, the *Iliad* and the *Odyssey*, and this impacts his retelling. He works to fit his summaries around these already well-known poems, and therefore makes sure to set the narrative groundwork that leads to each poem's action. Proclus often shows the heroes in a more positive light. When they commit treacherous acts in other retellings, Proclus moderates the offense or treats it passively. This may be part of a certain reverence on his part towards such celebrated heroes. 
+
+The *Library* of Apollodorus is a continuous retelling that seeks to cover all of Greek mythology. His text does not contain episodic divisions, let alone breaks between different epics in his Cycle passages. Because his text is not broken down into individual epics, as is the text of Proclus, it can be difficult to place an element that is on the border of two epics firmly in one or the other. In further contrast to Proclus, Apollodorus does include a retelling of the *Iliad* and the *Odyssey*. Therefore, he does not need to set up the action of the Homeric epics as explicitly as other retellings. If Proclus tempers the unfavorable actions of his heroes, Apollodorus does not shield the reputation of his characters. He does not moderate their rage, need for vengeance, or misguided action. Due to the expansive length of his work, Apollodorus also includes extended backstories and ancestries in his narrative. These devices serve to elaborate on the more basic essential elements, in order to give the reader more information and explanation. Additionally, Apollodorus often adds alternate traditions, which shows his acknowledgment of the importance of the multiformity that pervades the Epic Cycle. A unique trait of Apollodorus is that he shows an affinity for prophecies, as he makes an effort to include and highlight them whenever possible. 
+
+
+
+
 - Tzeztes favors Palamedes
 - Tzetzes includes direct speech from some characters
 - Tzetzes mixes the order of the narrative
