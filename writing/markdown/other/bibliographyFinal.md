@@ -18,6 +18,7 @@
 - Lang, Andrew. Homer and the Epic (Longmans, Green, and Co. 1983) 323-348.
 - Mahaffy, J. P. A History of Classical Greek Literature Vol 1: The poets, epic and lyric (Macmillan, 1903) 101-106.
 - Manolova, Tzveta. Outside the Homeric Lens: The Epic Cycle and the Trojan War Tradition (McGill Classics 2010)
+- Jim Marks. "Inset Narratives in the Epic Cycle". Classics@ Volume 6: (The Center for Hellenic Studies of Harvard University 2010)
 - Monro, D. B. On the Fragment of Proclus' Abstract of the Epic Cycle (The Journal of Hellenic Studies Vol 4 1883) 305-334.
 - Monro, D. B. The Poems of the Epic Cycle (The Journal of Hellenic Studies 1884)
 - Nunlist, Rene. The Ancient Critic at Work Terms and Concepts of Literary Criticism in Greek Scholia (Cambridge University Press 2009)
