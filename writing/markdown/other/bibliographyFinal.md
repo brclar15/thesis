@@ -1,39 +1,39 @@
-- Apollodorus, The Library, Vol. 1 & 2: Loeb (Harvard University Press 1921)
-- M. L. West, Greek Epic Fragments: Loeb (Harvard University Press 2003)
-- T. W. Allen, Homeri Opera V OCT (Oxonii: E Typographeo Clarendoniano 1966)
-- Timothy Gantz, Early Greek Myth: A Guide to Literary and Artistic Sources, Vol. 1 & 2 (Johns Hopkins University Press 1996)
-- Eleanor Dickey, Ancient Greek Scholarship (Oxford University Press 2007)
-- M. L. West, The Epic Cycle: A Commentary on the Lost Troy Epics (Oxford University Press 2013)
-- D. B. Monro, On the Fragment of Proclus' Abstract of the Epic Cycle (The Journal of Hellenic Studies Vol 4 1883) 305-334.
-- Barbara Graziosi, Inventing Homer: The Early Reception of Epic (Cambridge University Press 2002) 
-- Andrew Lang, Homer and the Epic (Longmans, Green, and Co. 1983) 323-348.
-- J. P. Mahaffy, A History of Classical Greek Literature Vol 1: The poets, epic and lyric (Macmillan, 1903) 101-106.
-- Elena Walter-Karydi, Myths, Texts, Images Homeric Epics and Ancient Greek Art (Center for Odyssean Studies 2009) 
+- Frazer, James. The Library, Vol. 1 & 2: Loeb (Harvard University Press 1921)
+- West, M. L. Greek Epic Fragments: Loeb (Harvard University Press 2003)
+- Allen, T. W. Homeri Opera V OCT (Oxonii: E Typographeo Clarendoniano 1966)
+- Gantz, Timothy. Early Greek Myth: A Guide to Literary and Artistic Sources, Vol. 1 & 2 (Johns Hopkins University Press 1996)
+- Dickey, Eleanor. Ancient Greek Scholarship (Oxford University Press 2007)
+- West, M. L. The Epic Cycle: A Commentary on the Lost Troy Epics (Oxford University Press 2013)
+- Monro, D. B. On the Fragment of Proclus' Abstract of the Epic Cycle (The Journal of Hellenic Studies Vol 4 1883) 305-334.
+- Graziosi, Barbara. Inventing Homer: The Early Reception of Epic (Cambridge University Press 2002) 
+- Lang, Andrew. Homer and the Epic (Longmans, Green, and Co. 1983) 323-348.
+- Mahaffy, J. P. A History of Classical Greek Literature Vol 1: The poets, epic and lyric (Macmillan, 1903) 101-106.
+- Walter-Karydi, Elena. Myths, Texts, Images Homeric Epics and Ancient Greek Art (Center for Odyssean Studies 2009) 
     - "The Best of Homer'. Homeric Texts, Performances and Images in the Hellenistic World and beyond. The Contribution of Inscriptions by Angelos Chaniotis
     - Michael James Squire, Toying with Homer in Words and Pictures: The Tabulae Iliacae and the Aesthetics of Play
-- Susan Rotroff, Hellenistic Pottery: Athenian and Imported Moldmade Bowls (The American School of Classics Studies at Athens 1982) 55-73
-- David Petrain, Homer in Stone: The Tabulae Iliacae in their Roman context (Cambridge University Press 2014)
+- Rotroff, Susan. Hellenistic Pottery: Athenian and Imported Moldmade Bowls (The American School of Classics Studies at Athens 1982) 55-73
+- Petrain, David. Homer in Stone: The Tabulae Iliacae in their Roman context (Cambridge University Press 2014)
 - Several articles in @Classics Journal Reflecting on the Greek Epic Cycle," (CHS 2010) [CHS](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=3232)
-- Fee-Alexandra Haase, An Intertextual Reading of a Myth: Between Poetry, Myth, Cult Topography, and History (AJCN 2007?) 
-- Tzveta Manolova, Outside the Homeric Lens: The Epic Cycle and the Trojan War Tradition (McGill Classics 2010) 
-- D. B. Monro, The Poems of the Epic Cycle (The Journal of Hellenic Studies 1884) 
-- Ingrid Holmberg, The Creation of the Ancient Epic Cycle (Oral Tradition 1998) 344-348 
-- John Miles Foley and Chao Gejin, Challenges in Comparative Oral Epic (Oral Tradition 2012) 
-- Steve Reece, Homeric Studies (Oral Tradition 2003) 
-- Giampiero Scafoglio, Two Fragments of the Epic Cycle (GRBS 2006) 
-- Sophia Xenophontos, A living portrait ofCato Self-fashioning and the Classical Past in John Tzetzes Chiliads (Estudios bizantinos 2 2014)
-- Jonathan S. Burgess, The tradition of the Trojan War in Homer and the epic cycle (Johns Hopkins University Press 2001) 
-- Luca Giuliani, Image and myth : a history of pictorial narration in Greek art (University of Chicago Press 2013)
-- Benjamin Sammons, NARRATIVE DOUBLETS IN THE EPIC CYCLE (American Journal Of Philology Volume: 134 Issue: 4 (2013-12-01) p. 529-556. ISSN: 0002-9475)
-- John Miles Foley, A Companion to Ancient Epic  (Blackwell Pub., 2005.) 
-- Rene Nunlist, The Ancient Critic at Work Terms and Concepts of Literary Criticism in Greek Scholia (Cambridge University Press 2009)
-- Christos Tsagalis, The Oral Palimpsest: Exploring Intertextuality in the Homeric Epics (Harvard University Press 2008)
-- Albert Severyns, Le cycle épique dans l'école d'Aristarque (Liège 1929) 
-- Albert Severyns, Recherches sur la Chrestomathie de Proclos Vol 1-3 (Liège 1977)
-- Monique van Rossum-Steenbeck, Greek Reader's Digests?: Studies on a selection of subliterary papyri (Mnemosyne 1998)
-- Malcom Davies, The Epic Cycle (Bristol Classical Press 1989)
-- Donald Charles Goertz, Proclus and Tzetzes (The University of Texas 1964)
-- Georg Olms Hildesheim, Tzetzae Allegoriae Iliadis (Paris 1967)
-- Theodor Schreiber, Atlas of Classical Antiquities (London 1895) 176-179.
-- J.S. Blackie, Homer and the Iliad (Edinburgh 1866)
-- Aubrey Diller, The Text History of the Bibliotheca of Pseudo-Apollodorus (Transactions and Proceedings of the American Philological Association 1935)
+- Haase, Fee-Alexandra. An Intertextual Reading of a Myth: Between Poetry, Myth, Cult Topography, and History (AJCN 2007?) 
+- Manolova, Tzveta. Outside the Homeric Lens: The Epic Cycle and the Trojan War Tradition (McGill Classics 2010) 
+- Monro, D. B. The Poems of the Epic Cycle (The Journal of Hellenic Studies 1884) 
+- Holmberg, Ingrid. The Creation of the Ancient Epic Cycle (Oral Tradition 1998) 344-348 
+- Foley, John Miles, and Gejin, Chao. Challenges in Comparative Oral Epic (Oral Tradition 2012) 
+- Reece, Steve. Homeric Studies (Oral Tradition 2003) 
+- Scafoglio, Giampiero Two Fragments of the Epic Cycle (GRBS 2006) 
+- Xenophontos, Sophia. A living portrait ofCato Self-fashioning and the Classical Past in John Tzetzes Chiliads (Estudios bizantinos 2 2014)
+- Burgess, Jonathan S. The tradition of the Trojan War in Homer and the epic cycle (Johns Hopkins University Press 2001) 
+- GiulianiLuca, Image and myth : a history of pictorial narration in Greek art (University of Chicago Press 2013)
+- SammonsBenjamin. NARRATIVE DOUBLETS IN THE EPIC CYCLE (American Journal Of Philology Volume: 134 Issue: 4 (2013-12-01) 529-556.
+- Foley, John Miles. A Companion to Ancient Epic  (Blackwell Pub., 2005.) 
+- Nunlist, Rene. The Ancient Critic at Work Terms and Concepts of Literary Criticism in Greek Scholia (Cambridge University Press 2009)
+- Tsagalis, Christos. The Oral Palimpsest: Exploring Intertextuality in the Homeric Epics (Harvard University Press 2008)
+- Severyns, Albert. Le cycle épique dans l'école d'Aristarque (Liège 1929) 
+- Severyns, Albert. Recherches sur la Chrestomathie de Proclos Vol 1-3 (Liège 1977)
+- Rossum-Steenbeck, Monique van. Greek Reader's Digests?: Studies on a selection of subliterary papyri (Mnemosyne 1998)
+- Davies, Malcom. The Epic Cycle (Bristol Classical Press 1989)
+- Goertz, Donald Charles. Proclus and Tzetzes (The University of Texas 1964)
+- Hildesheim, Georg Olms. Tzetzae Allegoriae Iliadis (Paris 1967)
+- Schreiber, Theodor. Atlas of Classical Antiquities (London 1895) 176-179.
+- Blackie, J.S. Homer and the Iliad (Edinburgh 1866)
+- Diller, Aubrey. The Text History of the Bibliotheca of Pseudo-Apollodorus (Transactions and Proceedings of the American Philological Association 1935)
