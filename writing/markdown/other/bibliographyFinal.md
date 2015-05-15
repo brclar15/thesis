@@ -35,3 +35,4 @@
 - Monique van Rossum-Steenbeck, Greek Reader's Digests?: Studies on a selection of subliterary papyri (Mnemosyne 1998)
 - Malcom Davies, The Epic Cycle (Bristol Classical Press 1989)
 - Donald Charles Goertz, Proclus and Tzetzes (The University of Texas 1964)
+- Georg Olms Hildesheim, Tzetzae Allegoriae Iliadis (Paris 1967)
