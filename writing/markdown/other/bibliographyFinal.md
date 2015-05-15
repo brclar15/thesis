@@ -36,3 +36,6 @@
 - Malcom Davies, The Epic Cycle (Bristol Classical Press 1989)
 - Donald Charles Goertz, Proclus and Tzetzes (The University of Texas 1964)
 - Georg Olms Hildesheim, Tzetzae Allegoriae Iliadis (Paris 1967)
+- Theodor Schreiber, Atlas of Classical Antiquities (London 1895) pp.176-179
+- J.S. Blackie, Homer and the Iliad (Edinburgh 1866)
+- Aubrey Diller, The Text History of the Bibliotheca of Pseudo-Apollodorus (Transactions and Proceedings of the American Philological Association 1935)
