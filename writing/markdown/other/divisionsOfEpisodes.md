@@ -1,4 +1,4 @@
-#Chapter 4: Divisions of Episodes Across the Various Retellings#
+#Chapter 4: Divisions of Episodes Across the Various Retellings##
 
 
 The Homeric epics are complex narratives that not only do not follow a linear progression, but are also full of digressions. Since the other poems of the Epic Cycle grew out of the same oral tradition, it follows logically that they too would have been as complicated. Aristotle acknowledges the complexity of these epics by stating that their plots have produced many tragedies  [^1]. Although this argument is often used to cite the failings of the Cyclic poems and to differentiate them from the Homeric epics, Aristotle's view in a sense supports the need to divide these epics into smaller units, such as episodes. 
@@ -7,7 +7,7 @@ An episode is a recognizable unit of narrative action. Its contents form a cohes
 
 Certain retellings have evident episodic divisions present in text, but this is not always the case. Imposing divisions is a more difficult and interpretative process. One can create episodes based on geographic terms, such as the Greeks attack on Teuthrania, but only if the episode is fairly brief. Conversely, the events that take place at Troy do not by any means form a single episode. One could mark the entire episode as the journey to and from a location, as well as the events that happen on the sight, such as Paris' trip to Sparta and the cities which he sacks on his way back. Yet, poets composed entire epics about solely one leg of a journey, such as the *Odyssey* and the *Nostoi*. Dividing episodes based on characters also proves to be difficult. Characters that show up infrequently and do not remain in focus for very long, such as Penthesilea, can mark their own episodes. But this does not work for more major characters who appear often, or in back to back episodes. A more complex approach is needed to create episodes based off of thematic content. Not only does the combination of location and certain main characters help to create an episode, but also the presence of more minor characters can often indicate an episode. A polythetic approach allows one to view each episode as a unit that fulfills a number of specific criteria, but not necessarily all of them. This approach is useful when comparing episodes across different retellings, as different authors include or exclude certain elements. 
 
-##Proclus##
+###Proclus###
 
 Within the summaries of the individual epics, Proclus' separates his narrative into distinct episodes with the use of strong transitional adverbs or prepositional phrases, such as ἔπειτα or μετὰ δὲ ταῦτα. In contrast, he uses common connective particles, such as καὶ and δὲ, to continue the narrative within the boundary of an episode. 
 
@@ -25,7 +25,7 @@ This theory does not apply to the *Ilioupersis*, which also lacks these linguist
 
 Because the episode dividers are largely logical and present in the summary of Proclus, I have taken them as the main source with which to compare the other retellings against. When these distinctions are not available, like in the *Ilioupersis*, I have followed a similar method of dividing episodes that I have used in the other retellings.  
 
-##Apollodorus##
+###Apollodorus###
 
 The retelling of Apollodorus in the *Library* does not posses any linguistic dividers like those of Proclus. His text is a continuous narrative that does not mark the boundaries of any epic or books within a particular epic. Only once in his retelling of the Epic Cycle does he cite one of his sources by name [^8]. The fact that this retelling falls in the epitome, rather than the main work itself, makes it even more difficult to look for divisions of episodes based on linguistic features. The epitome is comprised of two different sources: the Epitoma Vaticana known as Vaticanus 950 and the Sabbaitic fragments known as Sabbaiticus-Hierosolymitanus 366 [^9]. The Epitoma Vaticana "consist[s] of disconnected passages beginning with ὅτι [^10]." These ὅτι passages do help identifying episodic divisions, but are too infrequent to be relied upon heavily[^11].
 
@@ -35,15 +35,15 @@ Occasionally, Apollodorus includes variant traditions, or multiforms, in his tex
 
 I have largely relied on a combination of these practices while also employing the divisions offered by Proclus to divide the text of the *Library*. When Apollodorus includes an major event that Proclus omits, this action more often than not became an episode that was unique to Apollodorus, or simply not included by Proclus.
 
-##John Tzetzes##
+###John Tzetzes###
 
 The episodic division in the *Homeric Allegories* are present in two distinct ways. First, he does have several stock phrases, similar to those of Proclus, that he uses to divide up his narrative. As previously mentioned, this work was meant to introduce Empress Irene to Greek culture, and therefore Tzetzes often employs imperative statements aimed at the reader. The imperative is usually μάνθανε, to introduce the new topic, and often paired with the participial μεμάθηκας, to recap what the reader has just learned. He makes frequent use of this when he introduces Homer, separating his race, his time period, and his death[^14]. Tzetzes transitions from his discussion on Homer to the events that precede the *Iliad* with the lines επεὶ λοιπὸν μεμάθηκας καὶ θάνατον Ὁμήρου, μάνθανε τὴν ὑποθισϊν τῆς ὀλης Ἰ̈λϊάδος[^15]. He provides what seems to be a popular version of the Judgment of Paris, and then directly instructs the reader again that ταϋτα φασϊν οἱ ἀμαθῶς λαλοῦντες καὶ νηπίως. τὸ δ’ ἀληθὲς νῧν μάνθανε καλῶς ἠκρϊβωμένως.[^16], where he gives the a lengthy back-stroy on the birth and early life of Paris. From there, he details the wedding of Peleus and Thetis and how it lead to the Judgment, before  he switches to a discussion on the apple of Eris with the use of another imperative[^17]. These imperative episodic dividers appear occasionally through the rest of the prolegomena, but are not present for every episode change. The notably appear before and after the various catalogs that Tzetzes provides[^18]. Where his narrative lacks episodic divisions, I have placed them myself in the same way that I have dealt with the text of Apollodorus. Passing references made to characters that have a significant role in other retellings, such as Cycnus or Telephus, are counted for the purpose of comparison, but do not constitute independent episodes. 
 
-##Hypothesis##
+###Hypothesis###
 
 The hypothesis of the *Iliad* is the briefest retelling that I have worked with in this research. Although dwarfed by Apollodorus, it too is a continuous, although choppy narrative. With the exception of the Judgement of Paris, which spans about a quarter of the hypothesis, many episodes consist of merely a sentence or two. This brevity sheds great light on what the essential elements to a given episode are, due to the highly contracted nature of this text. In this text, it is largely the personal names that denote different episodes, as the geographic movement is not always state. The closing comments that link the hypothesis to the start of the *Iliad* have been ignored, as they are not narrative action, but rather an explanation of the text. 
 
-##Tabula Capitolina##
+###Tabula Capitolina###
 
 As mentioned above, the Tabula Capitolina offers both a visual and textual retelling of the Epic Cycle. I have worked with the textual retelling, which is the stone stele with the prose summary of books 7 through 24 of the *Iliad*, in the same way that I have worked with the text of Apollodorus. Like the *Library*, no episodic divisions are present in the text. I have generally followed the Iliadic book divisions offered Petrain in his work on this document [^19].
 
