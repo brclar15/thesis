@@ -1,4 +1,4 @@
-#Chapter 4: Divisions of Episodes Across the Various Retellings##
+#Chapter 4: Divisions of Episodes Across Various Retellings##
 
 
 The Homeric epics are complex narratives that not only do not follow a linear progression, but are also full of digressions. Since the other poems of the Epic Cycle grew out of the same oral tradition, it follows logically that they too would have been as complicated. Aristotle acknowledges the complexity of these epics by stating that their plots have produced many tragedies  [^1]. Although this argument is often used to cite the failings of the Cyclic poems and to differentiate them from the Homeric epics, Aristotle's view in a sense supports the need to divide these epics into smaller units, such as episodes. 
