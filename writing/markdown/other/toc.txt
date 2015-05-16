@@ -1,0 +1,11 @@
+titlePage.md = Title Page
+tableOfContents.md = Table of Contents
+acknowledgements.md = Acknowledgements
+into.md = Chapter 1: Introduction
+sourcesofEpicCycle.md = Chapter 2: The Sources of the Epic Cycle
+editorialPractices.md = Chapter 3: Editorial Practices
+divisionsOfEpisodes.md = Chapter 4: Divisions of Episodes Across the Various Retellings
+cypriaEpisodes.md = Chapter 5: Retellings of the Events Before the Iliad : Hypothesis BNF 2706, Proclus' Summaries, Apollodorus' Library, John Tzetzes Homeric Allegories
+postIliadicEpisodes.md = Chapter 6: Retellings of the Events After the Iliad: Apollodorus' Library, Proclus' Summaries, Tabula Capitolina
+conclusion.md = Chapter 7: Conclusion
+bibliographyFinal.md = Bibliography
