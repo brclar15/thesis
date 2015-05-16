@@ -8,9 +8,9 @@
 
 ##Chapter 3: Editorial Practices##
 
-##Chapter 4: Divisions of Episodes Across the Various Retellings##
+##Chapter 4: Divisions of Episodes Across Various Retellings##
 
-##Chapter 5: Retellings of the Events Before the *Iliad* : Hypothesis BNF 2706, Proclus' Summaries, Apollodorus' *Library*, John Tzetzes *Homeric Allegories*##
+##Chapter 5: Retellings of the Events Before the *Iliad* : BNF 2706 Hypothesis, Proclus' Summaries, Apollodorus' *Library*, John Tzetzes' *Homeric Allegories*##
 
 ##Chapter 6: Retellings of the Events After the *Iliad*: Apollodorus' *Library*, Proclus' Summaries, Tabula Capitolina##
 
