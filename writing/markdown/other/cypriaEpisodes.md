@@ -1,5 +1,4 @@
-#Retellings of Events Before the *Iliad*#
-##Proclus Summary, Apollodorus, Hypothesis, John Tzetzes##
+##Chapter 5: Retellings of Events Before the *Iliad*: Proclus Summary, Apollodorus, Hypothesis, John Tzetzes##
 
 The events that would have appeared in the *Cypria* would have began with the wedding of Peleus and Thetis and the judgment of Paris. From there, Paris takes Helen from Sparta back to Troy, causing the Greek forces to rally. After much delay and other exploits, they arrive at Troy and take the beach. The quarrel that opens the *Iliad* would have been found at the very end of the *Cypria*, once the Greeks had sacked an number of surrounding cities.
 
@@ -157,7 +156,8 @@ The last episode within the narrative bounds of the Cypria is similar to the pre
 
 [47]: cite passage
 
-[48]: Apollodorus lists Λέσβον καὶ Φώκαιαν, εἶτα Κολοφῶνα καὶ Σμύρναν καὶ Κλαζομενὰς καὶ Κύμην, μεθ᾽ ἃς Αἰγιαλὸν καὶ Τῆνον, τὰς ἑκατὸν καλουμένας πόλεις: εἶτα ἑξῆς Ἀδραμύτιον καὶ Σίδην, εἶτα Ἔνδιον καὶ Λιναῖον καὶ Κολώνην. αἱρεῖ δὲ καὶ Θήβας τὰς Ὑποπλακίας καὶ Λυρνησσόν, ἔτι δὲ καὶ Ἄντανδρον καὶ ἄλλας πολλάς. Tzetzes lists Λέσβος· Φωκέαι· Κολοφὼν Κλαζομενΐς καὶ Σμΰρνη· Κΰμη. Τῆνος. Αἰγϊαλὸς· αἱ Ἑκατὸν αἱ Πόλεις· Σΐδη καὶ Ἀτραμΰτειον· Λΐλαιον, καὶ Κολώνη. Ἔνδϊον· Κΐλλα. Λϋρνησσὸς· Τένεδος σῢν Λαρΐσση· Θήβη· Χρΰσα. καὶ Πήδασος, Αἴνεόν τε καὶ Πῖ̈νος.
+[48]: Apollodorus lists Λέσβον καὶ Φώκαιαν, εἶτα Κολοφῶνα καὶ Σμύρναν καὶ Κλαζομενὰς καὶ Κύμην, μεθ᾽ ἃς Αἰγιαλὸν καὶ Τῆνον, τὰς ἑκατὸν καλουμένας πόλεις: εἶτα ἑξῆς Ἀδραμύτιον καὶ Σίδην, εἶτα Ἔνδιον καὶ Λιναῖον καὶ Κολώνην. αἱρεῖ δὲ καὶ Θήβας τὰς Ὑποπλακίας καὶ Λυρνησσόν, ἔτι δὲ καὶ Ἄντανδρον καὶ ἄλλας πολλάς. 
+Tzetzes lists Λέσβος· Φωκέαι· Κολοφὼν Κλαζομενΐς καὶ Σμΰρνη· Κΰμη. Τῆνος. Αἰγϊαλὸς· αἱ Ἑκατὸν αἱ Πόλεις· Σΐδη καὶ Ἀτραμΰτειον· Λΐλαιον, καὶ Κολώνη. Ἔνδϊον· Κΐλλα. Λϋρνησσὸς· Τένεδος σῢν Λαρΐσση· Θήβη· Χρΰσα. καὶ Πήδασος, Αἴνεόν τε καὶ Πῖ̈νος.
 
 [49]: West 118
 
