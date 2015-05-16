@@ -1,9 +1,9 @@
 #Chapter 4: Divisions of Episodes Across the Various Retellings#
 
 
-The Homeric epics are complex narratives that not only do not follow a linear progression, but are also full of digressions. Since the other poems of the Epic Cycle grew out of the same oral tradition, it follows logically that they too would have been as complicated. Aristotle acknowledges the complexity of these epics by stating that their plots have produced many tragedies  [Poetics 1459a37]. Although this argument is often used to cite the failings of the Cyclic poems and to differentiate them from the Homeric epics, Aristotle's view in a sense supports the need to divide these epics into smaller units, such as episodes. 
+The Homeric epics are complex narratives that not only do not follow a linear progression, but are also full of digressions. Since the other poems of the Epic Cycle grew out of the same oral tradition, it follows logically that they too would have been as complicated. Aristotle acknowledges the complexity of these epics by stating that their plots have produced many tragedies  [^1]. Although this argument is often used to cite the failings of the Cyclic poems and to differentiate them from the Homeric epics, Aristotle's view in a sense supports the need to divide these epics into smaller units, such as episodes. 
 
-An episode is a recognizable unit of narrative action. Its contents form a cohesive set that can be isolated from the larger work. When deciding what events constitute a single episode, I have done my best to follow the ancient critic's views [cite Nunlist].  It is better to err on the side of an episode that is more inclusive, than to break what should be one episode up into several. In his discussion on what narrative changes would destroy a story, Nunlist writes that "... if the other Cyclopes came to Polyphemus' aid in *Odyssey* 9, the escape of Odysseus and his companions would have become very difficult indeed" [Nunlist 2009 pg. 67]. He goes on to cite several instances where a change in the fabula[Fabula stands for a reconstruction, in chronological order, of the events that are narrated, irrespective of their position in the text pg. 23] would not affect the outcome of the story. Similarly, the outcome of an episode must be included in the original episode, even if it sparks the subsequent action.
+An episode is a recognizable unit of narrative action. Its contents form a cohesive set that can be isolated from the larger work. When deciding what events constitute a single episode, I have done my best to follow the ancient critic's views [^2].  It is better to err on the side of an episode that is more inclusive, than to break what should be one episode up into several. In his discussion on what narrative changes would destroy a story, Nunlist writes that "... if the other Cyclopes came to Polyphemus' aid in *Odyssey* 9, the escape of Odysseus and his companions would have become very difficult indeed" [Nunlist 2009 pg. 67]. He goes on to cite several instances where a change in the fabula[Fabula stands for a reconstruction, in chronological order, of the events that are narrated, irrespective of their position in the text pg. 23] would not affect the outcome of the story. Similarly, the outcome of an episode must be included in the original episode, even if it sparks the subsequent action.
 
 Certain retellings have evident episodic divisions present in text, but this is not always the case. Imposing divisions is a more difficult and interpretative process. One can create episodes based on geographic terms, such as the Greeks attack on Teuthrania, but only if the episode is fairly brief. Conversely, the events that take place at Troy do not by any means form a single episode. One could mark the entire episode as the journey to and from a location, as well as the events that happen on the sight, such as Paris' trip to Sparta and the cities which he sacks on his way back. Yet, poets composed entire epics about solely one leg of a journey, such as the *Odyssey* and the *Nostoi*,. Dividing episodes based on characters also proves to be difficult. Characters that show up infrequently and do not remain in focus for very long, such as Penthesilea, can mark their own episodes. But this does not work for more major characters who appear often, or in back to back episodes. A more complex approach is needed to create episodes based off of thematic content. Not only does the combination of location and certain main characters help to create an episode, but also the presence of more minor characters can often indicate an episode. A polythetic approach allows one to view each episode as a unit that fulfills a number of specific criteria, but not necessarily all of them. This approach is useful when comparing episodes across different retellings, as different authors include or exclude certain elements. 
 
@@ -60,3 +60,48 @@ The section devoted to the *Iliupersis* is not divided into bands, but rather a 
 The next figures are found at the lowest level within the citadel[urn:cite:hmt:capimgs.Capitoline_1@0.061,0.3453,0.563,0.208]. Again, the captions and spatial layout of these figure help to break them into three separate episodes. They are grouped to the left, to the right, and in the center of the Scaean gate. While the other scenes within a particular courtyard were all one episode, the physical layout of these three episodes suggests that they are to be taken as distinct from one another.
 
 The remainder of the scenes within the *Iliupersis* are fairly evident in their divisions. The sacrifice of Polyxena[urn:cite:hmt:capimgs.Capitoline_1@0.391,0.5213,0.226,0.1613] is clearly set off from the departure of Aeneas[urn:cite:hmt:capimgs.Capitoline_1@0.356,0.6453,0.253,0.1973] by a row of ships and other cutting marks [urn:cite:hmt:capimgs.Capitoline_1@0.033,0.512,0.564,0.3227]. At first glance, it may appear that there is only one other episode present, which centers on the tomb of Hector[urn:cite:hmt:capimgs.Capitoline_1@0.024,0.508,0.276,0.1973]. However, the repetition of Helenus makes it clear that two episodes are placed along this monument. Helenus would not be named twice within the same episode, and therefore the artist of the Tabula is dividing these episodes along separate sides of Hector's tomb.
+
+[1]: Poetics 1459a37
+
+[2]: cite Nunlist
+
+[3]: 
+
+[4]: 
+
+[5]: 
+
+[6]: 
+
+[7]: 
+
+[8]: 
+
+[9]: 
+
+[10]: 
+
+[11]: 
+
+[12]: 
+
+[13]: 
+
+[14]: 
+
+[15]: 
+
+[16]: 
+
+[17]: 
+
+[18]: 
+
+[19]: 
+
+[1]: 
+
+[1]: 
+
+[1]: 
+
