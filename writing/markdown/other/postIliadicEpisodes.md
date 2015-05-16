@@ -42,15 +42,15 @@ The *Ilioupersis* would have narrated the events from the Trojans receiving the 
 
 The first episode of this poem is the Trojan reaction to the Horse. Proclus explains the opposing view points: that it should be destroyed and or that it should be ushered into the city. However, he does not attribute any opinion to specific characters. For this expanded element, one much turn to Apollodorus. Both texts also specify that the Horse is already inside the city walls when the Trojans meet to decide on a course of action. In Apollodorus, it is παρὰ τοῖς Πριάμου βασιλείοις στήσαντες, and Proclus ends his previous summary by noting that it is brought into the city.  Apollodorus' love of prophecies returns when he adds the elements of the protestations of Kassandra and Laocoon. Both sources have the Trojans τί  χρὴ ποιεῖν, and both retellings list the options as burning it or hurling it off a clift. In Apollodorus,  Kassandra, as is her tragic fate, is exactly correct when she λεγούσης ἔνοπλον ἐν αὐτῷ δύναμιν εἶναι[^46]. Laocoon, a priest of Apollo, confirms her claim, but later pays for it dearly. Proclus says that two serpents appear while the Trojans are celebrating their supposed victory and devour one of his sons. Apollodorus alters this element not only by having both sons die, but also by having the serprents be sent by Apollo[^47]. Both of these accounts conflict with Virgil, who offers a retelling with a very different nature and purpose, where Loacoon perishes as well with his sons[^48] The Tabula does not depict this episode as told by Proclus or Apollodorus, perhaps because there is not enough action to make it recognizable. Figures standing around the Horse do not carry enough meaning themselves to denote this episode. However, although it is included at the end of the *Little Iliad*,  the depiction of Kassandra is significant enough to stand for this episode. Lastly, Proclus uniquely adds that οἱ περὶ τὸν Αἰνείαν ὑπεξῆλθον εἰς τὴν Ί̈δη[^49], due to such an inauspicious sign. This conflicts with Apollodorus and the Tabula, which both have the future founder of Rome fleeing during the violence of the sack. 
 
-Apollodorus then relates the episode the exit from the Horse, and the initial violence. He sets the scene for the infamous plan by saying ὡς δὲ ἐγένετο νὺξ καὶ πάντας ὕπνος κατεῖχεν[^50]. Sinon gives the signal to the Greek troops hiding behind Tenedos in both textual retellings. Apollodorus expands this element slightly to say that did this ἀπὸ τοῦ Ἀχιλλέως τάφου πυρσὸν ἧπτεν[^51], rather than merely τοὺς πυρσοὺς ἀνίσχει as in Proclus[Iliupersis.6]. The Greeks exit the Horse without any issues in Proclus, but this is not the case in Apollodorus. Echoing *Odyssey* 4.274-4.289, he writes that Helen taunted the Greek commanders by imitating the voices of their wives. Anticlus would have revealed their trick, had not Odysseus silenced him. Further, Echion is the first Greek to fall inside of Troy, as he plummets to his death upon exiting the horse. The rest of the Greeks, as seems logical, descended by means of a rope[Servius on Virgil Aen. 2.150 says that the Horse was 120 feet tall, as found in West LOEB 147. This would no doubt explain the death of Echion if he neglected to use a rope to descend.]. This element does not figure in any other retelling. The Tabula shows the Greeks exiting the Horse and then being directly involved in the fighting[urn:cite:hmt:capimgs.Capitoline_16@0.531,0.232,0.234,0.1707]. This does not necessarily mean that they fought the Trojans the first moment that they exited the Horse, but rather is a narrative device used by the artist of the Tabula to show the action of the sack.
+Apollodorus then relates the episode the exit from the Horse, and the initial violence. He sets the scene for the infamous plan by saying ὡς δὲ ἐγένετο νὺξ καὶ πάντας ὕπνος κατεῖχεν[^50]. Sinon gives the signal to the Greek troops hiding behind Tenedos in both textual retellings. Apollodorus expands this element slightly to say that did this ἀπὸ τοῦ Ἀχιλλέως τάφου πυρσὸν ἧπτεν[^51], rather than merely τοὺς πυρσοὺς ἀνίσχει as in Proclus[^52]. The Greeks exit the Horse without any issues in Proclus, but this is not the case in Apollodorus. Echoing *Odyssey* 4.274-4.289, he writes that Helen taunted the Greek commanders by imitating the voices of their wives. Anticlus would have revealed their trick, had not Odysseus silenced him. Further, Echion is the first Greek to fall inside of Troy, as he plummets to his death upon exiting the horse. The rest of the Greeks, as seems logical, descended by means of a rope[^53]. This element does not figure in any other retelling. The Tabula shows the Greeks exiting the Horse and then being directly involved in the fighting[^54]. This does not necessarily mean that they fought the Trojans the first moment that they exited the Horse, but rather is a narrative device used by the artist of the Tabula to show the action of the sack.
 
 Once out of the Horse, the Greeks commanders open the gates and the troops descend on the city. The remainder of this epic, with the exception of the rape of Kassandra by the Locrian Ajax, cannot be separated into individual episodes due to the rapid narrative used by the various retellings. The action that figures in the Tabula can help demarcate episodes, but only to a certain extent. 
 
-Proclus opens up his account of the destruction by writing καὶ πολλοὺς ἀνελόντες τὴν πόλιν κατὰ κράτος λαμβάνουσι[Iliupersis.7]. This general fighting is shown in the Tabula[urn:cite:hmt:capimgs.Capitoline_16@0.121,0.128,0.746,0.264], where the absence of captions makes it difficult to assign names or significant to many figures. Proclus and Apollodorus begin with the same event, namely the death of Priam at the hands of Neoptolemos. Both agree with almost identical language that he died at the temple of Zeus. Apollodorus writes Νεοπτόλεμος μὲν ἐπὶ τοῦ ἑρκείου  Διὸς βωμοῦ καταφεύγοντα Πρίαμον ἀνεῖλεν[Apollod. Epit. 5,21], and Proclus has Νεοπτόλεμος μὲν ἀποκτείνει Πριάμον Πρίαμον ἐπι τὸν τοῦ Διὸς τοῦ ερκείου βωμὸν καταφυγόντα[Iliupersis.8]. The death of Priam is shown in the second group of figures in the Tabula, where it is paired with Neoptolemos' seizure of Hecuba.[urn:cite:hmt:capimgs.Capitoline_16@0.297,0.3787,0.372,0.2213] This last element in the Tabula appears later in the textual retellings.
+Proclus opens up his account of the destruction by writing καὶ πολλοὺς ἀνελόντες τὴν πόλιν κατὰ κράτος λαμβάνουσι[^55]. This general fighting is shown in the Tabula[^56], where the absence of captions makes it difficult to assign names or significant to many figures. Proclus and Apollodorus begin with the same event, namely the death of Priam at the hands of Neoptolemos. Both agree with almost identical language that he died at the temple of Zeus. Apollodorus writes Νεοπτόλεμος μὲν ἐπὶ τοῦ ἑρκείου  Διὸς βωμοῦ καταφεύγοντα Πρίαμον ἀνεῖλεν[^57], and Proclus has Νεοπτόλεμος μὲν ἀποκτείνει Πριάμον Πρίαμον ἐπι τὸν τοῦ Διὸς τοῦ ερκείου βωμὸν καταφυγόντα[^58]. The death of Priam is shown in the second group of figures in the Tabula, where it is paired with Neoptolemos' seizure of Hecuba.[^59] This last element in the Tabula appears later in the textual retellings.
 
-Then, Apollodorus names two Trojans who escaped the destruction. Glaucus, the son of Antenor, flees with his life after being spared by Odysseus and Menelaus. It is fortunate that these are the two Greeks who find him, as his father spared their lives during their early embassy to Troy[see my chapter 5 on the events that happen before the *Iliad* for the embassy to Troy.] Next, Apollodorus mentions the familiar story of the flight of Aeneas with his father[compare Virgil Aen. 2.699 and following]. He adds that the Greeks choose to spare him  διὰ τὴν εὐσέβειαν[Apollod. Epit. 5.21]. The symbols of his εὐσέβειαν or fides are shown in the Tabula, namely his father and the household gods [urn:cite:hmt:capimgs.Capitoline_16@0.108,0.528,0.325,0.1813 and urn:cite:hmt:capimgs.Capitoline_16@0.379,0.5453,0.233,0.284]. In addition to leaving with his father and son, the captions on the Tabula show Hermes escorting Aeneas' party through the gates of Troy. This addition of Hermes is unknown in all other retellings. The Tabula expands the episode of Aeneas' flight further with an image of him and his company boarding a ship[urn:cite:hmt:capimgs.Capitoline_1@0.365,0.6293,0.258,0.22]. Next, both textual sources have Menelaus kill Deiphobos and take Helen back to the ships. Again, their language is very similar, with Proclus writing ἐπὶ τὰς ναῦς κατάγει[Iliupersis.9] and Apollodorus writing ἐπὶ τὰς ναῦς ἄγει[Apollod. Epit. 5.22]. Thanks to the survival of a caption that reads ιερον αφροδιτης[iliupersis_1.2], the figures of a Greek warrior and a nearly unclothed woman are able to be identified as Menelaus and Helen[urn:cite:hmt:capimgs.Capitoline_16@0.571,0.38,0.357,0.2147]. However, the death of Deiphobos does not appear in on the Tabula. The essential element here is the retrieval of Helen, not the death of her newest husband, though the two logically go hand in hand. 
+Then, Apollodorus names two Trojans who escaped the destruction. Glaucus, the son of Antenor, flees with his life after being spared by Odysseus and Menelaus. It is fortunate that these are the two Greeks who find him, as his father spared their lives during their early embassy to Troy[^60] Next, Apollodorus mentions the familiar story of the flight of Aeneas with his father[^61]. He adds that the Greeks choose to spare him  διὰ τὴν εὐσέβειαν[^62]. The symbols of his εὐσέβειαν or fides are shown in the Tabula, namely his father and the household gods [^63]. In addition to leaving with his father and son, the captions on the Tabula show Hermes escorting Aeneas' party through the gates of Troy. This addition of Hermes is unknown in all other retellings. The Tabula expands the episode of Aeneas' flight further with an image of him and his company boarding a ship[^64]. Next, both textual sources have Menelaus kill Deiphobos and take Helen back to the ships. Again, their language is very similar, with Proclus writing ἐπὶ τὰς ναῦς κατάγει[^65] and Apollodorus writing ἐπὶ τὰς ναῦς ἄγει[^66]. Thanks to the survival of a caption that reads ιερον αφροδιτης[^67], the figures of a Greek warrior and a nearly unclothed woman are able to be identified as Menelaus and Helen[^68]. However, the death of Deiphobos does not appear in on the Tabula. The essential element here is the retrieval of Helen, not the death of her newest husband, though the two logically go hand in hand. 
 
-The next event is expanded enough in all three retellings that I have analyzed to establish it confidently as its own episode. After these deaths, escapes, and recaptures, comes the rape of Kassandra. Proclus does not mention the violation explicitly, but rather says that Ajax πρὸς βίαν ἀποσπῶν[Iliupersis.10]. Here again we see him tempering the negative actions of the heroes. Both Apollodorus and Proclus reference the sacred statue of Athena. In Proclus, the Trojan priestess drags off the τὸ τῆς Ἀθηνᾶς ξόανον with her, and in Apollodorus, she is seen περιπεπλεγμένην τῷ ξοάνῳ τῆς Ἀθηνᾶς[Apollod. Epit. 5.22]. Apollodorus adds the folk story that this is why the statue looks to heaven, out of its shame caused by the rape. The depiction of this episode on the Tabula matches Apollodorus closely, as the figure label as Ajax[iliupersis_1.1] is seen dragging a woman who is presumably Kassandra from a temple[urn:cite:hmt:capimgs.Capitoline_16@0.377,0.1413,0.261,0.156]. Proclus even further expands the episode by showing the Greeks' anger at Ajax for violating the temple, and their wish to stone him. However, he takes shelter in the very temple which he has just desecrated, and thereby saves himself. But Athena, still angered at his offense, devises ruin for the Greeks upon the sea[T.W. Allen moves this last detail is moved to the end of the summary in his edition, but I have maintained its narrative position here, as it reflects its location in the Venetus A, the only source for this summary.] This element appears at the very end of Apollodorus' section concerning the sack of Troy[Apollod. Epit. 5.23]. He writes that, just as they are about to leave, Kalchas stops them out of fear of Athena's wrath. Then, just as in Proclus, Ajax seeks refuge in Athena's temple, in order to avoid being killed. 
+The next event is expanded enough in all three retellings that I have analyzed to establish it confidently as its own episode. After these deaths, escapes, and recaptures, comes the rape of Kassandra. Proclus does not mention the violation explicitly, but rather says that Ajax πρὸς βίαν ἀποσπῶν[^69]. Here again we see him tempering the negative actions of the heroes. Both Apollodorus and Proclus reference the sacred statue of Athena. In Proclus, the Trojan priestess drags off the τὸ τῆς Ἀθηνᾶς ξόανον with her, and in Apollodorus, she is seen περιπεπλεγμένην τῷ ξοάνῳ τῆς Ἀθηνᾶς[^70]. Apollodorus adds the folk story that this is why the statue looks to heaven, out of its shame caused by the rape. The depiction of this episode on the Tabula matches Apollodorus closely, as the figure label as Ajax[^71] is seen dragging a woman who is presumably Kassandra from a temple[urn:cite:hmt:capimgs.Capitoline_16@0.377,0.1413,0.261,0.156]. Proclus even further expands the episode by showing the Greeks' anger at Ajax for violating the temple, and their wish to stone him. However, he takes shelter in the very temple which he has just desecrated, and thereby saves himself. But Athena, still angered at his offense, devises ruin for the Greeks upon the sea[T.W. Allen moves this last detail is moved to the end of the summary in his edition, but I have maintained its narrative position here, as it reflects its location in the Venetus A, the only source for this summary.] This element appears at the very end of Apollodorus' section concerning the sack of Troy[Apollod. Epit. 5.23]. He writes that, just as they are about to leave, Kalchas stops them out of fear of Athena's wrath. Then, just as in Proclus, Ajax seeks refuge in Athena's temple, in order to avoid being killed. 
 
 After this episode, Proclus brings his summary of the epic to a close with another rapid succession of Trojan fates. Apollodorus says that the Greeks set first to the city at this point, while Proclus reserves this act for the every end of his summary[compare Apollod. Epit. 5.23 and Iliupersis.15]. Contrary to his usually more mild nature, Proclus assigns the death of Astyanax directly to Odysseus[Iliupersis.12]. Apollodorus is vague about who murders the child of Hector, but does specify that Ἀστυάνακτα ἀπὸ τῶν πύργων ἔρριψαν[Apolld. Epit. 5.23]. Before saying that the Greeks divide up the rest of the spoils, the only other war prize that Proclus names is Andromache, who is given to Neoptolemos. Apollodours, as usual, expands this list more by writing λαμβάνει δὲ Ἀγαμέμνων μὲν κατ᾽ ἐξαίρετον Κασάνδραν, Νεοπτόλεμος δὲ Ἀνδρομάχην, Ὀδυσσεὺς δὲ Ἑκάβην. Then he goes on to provide an alternate tradition where Helenus, perhaps due to his prophetic service to the Greeks, receives the Trojan queen, and until she turns into a dog and later dies. The Tabula has a scene in which the Greek herald Talthybius visits Andromache, Helenus[iliupersis.7 and iliupersis.8, Helenus appears named,  as do the two women, through he does not grammatically fall under the overall title of Τρῳάδες], and a dejected Kassandra[urn:cite:hmt:capimgs.Capitoline_1@0.032,0.5253,0.148,0.212]. Lastly, Apollodorus uniquely adds that Laodice, the loveliest daughter of Priam[see Iliad 2.123 and 6.252], was swallowed up by the earth. 
 
@@ -154,51 +154,51 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [48]: Virgil Aen. 2.201
 
-[49]: Ilioupersis.5
+[49]: Iliupersis.5
 
 [50]: Apollod. Epit. 5.19
 
 [51]: Apollod. Epit. 5.19
 
-[52]: 
+[52]: Iliupersis.6
 
-[53]: 
+[53]: Servius on Virgil Aen. 2.150 says that the Horse was 120 feet tall, as found in West LOEB 147. This would no doubt explain the death of Echion if he neglected to use a rope to descend.
 
-[54]: 
+[54]: urn:cite:hmt:capimgs.Capitoline_16@0.531,0.232,0.234,0.1707
 
-[55]: 
+[55]: Iliupersis.7
 
-[56]: 
+[56]: urn:cite:hmt:capimgs.Capitoline_16@0.121,0.128,0.746,0.264
 
-[57]: 
+[57]: Apollod. Epit. 5,21
 
-[58]: 
+[58]: Iliupersis.8
 
-[59]: 
+[59]: urn:cite:hmt:capimgs.Capitoline_16@0.297,0.3787,0.372,0.2213
 
-[60]: 
+[60]: see my chapter 5 on the events that happen before the *Iliad* for the embassy to Troy
 
-[61]: 
+[61]: compare Virgil Aen. 2.699 and following
 
-[62]: 
+[62]: Apollod. Epit. 5.21
 
-[63]: 
+[63]: urn:cite:hmt:capimgs.Capitoline_16@0.108,0.528,0.325,0.1813 and urn:cite:hmt:capimgs.Capitoline_16@0.379,0.5453,0.233,0.284
 
-[64]: 
+[64]: urn:cite:hmt:capimgs.Capitoline_1@0.365,0.6293,0.258,0.22
 
-[65]: 
+[65]: Iliupersis.9
 
-[66]: 
+[66]: Apollod. Epit. 5.22
 
-[67]: 
+[67]: iliupersis_1.2
 
-[68]: 
+[68]: urn:cite:hmt:capimgs.Capitoline_16@0.571,0.38,0.357,0.2147
 
-[69]: 
+[69]: Iliupersis.10
 
-[70]: 
+[70]: Apollod. Epit. 5.22
 
-[71]: 
+[71]: iliupersis_1.1
 
 [72]: 
 
