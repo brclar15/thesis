@@ -27,23 +27,23 @@ The first gathering at Aulis appears to be an important episode based largely on
 
 Next, the Greeks land at Teuthrania and attack it because they think it is Troy. After Telephus, the king of Mysia, kills Thersander, he is wounded by Achilles. Then, a great storm disperses the Greek forces, bringing Achilles to Skyros, where he marries Deidamea, the  daughter of Lycomedes. This episode seems to be made up of elements that are only loosely connected based off of what one can tell from Proclus' retelling. Due to the abbreviated nature of his writings and the fact that these events are not sequential or even sometimes present in other retellings, it is difficult to see what connection Proclus would have created between the elements of this episode. Although he does use his usual episode marker ἔπειτα before and after this section, what comes after is still related to Telephus. Had the events at Skyros not been placed in between the passages concerning Telephus, the singular appearance of Telephus in the Cycle would have made these passage one episode. Still, the inclusion of Achilles' trip to Skyros and the attack on Teuthrania in the same episode, going off of Proclus' temporal episodic dividers, is enough to let them stand as the same unit. 
 
-However, taking this episode as a whole presents problems when looking at the retellings other than Proclus. Not only are they not sequentially linked anywhere else, but they do not even appear in the hypothesis. It is completely silent on both the attack on Teuthrania and Achilles' stay at Scyros. There are a number of possible explanations for its exlusion. It is out of this union that Neoptolemos is born [see Little Iliad and Sack of Troy parts], who plays a large part in the Trojan War after the events of the *Iliad*. However, this is a hypothesis of the *Iliad*, and therefore does not concern itself with the events after this epic. There is no need to foreshadow later Cyclic events, as the hypothesis solely sets out to tell the essential events before the *Iliad*. An analysis of the geographic names present in this retelling reveals that very few of the stops that the Greek forces made on the way to Troy are named. Only Aulis and Lemnos, in connection with Philoctetes, appear in the hypothesis. The author did not concern himself with each side journey, but rather glosses over much of the voyage to Troy. His focus is to set the scene for the *Iliad*, not to give every detail of the journey. 
+However, taking this episode as a whole presents problems when looking at the retellings other than Proclus. Not only are they not sequentially linked anywhere else, but they do not even appear in the hypothesis. It is completely silent on both the attack on Teuthrania and Achilles' stay at Scyros. There are a number of possible explanations for its exlusion. It is out of this union that Neoptolemos is born, who plays a large part in the Trojan War after the events of the *Iliad*. However, this is a hypothesis of the *Iliad*, and therefore does not concern itself with the events after this epic. There is no need to foreshadow later Cyclic events, as the hypothesis solely sets out to tell the essential events before the *Iliad*. An analysis of the geographic names present in this retelling reveals that very few of the stops that the Greek forces made on the way to Troy are named. Only Aulis and Lemnos, in connection with Philoctetes, appear in the hypothesis. The author did not concern himself with each side journey, but rather glosses over much of the voyage to Troy. His focus is to set the scene for the *Iliad*, not to give every detail of the journey. 
 
 Apollodorus provides a characteristically expanded version of the attack on Teuthrania. He does include, like Proclus and Tzetzes, that it was the death of Thersander, son of Polynices, that spurred Achilles to confront Telephus one on one. However, Apollodorus explains the details of the wound that Achilles inflicted on Telephus, namely that he tripped with his foot entangled in a vine branch. The wound is important because it figures prominently in the following episode with Telephus.  Tzetzes not only has a fairly contracted retelling of the Telephus episode, but also does not place it in the same narrative sequence as Proclus and Apollodorus. Instead, it is part of a speech given by Palamedes while he is on trial for plotting against the Greeks. A discussion of the character of Palamedes will be given later in this thesis.
 
-The element of the visit to Scyros, as mentioned before, is unique to Proclus when combined with this episode. While the hypothesis is again silent on the event, Apollodorus does retell it in his work. However, it appears in the middle of book 3 as part of a brief section on the early part of Achilles' life[Ap. 3.8.1-3.8.8]. This passage is outside the bounds of Apollodorus' Epic Cycle section, as are events concerning the birth of Paris, and the birth and betrothal of Helen. Apollodorus has Kalchas foretell that Troy would not be taken without Achilles, and consequently Thetis chooses to hide him as a girl in the court of Lycomedes, king of Scyros. Tzetzes makes a highly compressed reference to the events at Scyros, notably not mentioning the place by name or the tryst with Lycomedes' daughter Deidamea. Instead, he writes that Chiron, the centaur teacher of Achilles, foretold the two possible outcomes for Achilles in direct speech to Thetis[ὁσὸς υἱὸς ὁ Ἀχϊλλεὺς μένων ἐν τῇ πατρΐδϊ· ἔσεται πολϋχρόνϊος πλὴν ἐκ τῶν ἀδοξούντων· εἰ μετὰ τῶν Ἑλλήνων δὲ κατὰ τῶν Τρώων πλεύσει, ἔνδοξος ἔσται καὶ λαμπρὸς ἀλλὰ σϋντόμως θνήσκει]. Tzetzes does not provide much more information, but says that Thetis hid him out of fear for her sons's life. He writes that φοβεθεὶς τὸν πόλεμον ἐφόρει γϋναικεῖα, καὶ σῢν παρθὲνοις ἱστουργῶν κρϋπτόμενος ὑπῆρχε[Tzetzes Proleg line 438-439]. This passing reference to hiding among young girls evokes the episode of Scyros without explicitly stating it. It is interesting that Tzetzes is so brief in this passage about a younger Achilles, when he devotes a great number of lines to the a discussion of a young Paris[Tzetzes Proleg line 171-213].
+The element of the visit to Scyros, as mentioned before, is unique to Proclus when combined with this episode. While the hypothesis is again silent on the event, Apollodorus does retell it in his work. However, it appears in the middle of book 3 as part of a brief section on the early part of Achilles' life[^18]. This passage is outside the bounds of Apollodorus' Epic Cycle section, as are events concerning the birth of Paris, and the birth and betrothal of Helen. Apollodorus has Kalchas foretell that Troy would not be taken without Achilles, and consequently Thetis chooses to hide him as a girl in the court of Lycomedes, king of Scyros. Tzetzes makes a highly compressed reference to the events at Scyros, notably not mentioning the place by name or the tryst with Lycomedes' daughter Deidamea. Instead, he writes that Chiron, the centaur teacher of Achilles, foretold the two possible outcomes for Achilles in direct speech to Thetis[^19]. Tzetzes does not provide much more information, but says that Thetis hid him out of fear for her sons's life. He writes that φοβεθεὶς τὸν πόλεμον ἐφόρει γϋναικεῖα, καὶ σῢν παρθὲνοις ἱστουργῶν κρϋπτόμενος ὑπῆρχε[^20]. This passing reference to hiding among young girls evokes the episode of Scyros without explicitly stating it. It is interesting that Tzetzes is so brief in this passage about a younger Achilles, when he devotes a great number of lines to the a discussion of a young Paris[^21].
 
-After this, the wounded Telephus seeks out the Greeks, particularly Achilles, in order to be healed. Proclus says that he does this κατὰ μαντείαν[Cypria.14], while Apollodorus names Apollo as the one who suggested that ὁ τρώσας ἰατρὸς γένηται[Apollod. Epit. 3.19]. The element of Achilles as the healer is essential to this episode as he was the one who inflicted the original wound. Upon being healed, both of these sources say that, in a notable instance of foe turning guide, the Mysian king leads the Greeks to Troy. Apollodorus goes further to say that Kalchas confirmed the route of Telephus by means of his prophetic powers. This nod to the Greek seer is in accordance with Apollodorus' custom of including prophesies and divination in his retelling. Like the beginning of Telephus' action in the Cycle, the hypothesis does not contain this part of the episode nor does Tzeztes provide much detail beyond a passing reference.
+After this, the wounded Telephus seeks out the Greeks, particularly Achilles, in order to be healed. Proclus says that he does this κατὰ μαντείαν[^22], while Apollodorus names Apollo as the one who suggested that ὁ τρώσας ἰατρὸς γένηται[^23]. The element of Achilles as the healer is essential to this episode as he was the one who inflicted the original wound. Upon being healed, both of these sources say that, in a notable instance of foe turning guide, the Mysian king leads the Greeks to Troy. Apollodorus goes further to say that Kalchas confirmed the route of Telephus by means of his prophetic powers. This nod to the Greek seer is in accordance with Apollodorus' custom of including prophesies and divination in his retelling. Like the beginning of Telephus' action in the Cycle, the hypothesis does not contain this part of the episode nor does Tzeztes provide much detail beyond a passing reference.
 
 Connected to the healing of Telephus is the sacrifice of Iphigenia. Proclus pairs the end of Telephus' involvement with the focal point of the episode because it is Telephus who guides the Greek forces to Aulis for the second time. Here Agamemnon must offer his daughter to Artemis, in order that the Greeks be able to sail on to Troy. Each retelling, again with the exception of the hypothesis, include a version of this episode. Its wide presence supports the fact that it is an essential episode, even though it is not included in the hypothesis, where it must have been seen as merely another stop on the way. In Tzetzes, the sacrifice happens at the first and only gathering at Aulis, since he does not include the Greek forces being scattered and Telephus leading the Greeks back there. Both Proclus and Apollodorus specify that it was the τὸ δεύτερον gathering at Aulis. Tzetzes' version is the most contracted. Like the other two retellings, he acknowledges the fact that the winds were preventing the Greeks from sailing. After killing a deer of Artemis, he brings his daughter Iphigenia in order to sacrifice her. However, he slaughters the deer instead of his daughter, who then is made a ἱέρειαν of Artemis. 
 
-Proclus expands this episode to explain that Artemis held the ships χειμῶνας ἐπιπέμπουσα[Cypria.15] on account of the boasting of Agamemnon upon shooting a deer. Kalchas is the one who demands the sacrifice of Iphigenia, and use the excuse of marrying her to Achilles to bring her to Aulis. Artemis saves the girl just before she is killed, and places a deer upon the altar instead. She takes her to the Tauroi and makes her immortal. Apollodorus agrees with this version, but expands it further. He provides more of the back-story of Artemis' wrath by adding that it was in part due also to Atreus' failure to sacrifice a golden lamb to her. Agamemnon sends for his daughter actively πέμψας Ἀγαμέμνων πρὸς Κλυταιμνήστραν[Apollod. Epit. 3.22] by sending Odysseus and Talthybius, as opposed to in Proclus where unspecified Greeks are passively sent, μεταπεμψάμενοι[Cypria.15]. This sense of active blame in Apollodorus is in contrast to the lack of blame shown in Tzeztes, where the faults of heroes are often passed over. The same ruse of marrying the daughter to Achilles is used to convince Clytaemnestra to allow her to go. Apollodorus' version is a mix of Proclus and Tzetzes, as he has Artemis save the girl, carry her to the Tauroi, and make her a ἱέρειαν [Apolld. E 3.22]. He then adds that ὡς δὲ ἔνιοι λέγουσιν that she was made immortal, just as Proclus says. 
+Proclus expands this episode to explain that Artemis held the ships χειμῶνας ἐπιπέμπουσα[^24] on account of the boasting of Agamemnon upon shooting a deer. Kalchas is the one who demands the sacrifice of Iphigenia, and use the excuse of marrying her to Achilles to bring her to Aulis. Artemis saves the girl just before she is killed, and places a deer upon the altar instead. She takes her to the Tauroi and makes her immortal. Apollodorus agrees with this version, but expands it further. He provides more of the back-story of Artemis' wrath by adding that it was in part due also to Atreus' failure to sacrifice a golden lamb to her. Agamemnon sends for his daughter actively πέμψας Ἀγαμέμνων πρὸς Κλυταιμνήστραν[^25] by sending Odysseus and Talthybius, as opposed to in Proclus where unspecified Greeks are passively sent, μεταπεμψάμενοι[^26]. This sense of active blame in Apollodorus is in contrast to the lack of blame shown in Tzeztes, where the faults of heroes are often passed over. The same ruse of marrying the daughter to Achilles is used to convince Clytaemnestra to allow her to go. Apollodorus' version is a mix of Proclus and Tzetzes, as he has Artemis save the girl, carry her to the Tauroi, and make her a ἱέρειαν [^27]. He then adds that ὡς δὲ ἔνιοι λέγουσιν that she was made immortal, just as Proclus says. 
 
-The next episode focuses on the events on Tenedos and the abandonment of Philoctetes. Proclus is uncharacteristically brief with the first element of this episode[We should except this to have come in the *Cypria*, but it remains odd that Proclus says nothing of fighting on Tenedos - West 111]. He merely says ἔπειτα καταπλέουσιν εἰς Τένεδον[Cypria.16]. There is no reference the attack on Tenedos nor to Achilles' slaying of Tenes, the eponymous ruler of the island[The absence of any reference to the killing of Tennes in Proklos' summary could indicate that it was not a part of the *Kypria*, but we really have very little means of controlling how complete that summary is - Gantz 592]. As is typically seen, the hypothesis does not include this side stop.  Tzeztes is silent on Tenes as well. Apollodorus, however, offers a highly expanded version of this part of the episode. As he often does, he provides the fully back story and genealogy of Tenes[Apollod. Epit. 3.23-3.25], before narrative his death at the hands of Achilles. Importantly, he includes a prophecy that said that, if Achilles slew Tenes, he himself would be killed by Apollo. Because Apollodorus provides an alternate ancestry in which Apollo fathered Tenes, ὡς δέ τινες Ἀπόλλωνος, this alludes to a wider prophecy warning Achilles against slaying the sons of Apollo. 
+The next episode focuses on the events on Tenedos and the abandonment of Philoctetes. Proclus is uncharacteristically brief with the first element of this episode[^28]. He merely says ἔπειτα καταπλέουσιν εἰς Τένεδον[^29]. There is no reference the attack on Tenedos nor to Achilles' slaying of Tenes, the eponymous ruler of the island[^30]. As is typically seen, the hypothesis does not include this side stop.  Tzeztes is silent on Tenes as well. Apollodorus, however, offers a highly expanded version of this part of the episode. As he often does, he provides the fully back story and genealogy of Tenes[^31], before narrative his death at the hands of Achilles. Importantly, he includes a prophecy that said that, if Achilles slew Tenes, he himself would be killed by Apollo. Because Apollodorus provides an alternate ancestry in which Apollo fathered Tenes, ὡς δέ τινες Ἀπόλλωνος, this alludes to a wider prophecy warning Achilles against slaying the sons of Apollo. 
 
-All four retellings include the essential element of Philoctetes abandonment on Lemnos. Proclus writes that, while feasting on Tenedos, Philoctetes was bitten by a water snake and was κατελείφθη[Cypria.16] on Lemnos due to the smell. The hypothesis includes a sentence on Philoctetes, which echoes the passivity of his abandonment with the verb form καταλειφθῆναι[cite passage]. While this episode is very brief by the standards of other retellings, it is appropriately long for the highly abbreviated nature of the hypothesis. It is surprising that the hypothesis choose to foreshadow the involvement of Philoctetes in later Cyclic events, but, as we have already seen, does not do the same for Neoptolemos. Similarly, Tzetzes only includes one line on this episode, which is found in the catalog entry for Philoctetes. He writes ὡς δὲ δηχθεὶς ὑπ’ ὄφεως ἦν ἐκρϊφεὶς ἐν Λΐμνω·[Tzetzes Proleg 611]. While brief, this one line does accurately explain the events of the more expanded versions of this episode. Apollodorus retells the most expanded version of the story with several extra elements. First, he writes that Philoctetes had in his possession the bow of Heracles, which a traditional audience would know it will be needed later to take Troy, according to a prophecy. Further, Apollodorus names Odysseus as the one who leaves his fellow hero on Lemnos, following the orders of Agamemnon. Again this retelling shows its preference for active blame, even if it does not reflect well on a particular hero. In all of the retellings except for Tzetzes, Philoctetes is bitten by a ὕδρος. Both Apollodorus and Proclus say that he was bitten during a great feast  on Tenedos, and then moved to Lemnos[on the move of Philoctetes from Tenedos to Lemnos, see West 112-113]. Proclus also includes an element that is unique to his retelling of this episode. Achilles quarrels with Agamemnon because he was invited late to the feast. This can be seen as a foreshadowing of the dispute between the two leaders in *Iliad* 1 [see West 113].
+All four retellings include the essential element of Philoctetes abandonment on Lemnos. Proclus writes that, while feasting on Tenedos, Philoctetes was bitten by a water snake and was κατελείφθη[^32] on Lemnos due to the smell. The hypothesis includes a sentence on Philoctetes, which echoes the passivity of his abandonment with the verb form καταλειφθῆναι[cite passage]. While this episode is very brief by the standards of other retellings, it is appropriately long for the highly abbreviated nature of the hypothesis. It is surprising that the hypothesis choose to foreshadow the involvement of Philoctetes in later Cyclic events, but, as we have already seen, does not do the same for Neoptolemos. Similarly, Tzetzes only includes one line on this episode, which is found in the catalog entry for Philoctetes. He writes ὡς δὲ δηχθεὶς ὑπ’ ὄφεως ἦν ἐκρϊφεὶς ἐν Λΐμνω·[^33]. While brief, this one line does accurately explain the events of the more expanded versions of this episode. Apollodorus retells the most expanded version of the story with several extra elements. First, he writes that Philoctetes had in his possession the bow of Heracles, which a traditional audience would know it will be needed later to take Troy, according to a prophecy. Further, Apollodorus names Odysseus as the one who leaves his fellow hero on Lemnos, following the orders of Agamemnon. Again this retelling shows its preference for active blame, even if it does not reflect well on a particular hero. In all of the retellings except for Tzetzes, Philoctetes is bitten by a ὕδρος. Both Apollodorus and Proclus say that he was bitten during a great feast  on Tenedos, and then moved to Lemnos[^34]. Proclus also includes an element that is unique to his retelling of this episode. Achilles quarrels with Agamemnon because he was invited late to the feast. This can be seen as a foreshadowing of the dispute between the two leaders in *Iliad* 1 [^35].
 
-At last, the Greek forces reach the shores of Troy, and the fighting begins. The episode of the first landing at Troy centers on the death of Protesilaos, the first Greek to disembark. Proclus says that the Greek army lands, Protesilaos disembarks, and then he is killed by Hector. The hypothesis, which includes this episode due to the fact that the action has now reached Troy, manages to expand this episode with a remarkably brief economy of words. The author explains the significance of his death by adding explaining that he πρῶτον ἀποθορώντας τῆς νεὼς. Apollodorus and Tzetzes both include this notion of his death being tied to the fact that he landed on the beach first. Tzetzes references Protesilaos twice: once in his catalog entry[Proleg 600 πρῶτος πάντων δὲ πεσὼν τῇ σϋμβολῆ πολέμου.] and once in the appropriate narrative sequence where he gives the full story[Proleg 837-855]. He too explains the significance of being first to land by saying ἦν γὰρ χρησμὸς τὸν ἄρξαντα πρῶτος θανεῖν τῶν ἄλλων[Proleg 838]. Apollodorus notes that Protesilaos κτείνας οὐκ ὀλίγους τῶν βαρβάρων[Apollod. Epit 3.30], thereby showing his strength and courage. Both Tzetzes and Apollodorus recount the reaction of his young wife Laodamia[Apollod. E 3.30] or Polydora[Pausanias 4.2.7], who was stricken with grief upon hearing of her husband's death[on a possible digression concerning the suicide of his wife, see Severyns 1928 pg 302]. **note Iliad 2.700 connection and how important her story is ?**
+At last, the Greek forces reach the shores of Troy, and the fighting begins. The episode of the first landing at Troy centers on the death of Protesilaos, the first Greek to disembark. Proclus says that the Greek army lands, Protesilaos disembarks, and then he is killed by Hector. The hypothesis, which includes this episode due to the fact that the action has now reached Troy, manages to expand this episode with a remarkably brief economy of words. The author explains the significance of his death by adding explaining that he πρῶτον ἀποθορώντας τῆς νεὼς. Apollodorus and Tzetzes both include this notion of his death being tied to the fact that he landed on the beach first. Tzetzes references Protesilaos twice: once in his catalog entry[^36] and once in the appropriate narrative sequence where he gives the full story[^37]. He too explains the significance of being first to land by saying ἦν γὰρ χρησμὸς τὸν ἄρξαντα πρῶτος θανεῖν τῶν ἄλλων[^38]. Apollodorus notes that Protesilaos κτείνας οὐκ ὀλίγους τῶν βαρβάρων[^39], thereby showing his strength and courage. Both Tzetzes and Apollodorus recount the reaction of his young wife Laodamia or Polydora[^40], who was stricken with grief upon hearing of her husband's death[^41]. **note Iliad 2.700 connection and how important her story is ?**
 
 The next episode poses a problem of chronology, as its elements are not always in the same order, or even tied at all. Proclus pairs first the death of Cycnus at the hands of Achilles with an embassy to Troy demanding the return of Helen and the stolen κτήματα. The death of Cycnus is mentioned in passing by Proclus, and omitted by the hypothesis. The hypothesis generally avoids characters that only appear once in the Cycle, such as Cycnus, Tenes, Palamedes, and other. Apollodorus keeps this element relatively brief, but adds that Achilles kills him by throwing a stone at his head. Additionally, it is the death of this hero that drives the Trojans into their citadel and behind its high walls. In the *Homeric Allegories*, Achilles kills Cycnus without much fanfare once the Trojans have walled themselves up in Troy[Prol 859-862].
 
@@ -98,53 +98,75 @@ The last episode within the narrative bounds of the Cypria is similar to the pre
 
 [17]: cite Iliad 2
 
-[18]: 
+[18]: Ap. 3.8.1-3.8.8
 
-[19]: 
+[19]: ὁσὸς υἱὸς ὁ Ἀχϊλλεὺς μένων ἐν τῇ πατρΐδϊ· ἔσεται πολϋχρόνϊος πλὴν ἐκ τῶν ἀδοξούντων· εἰ μετὰ τῶν Ἑλλήνων δὲ κατὰ τῶν Τρώων πλεύσει, ἔνδοξος ἔσται καὶ λαμπρὸς ἀλλὰ σϋντόμως θνήσκει
 
-[20]: 
+[20]: Tzetzes Proleg line 438-439 
 
-[21]: 
+[21]: Tzetzes Proleg line 171-213
 
-[22]: 
+[22]: Cypria.14 
 
-[23]: 
+[23]: Apollod. Epit. 3.19
 
-[24]: 
+[24]: Cypria.15
 
-[25]: 
+[25]: Apollod. Epit. 3.22
 
-[26]: 
+[26]: Cypria.15
 
-[27]: 
+[27]: Apolld. E 3.22
 
-[28]: 
+[28]: We should except this to have come in the *Cypria*, but it remains odd that Proclus says nothing of fighting on Tenedos - West 111
 
-[29]:
+[29]: Cypria.16
 
-[30]:
+[30]: The absence of any reference to the killing of Tennes in Proklos' summary could indicate that it was not a part of the *Kypria*, but we really have very little means of controlling how complete that summary is - Gantz 592
 
-[2]:
+[31]: Apollod. Epit. 3.23-3.25
 
-[2]:
+[32]: Cypria.16          
 
-[2]:
+[33]: Tzetzes Proleg 611
 
-[2]:
+[34]: on the move of Philoctetes from Tenedos to Lemnos, see West 112-113
 
-[2]:
+[35]: see West 113
 
-[2]:
+[36]: Proleg 600 πρῶτος πάντων δὲ πεσὼν τῇ σϋμβολῆ πολέμου.
 
-[2]:
+[37]: Prolge Protesilaos part
 
-[2]:
+[38]: proleg line part
 
-[2]:
+[39]: Apollod. Epit 3.30
 
-[2]:
+[40]: Pausanias 4.2.7  
 
-[2]:
+[41]: on a possible digression concerning the suicide of his wife, see Severyns 1928 pg 302
 
-[2]:
+[2]: 
+
+[2]: 
+
+[2]: 
+
+[2]: 
+
+[2]: 
+
+[2]: 
+
+[2]: 
+
+[2]: 
+
+[2]: 
+
+[2]: 
+
+[2]: 
+
+[2]: 
 
