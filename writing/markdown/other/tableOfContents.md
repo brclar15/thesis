@@ -15,3 +15,5 @@
 ##Chapter 6: Retellings of the Events After the *Iliad*: Apollodorus' *Library*, Proclus' Summaries, Tabula Capitolina##
 
 ##Chapter 7: Conclusion##
+
+##Bibliography##
