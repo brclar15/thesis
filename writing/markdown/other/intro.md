@@ -1,6 +1,4 @@
-##Retellings of the Iliad and the Epic Cycle##
-
-#Chapter 1: Introduction#
+##Chapter 1: Introduction##
 
 From their genesis to the present day, the *Iliad* and the *Odyssey* have been praised for their poetic and narrative excellence. As these epics became central to both Greek and Roman education, the need arose for shorter, more compact versions of this material to be circulated. However, the length and complexity of these poems made it a difficult task to break them down into smaller units. These summaries, or retellings, are remarkably dense, while still being abbreviated. In an attempt to give only the essential action, many scenes and even whole characters were cut out. This practice of retelling the Homeric epics reveals what were considered the vital parts, or episodes, within these poems. The way in which these retellings are separated into episodes, what is included and excluded, and the characters who appear in them all provide insight into how an ancient audience would have read not only these summaries, but also the epics themselves.
 
