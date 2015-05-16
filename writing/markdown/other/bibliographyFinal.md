@@ -29,8 +29,6 @@
 - Schreiber, Theodor. Atlas of Classical Antiquities (London 1895) 176-179.
 - Severyns, Albert. Le cycle épique dans l'école d'Aristarque (Liège 1929)
 - Severyns, Albert. Recherches sur la Chrestomathie de Proclos Vol 1-3 (Liège 1977)
-    - The Best of Homer'. Homeric Texts, Performances and Images in the Hellenistic World and beyond. The Contribution of Inscriptions by Angelos Chaniotis
-    - Michael James Squire, Toying with Homer in Words and Pictures: The Tabulae Iliacae and the Aesthetics of Play
 - Rotroff, Susan. Hellenistic Pottery: Athenian and Imported Moldmade Bowls (The American School of Classics Studies at Athens 1982) 55-73
 - Petrain, David. Homer in Stone: The Tabulae Iliacae in their Roman context (Cambridge University Press 2014)
 - Several articles in @Classics Journal Reflecting on the Greek Epic Cycle, (CHS 2010) [CHS](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=3232)
