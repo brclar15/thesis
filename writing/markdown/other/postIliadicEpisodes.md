@@ -12,22 +12,22 @@ Then, Achilles sails to Lesbos to be purified, according to Proclus. This elemen
 
 Following the death of Memnon is the death of Achilles and the retrieval of his body. This episode is divided into two on the Tabula[^15]. The first shows a fallen Achilles being shielded by Ajax, and the second showing one figure carrying the body and another fighting off potential attackers. The second scene bears the caption Ὀδυσσεύς. Ἀχιλλέως σῶμα, but does not specify which hero is bearing the body. The figures cannot be identified iconographically, but Proclus and Apollodorus both note that Odysseus fights off the Trojans while Ajax carries the body. The architectural structure on the Tabula that is used as an episodic divider resembles the city walls and a gate, which agrees with Apollodorus' addition of πρὸς ταῖς Σκαιαῖς πύλαις[^16] Both Proclus and Apollodorus write that Achilles was shot by an arrow from both Paris and Apollo. Even though the artist of the Tabula chose not to depict the scene in which Achilles is shot, a traditional reader of the stone would have no doubt as to what had occurred before moments before this first episode. During the struggle to retrieve Achilles' body, Ajax  Γλαῦκον ἀναιρεῖ, καὶ τὰ ὅπλα δίδωσιν ἐπὶ τὰς ναῦς κομίζειν. West notes that while it may seem to be the ὅπλα  of Glaucus which is brought back to the ships, as it was originally the arms of Diomedes[^17], it is in fact that of Achilles. This is necessary to set up the dispute over his arms that closes this epic, and in Proclus, begins the next.
 
-The next episode deals with the burial of Achilles. Proclus and Apollodorus disagree right from the beginning, as Proclus writes that Achilles was buried with Antilochos[Aithiopis.8], and Apollodorus has him buried with Patroclus[Apollod. Epit. 5.5]. In Apollodorus, the Greeks θάπτουσι δὲ αὐτὸν ἐν Λευκῇ νήσῳ, while it is Thetis who conveys her son to the White Island in the next episode of Proclus. Thetis and the Muses are present in both Proclus and the Tabula[urn:cite:hmt:capimgs.Capitoline_8@0.655,0.3787,0.143,0.0907]. Both are identified by captions in the Tabula. Following an alternate tradition introduced by λέγεται, Apollodorus writes that Achilles weds Medea in the afterlife, which conflicts with *Odyssey* 11.471-11.540[Frazer pg.217 footnote 2]. 
+The next episode deals with the burial of Achilles. Proclus and Apollodorus disagree right from the beginning, as Proclus writes that Achilles was buried with Antilochos[^18], and Apollodorus has him buried with Patroclus[^19]. In Apollodorus, the Greeks θάπτουσι δὲ αὐτὸν ἐν Λευκῇ νήσῳ, while it is Thetis who conveys her son to the White Island in the next episode of Proclus. Thetis and the Muses are present in both Proclus and the Tabula[^20]. Both are identified by captions in the Tabula. Following an alternate tradition introduced by λέγεται, Apollodorus writes that Achilles weds Medea in the afterlife, which conflicts with *Odyssey* 11.471-11.540[^21]. 
 
-Then in the next episode, according to Proclus, Thetis moves Achilles' body to the White Island. He writes that the Greeks have funeral games for Achilles, while Apollodorus expands his episode to include the winners [τιθέασι δὲ ἐπ᾽ αὐτῷ ἀγῶνα, ἐν ᾧ νικᾷ Εὔμηλος ἵπποις, Διομήδης σταδίῳ, Αἴας δίσκῳ, Τεῦκρος τόξῳ. Apollod. Epit. 5.5]. Comparison with the Tabula reveals what the main element of this episode is: the dispute of the arms of Achilles. Proclus writes that a στάσις occurs between Odysseus and Ajax[Aithiopis.10]. However, he does not say anymore at this point in his narrative. Rather, he ends the summary of the *Aithiopis* there, and returns to the dispute of the arms at the start of his summary of the *Little Iliad*[Little Iliad.2]. Apollodorus relates an expanded version of the dispute and its outcome. However, as his work does not contain breaks for different episodes, it is difficult to decide where to place his treatment of this episode. While we do not know how the Tabula episodes for the *Little Iliad* would have started, we do know that the last episode in the *Aithiopis* band depicts the madness of Ajax[urn:cite:hmt:capimgs.Capitoline_8@0.779,0.384,0.104,0.0933]. Clearly the arms have already been awarded to Odysseus, but it is unclear at what stage the dejected hero is in his madness. In keeping with the practice of following Proclus' episodic divisions, I will treat the dispute of the arms in the next section, but the final scene on the Tabula must belong to the end of my discussion on  the *Aithiopis*.
+Then in the next episode, according to Proclus, Thetis moves Achilles' body to the White Island. He writes that the Greeks have funeral games for Achilles, while Apollodorus expands his episode to include the winners [^22]. Comparison with the Tabula reveals what the main element of this episode is: the dispute of the arms of Achilles. Proclus writes that a στάσις occurs between Odysseus and Ajax[^23]. However, he does not say anymore at this point in his narrative. Rather, he ends the summary of the *Aithiopis* there, and returns to the dispute of the arms at the start of his summary of the *Little Iliad*[^24]. Apollodorus relates an expanded version of the dispute and its outcome. However, as his work does not contain breaks for different episodes, it is difficult to decide where to place his treatment of this episode. While we do not know how the Tabula episodes for the *Little Iliad* would have started, we do know that the last episode in the *Aithiopis* band depicts the madness of Ajax[^25]. Clearly the arms have already been awarded to Odysseus, but it is unclear at what stage the dejected hero is in his madness. In keeping with the practice of following Proclus' episodic divisions, I will treat the dispute of the arms in the next section, but the final scene on the Tabula must belong to the end of my discussion on  the *Aithiopis*.
 
 
 ###Little Iliad###
 
-Following Proclus, the *Little Iliad* began with the dispute of Achilles' arms. He writes that Odysseus is awarded the prize κατὰ βούλησιν Ἀθηνᾶς[Little Iliad.2], which is different from her role in Apollodorus. As a result, Ajax slaughtered the flock of the Greeks in his madness, and then kills himself. Apollodorus writes that there is disagreement between whether Trojans (presumably captives) or whether Greeks judged the contest. He goes on to say that Athena drives Ajax mad upon losing, and that he slaughters the sheep because he thought they were the Greeks. Like in Proclus, he kills himself out of shame. Apollodorus expands his fate by saying that Agamemnon forbids Ajax's body to be burned, but rather to bury it in a coffin at Rhoiteion[See West pg. 178-179 on this unconventional practice]. He adds that Ajax μόνος οὗτος τῶν ἐν Ἰλίῳ ἀποθανόντων ἐν σορῷ κεῖται[Apollod. Epit. 5.7] No corresponding episode survives on the Tabula, save the one previously mentioned concerning the madness of Ajax.
+Following Proclus, the *Little Iliad* began with the dispute of Achilles' arms. He writes that Odysseus is awarded the prize κατὰ βούλησιν Ἀθηνᾶς[^26], which is different from her role in Apollodorus. As a result, Ajax slaughtered the flock of the Greeks in his madness, and then kills himself. Apollodorus writes that there is disagreement between whether Trojans (presumably captives) or whether Greeks judged the contest. He goes on to say that Athena drives Ajax mad upon losing, and that he slaughters the sheep because he thought they were the Greeks. Like in Proclus, he kills himself out of shame. Apollodorus expands his fate by saying that Agamemnon forbids Ajax's body to be burned, but rather to bury it in a coffin at Rhoiteion[^27]. He adds that Ajax μόνος οὗτος τῶν ἐν Ἰλίῳ ἀποθανόντων ἐν σορῷ κεῖται[^28] No corresponding episode survives on the Tabula, save the one previously mentioned concerning the madness of Ajax.
 
-The next episode in Proclus contains a few varied elements. His episode covers the capture of Helenus, the actions of Philoctetes, and the burial of Paris. The capture of Helenus, the Trojan seer and son of Priam, is at the front of this episode for Proclus. It is no doubt his prophetic skill that is the motivation for his capture, as the Greeks act next χρήσαντος περὶ τῆς ἁλώσεως τούτου[Little Iliad.3]. In Apollodorus, however, the capture of Helenus notably appears after the death of Paris. Once Helen's husband has died, Deiphobos and Helenus vie for her hand. When Helenus loses, he leaves for Ida, and is captured by Odysseus[Apollod. Epit. 5.9], as he is in Proclus. As we have seen frequently, Apollodorus displays his love of prophecies and oracles by listing the requirements for Troy's fall.[ὁ Ἕλενος λέγει πῶς ἂν αἱρεθείη ἡ Ἴλιος, πρῶτον μὲν εἰ τὰ Πέλοπος ὀστᾶ κομισθείη παρ᾽ αὐτούς, ἔπειτα εἰ Νεοπτόλεμος συμμαχοίη, τρίτον εἰ τὸ διιπετὲς παλλάδιον ἐκκλαπείη: τούτου γὰρ ἔνδον ὄντος οὐ δύνασθαι τὴν πόλιν ἁλῶναι. Apollod. Epit. 5.10]
+The next episode in Proclus contains a few varied elements. His episode covers the capture of Helenus, the actions of Philoctetes, and the burial of Paris. The capture of Helenus, the Trojan seer and son of Priam, is at the front of this episode for Proclus. It is no doubt his prophetic skill that is the motivation for his capture, as the Greeks act next χρήσαντος περὶ τῆς ἁλώσεως τούτου[^29]. In Apollodorus, however, the capture of Helenus notably appears after the death of Paris. Once Helen's husband has died, Deiphobos and Helenus vie for her hand. When Helenus loses, he leaves for Ida, and is captured by Odysseus[^30], as he is in Proclus. As we have seen frequently, Apollodorus displays his love of prophecies and oracles by listing the requirements for Troy's fall.[^31]
 
-After this, the character of Philoctetes is an essential element to this wider episode. It is upon Helenus' prophecy that Diomedes brings Philoctetes back from Lemnos. However, this prophecy comes from Kalchas in Apollodorus, as Helenus is not yet captive in the Greek camp[Apollod. Epit. 5.8]. Apollodorus also expands this element to explain that it is the bow of Heracles that is in Philoctetes' posession that is necessary to the Greeks' success, and he has Odysseus go with Diomedes to Lemnos. In a move fitting the Odysseus, Apollodorus writes that he δόλῳ ἐγκρατὴς γενόμενος τῶν τόξων πείθει πλεῖν αὐτὸν ἐπὶ Τροίαν. Upon arriving at Troy, Proclus writes that Machaon heals Philoctetes, but since he is dead in Apollodorus' narrative [Apollod. Epit. 5.1], he writes that Podalirius heals him. Both authors have Philoctetes kill Paris, and Apollodorus emphasizes this duel of arches by saying that he Ἀλέξανδρον τοξεύει. Perhaps due to the damage it sustained, almost none of these elements survive in the Tabula. However, a fallen archer[urn:cite:hmt:capimgs.Capitoline_8@0.004,0.4573,0.083,0.1547] is seen at the start of the band for the *Little Iliad*, which Petrain suggests could be Paris falling at the hands of Philoctetes. Proclus includes Paris' burial, but not before he writes that Menelaus mistreats his corpse, which seems uncharacteristically negative for Proclus. 
+After this, the character of Philoctetes is an essential element to this wider episode. It is upon Helenus' prophecy that Diomedes brings Philoctetes back from Lemnos. However, this prophecy comes from Kalchas in Apollodorus, as Helenus is not yet captive in the Greek camp[^32]. Apollodorus also expands this element to explain that it is the bow of Heracles that is in Philoctetes' posession that is necessary to the Greeks' success, and he has Odysseus go with Diomedes to Lemnos. In a move fitting the Odysseus, Apollodorus writes that he δόλῳ ἐγκρατὴς γενόμενος τῶν τόξων πείθει πλεῖν αὐτὸν ἐπὶ Τροίαν. Upon arriving at Troy, Proclus writes that Machaon heals Philoctetes, but since he is dead in Apollodorus' narrative [^33], he writes that Podalirius heals him. Both authors have Philoctetes kill Paris, and Apollodorus emphasizes this duel of arches by saying that he Ἀλέξανδρον τοξεύει. Perhaps due to the damage it sustained, almost none of these elements survive in the Tabula. However, a fallen archer[^34] is seen at the start of the band for the *Little Iliad*, which Petrain suggests could be Paris falling at the hands of Philoctetes. Proclus includes Paris' burial, but not before he writes that Menelaus mistreats his corpse, which seems uncharacteristically negative for Proclus. 
 
-The next episode opens in Proclus with Deiphobos marrying Helen, as is seen in Apollodorus through the expanded contest between him and his brother Helenus. Then, Odysseus fetches Neoptolemos from Scyros by giving him the arms of his father[Little Iliad.5]. He adds that Ἀχιλλεὺς αὐτῷ φαντάζεται, a detail not known to other retellings. Before the trip to Scyros, Apollodorus writes that the Greeks sent for the bones of Peplos, a prophecy unmentioned in Proclus. He adds that Phoenix also accompanied Odysseus[Apollod. Epit. 5.11], which seems logical due to his connection to Achilles. Odysseus relinquishes the arms as well in this retelling. Neoptolemos only appears in the Tabula on the battle field, as the artist did not depict scenes that happened outside of Troy and the immediately surrounding lands. 
+The next episode opens in Proclus with Deiphobos marrying Helen, as is seen in Apollodorus through the expanded contest between him and his brother Helenus. Then, Odysseus fetches Neoptolemos from Scyros by giving him the arms of his father[^35]. He adds that Ἀχιλλεὺς αὐτῷ φαντάζεται, a detail not known to other retellings. Before the trip to Scyros, Apollodorus writes that the Greeks sent for the bones of Peplos, a prophecy unmentioned in Proclus. He adds that Phoenix also accompanied Odysseus[^36], which seems logical due to his connection to Achilles. Odysseus relinquishes the arms as well in this retelling. Neoptolemos only appears in the Tabula on the battle field, as the artist did not depict scenes that happened outside of Troy and the immediately surrounding lands. 
 
-Like Penthesilea and Memnon, another ally comes to aid the Trojans. The Trojan king Eurypylus, son of Telephus, arrives at the battle field and is described as ἀριστεύσαντα by both text sources.[Little Iliad.6 and Apollod. Epit. 5.12]. The Tabula shows two figures making a sort of treaty, which Pertain takes to be Eurypylus and Priam[urn:cite:hmt:capimgs.Capitoline_8@0.059,0.448,0.132,0.1587]. The next scene shows the death of the Mysian king at the hands of Neoptolemos[urn:cite:hmt:capimgs.Capitoline_8@0.168,0.4533,0.157,0.1573], which agrees with the textual retellings. 
+Like Penthesilea and Memnon, another ally comes to aid the Trojans. The Trojan king Eurypylus, son of Telephus, arrives at the battle field and is described as ἀριστεύσαντα by both text sources.[^37]. The Tabula shows two figures making a sort of treaty, which Pertain takes to be Eurypylus and Priam[^38]. The next scene shows the death of the Mysian king at the hands of Neoptolemos[urn:cite:hmt:capimgs.Capitoline_8@0.168,0.4533,0.157,0.1573], which agrees with the textual retellings. 
 
 The next element for Proclus is can be treated as a different episode in the Tabula and Apollodorus. After introducing Epeios as he constructs the Trojan Horse on Athena's advice, Proclus writes that Odysseus enters the citadel and, after being recognized by Helen, they περὶ τῆς ἁλώσεως τῆς πόλεως συντίθεται[Little Iliad.9]. Then, he leaves the city, and in the next episode (signified by the usual  καὶ μετὰ ταῦτα), he returns to take the Palladion with Diomedes. Apollodorus, however, writes that Odysseus took the Palladion on his original trip into the city, after conferring with Helen. He too includes Diomedes, who waited outside of the city for Odysseus to return. Both heroes are essential, as they both appear named in the Tabula episode[urn:cite:hmt:capimgs.Capitoline_8@0.304,0.456,0.137,0.1627]. Odysseus disfigures himself in both text sources, and puts on a beggar's clothes in Apollodorus. Unlike the bones of Peplos, the importance of the Palladion must have been a well known prophecy concerning the fall of Troy. 
 
@@ -92,46 +92,132 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [17]: Iliad 6.230-6.236
 
-[18]: 
+[18]: Aithiopis.8
 
-[19]: 
+[19]: Apollod. Epit. 5.5
 
-[20]: 
+[20]: urn:cite:hmt:capimgs.Capitoline_8@0.655,0.3787,0.143,0.0907
 
-[21]: 
+[21]: Frazer pg.217 footnote 2
 
-[22]: 
+[22]: τιθέασι δὲ ἐπ᾽ αὐτῷ ἀγῶνα, ἐν ᾧ νικᾷ Εὔμηλος ἵπποις, Διομήδης σταδίῳ, Αἴας δίσκῳ, Τεῦκρος τόξῳ. Apollod. Epit. 5.5
 
-[23]: 
+[23]: Aithiopis.10
 
-[24]: 
+[24]: Little Iliad.2
 
-[25]: 
+[25]: urn:cite:hmt:capimgs.Capitoline_8@0.779,0.384,0.104,0.0933
 
-[26]: 
+[26]: Little Iliad.2 
 
-[27]: 
+[27]: See West pg. 178-179 on this unconventional practice
 
-[28]: 
+[28]: Apollod. Epit. 5.7
 
-[29]: 
+[29]: Little Iliad.3
 
-[30]: 
+[30]: Apollod. Epit. 5.9
 
-[1]: 
+[31]: ὁ Ἕλενος λέγει πῶς ἂν αἱρεθείη ἡ Ἴλιος, πρῶτον μὲν εἰ τὰ Πέλοπος ὀστᾶ κομισθείη παρ᾽ αὐτούς, ἔπειτα εἰ Νεοπτόλεμος συμμαχοίη, τρίτον εἰ τὸ διιπετὲς παλλάδιον ἐκκλαπείη: τούτου γὰρ ἔνδον ὄντος οὐ δύνασθαι τὴν πόλιν ἁλῶναι. Apollod. Epit. 5.10
 
-[1]: 
+[32]: Apollod. Epit. 5.8
 
-[1]: 
+[33]: Apollod. Epit. 5.1
 
-[1]: 
+[34]: urn:cite:hmt:capimgs.Capitoline_8@0.004,0.4573,0.083,0.1547
 
-[1]: 
+[35]: Little Iliad.5   
 
-[1]: 
+[36]: Apollod. Epit. 5.11
 
-[1]: 
+[37]: Little Iliad.6 and Apollod. Epit. 5.12
 
-[1]: 
+[38]: urn:cite:hmt:capimgs.Capitoline_8@0.059,0.448,0.132,0.1587
+
+[39]: 
+
+[40]: 
+
+[41]: 
+
+[42]: 
+
+[43]: 
+
+[44]: 
+
+[45]: 
+
+[46]: 
+
+[47]: 
+
+[48]: 
+
+[49]: 
+
+[50]: 
+
+[51]: 
+
+[52]: 
+
+[53]: 
+
+[54]: 
+
+[55]: 
+
+[56]: 
+
+[57]: 
+
+[58]: 
+
+[59]: 
+
+[60]: 
+
+[61]: 
+
+[62]: 
+
+[63]: 
+
+[64]: 
+
+[65]: 
+
+[66]: 
+
+[67]: 
+
+[68]: 
+
+[69]: 
+
+[70]: 
+
+[71]: 
+
+[72]: 
+
+[73]: 
+
+[74]: 
+
+[75]: 
+
+[76]: 
+
+[77]: 
+
+[78]: 
+
+[79]: 
+
+[80]: 
+
+[81]: 
 
 
