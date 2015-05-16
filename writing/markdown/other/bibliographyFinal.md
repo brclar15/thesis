@@ -29,9 +29,8 @@
 - Schreiber, Theodor. Atlas of Classical Antiquities (London 1895) 176-179.
 - Severyns, Albert. Le cycle épique dans l'école d'Aristarque (Liège 1929)
 - Severyns, Albert. Recherches sur la Chrestomathie de Proclos Vol 1-3 (Liège 1977)
-- Rotroff, Susan. Hellenistic Pottery: Athenian and Imported Moldmade Bowls (The American School of Classics Studies at Athens 1982) 55-73
+- Rotroff, Susan. Hellenistic Pottery: Athenian and Imported Moldmade Bowls (The American School of Classics Studies at Athens 1982) 55-73.
 - Petrain, David. Homer in Stone: The Tabulae Iliacae in their Roman context (Cambridge University Press 2014)
-- Several articles in @Classics Journal Reflecting on the Greek Epic Cycle, (CHS 2010) [CHS](http://chs.harvard.edu/wa/pageR?tn=ArticleWrapper&bdc=12&mn=3232)
 - Tsagalis, Christos. The Oral Palimpsest: Exploring Intertextuality in the Homeric Epics (Harvard University Press 2008)
 - Walter-Karydi, Elena. Myths, Texts, Images Homeric Epics and Ancient Greek Art (Center for Odyssean Studies 2009)
 - West, M. L. Greek Epic Fragments: Loeb (Harvard University Press 2003)
