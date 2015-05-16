@@ -1,4 +1,4 @@
-##Chapter 5: Retellings of Events Before the *Iliad*: Proclus Summary, Apollodorus, Hypothesis, John Tzetzes##
+##Chapter 5: Retellings of Events Before the *Iliad*: Proclus' Summaries, Apollodorus' Library, BNF 2706 Hypothesis, John Tzetzes' Homeric Allegories##
 
 The events that would have appeared in the *Cypria* would have began with the wedding of Peleus and Thetis and the judgment of Paris. From there, Paris takes Helen from Sparta back to Troy, causing the Greek forces to rally. After much delay and other exploits, they arrive at Troy and take the beach. The quarrel that opens the *Iliad* would have been found at the very end of the *Cypria*, once the Greeks had sacked an number of surrounding cities.
 
