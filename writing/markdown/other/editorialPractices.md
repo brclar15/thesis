@@ -29,7 +29,7 @@ As I have already established, an important aspect of a digital edition is that 
 
 [2]: link to IG and Petrain chapter
 
-[3]: link to the editorial guide
+[3]: http://homermultitext.github.io/hmt-editors-guide/editorial-policies/
 
 [4]: Squire
 

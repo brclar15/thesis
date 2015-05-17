@@ -41,7 +41,7 @@ Analyzing the episodes of various retellings for the Homeric poems is a differen
 
 [6]: cite that Greek Readers Digest book
 
-[7]: See M.L. West's *The Epic Cycle* as well as his *Greek Epic Fragments* in the Loeb series for an example of this practice of combining different retellings to create an inauthentic but continuous narrative
+[7]: See M.L. West's *The Epic Cycle* as well as his *Greek Epic Fragments* in the Loeb series for an example of this practice of combining different retellings to create an inauthentic but continuous narrative.
 
 [8]: Nunlist pg
 

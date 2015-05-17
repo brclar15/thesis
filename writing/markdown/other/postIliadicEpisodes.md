@@ -60,7 +60,7 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [1]: Aithiopis.1
 
-[2]: Apollod. Epit. 5.1
+[2]: urn:cts:greekLit:tlg0548.tlg002:e.5.1
 
 [3]: Little Iliad.3
 
@@ -70,17 +70,17 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [6]: West 140
 
-[7]: Apolld. Epit. 5.2
+[7]: urn:cts:greekLit:tlg0548.tlg002:e.5.2
 
 [8]: urn:cite:hmt:capimgs.Capitoline_8@0.107,0.368,0.158,0.0933
 
 [9]: Aithiopis.3
 
-[10]: Apollod. Epit. 5.1
+[10]: urn:cts:greekLit:tlg0548.tlg002:e.5.1
 
 [11]: Aithiopis.5
 
-[12]: Apollod. Epit. 5.3
+[12]: urn:cts:greekLit:tlg0548.tlg002:e.5.3
 
 [13]: West 145
 
@@ -88,13 +88,13 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [15]: urn:cite:hmt:capimgs.Capitoline_8@0.396,0.368,0.245,0.1107
 
-[16]: Apollod. Epit. 5.3
+[16]: urn:cts:greekLit:tlg0548.tlg002:e.5.3
 
-[17]: Iliad 6.230-6.236
+[17]: urn:cts:greekLit:tlg0012.tlg001:6.230-6.236
 
 [18]: Aithiopis.8
 
-[19]: Apollod. Epit. 5.5
+[19]: urn:cts:greekLit:tlg0548.tlg002:e.5.5
 
 [20]: urn:cite:hmt:capimgs.Capitoline_8@0.655,0.3787,0.143,0.0907
 
@@ -112,17 +112,17 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [27]: See West pg. 178-179 on this unconventional practice
 
-[28]: Apollod. Epit. 5.7
+[28]: urn:cts:greekLit:tlg0548.tlg002:e.5.7
 
 [29]: Little Iliad.3
 
-[30]: Apollod. Epit. 5.9
+[30]: urn:cts:greekLit:tlg0548.tlg002:e.5.9
 
-[31]: ὁ Ἕλενος λέγει πῶς ἂν αἱρεθείη ἡ Ἴλιος, πρῶτον μὲν εἰ τὰ Πέλοπος ὀστᾶ κομισθείη παρ᾽ αὐτούς, ἔπειτα εἰ Νεοπτόλεμος συμμαχοίη, τρίτον εἰ τὸ διιπετὲς παλλάδιον ἐκκλαπείη: τούτου γὰρ ἔνδον ὄντος οὐ δύνασθαι τὴν πόλιν ἁλῶναι. Apollod. Epit. 5.10
+[31]: ὁ Ἕλενος λέγει πῶς ἂν αἱρεθείη ἡ Ἴλιος, πρῶτον μὲν εἰ τὰ Πέλοπος ὀστᾶ κομισθείη παρ᾽ αὐτούς, ἔπειτα εἰ Νεοπτόλεμος συμμαχοίη, τρίτον εἰ τὸ διιπετὲς παλλάδιον ἐκκλαπείη: τούτου γὰρ ἔνδον ὄντος οὐ δύνασθαι τὴν πόλιν ἁλῶναι. urn:cts:greekLit:tlg0548.tlg002:e.5.10
 
-[32]: Apollod. Epit. 5.8
+[32]: urn:cts:greekLit:tlg0548.tlg002:e.5.8
 
-[33]: Apollod. Epit. 5.1
+[33]: urn:cts:greekLit:tlg0548.tlg002:e.5.1
 
 [34]: urn:cite:hmt:capimgs.Capitoline_8@0.004,0.4573,0.083,0.1547
 
@@ -130,7 +130,7 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [36]: Apollod. Epit. 5.11
 
-[37]: Little Iliad.6 and Apollod. Epit. 5.12
+[37]: Little Iliad.6 and urn:cts:greekLit:tlg0548.tlg002:e.5.12
 
 [38]: urn:cite:hmt:capimgs.Capitoline_8@0.059,0.448,0.132,0.1587
 
@@ -142,23 +142,23 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [42]: urn:cite:hmt:capimgs.Capitoline_8@0.413,0.46,0.365,0.1747
 
-[43]: Apollod. Epit. 5.14
+[43]: urn:cts:greekLit:tlg0548.tlg002:e.5.14
 
-[44]: Apollod. Epit. 5.15
+[44]: urn:cts:greekLit:tlg0548.tlg002:e.5.15
 
 [45]: urn:cite:hmt:capimgs.Capitoline_8@0.768,0.4587,0.113,0.1787
 
-[46]: Apollod. Epit. 5.17
+[46]: urn:cts:greekLit:tlg0548.tlg002:e.5.17
 
-[47]: Apollod. Epit. 5.18
+[47]: urn:cts:greekLit:tlg0548.tlg002:e.5.18
 
 [48]: Virgil Aen. 2.201
 
 [49]: Iliupersis.5
 
-[50]: Apollod. Epit. 5.19
+[50]: urn:cts:greekLit:tlg0548.tlg002:e.5.19
 
-[51]: Apollod. Epit. 5.19
+[51]: urn:cts:greekLit:tlg0548.tlg002:e.5.19
 
 [52]: Iliupersis.6
 
@@ -170,7 +170,7 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [56]: urn:cite:hmt:capimgs.Capitoline_16@0.121,0.128,0.746,0.264
 
-[57]: Apollod. Epit. 5,21
+[57]: urn:cts:greekLit:tlg0548.tlg002:e.5.21
 
 [58]: Iliupersis.8
 
@@ -180,7 +180,7 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [61]: compare Virgil Aen. 2.699 and following
 
-[62]: Apollod. Epit. 5.21
+[62]: urn:cts:greekLit:tlg0548.tlg002:e.5.21
 
 [63]: urn:cite:hmt:capimgs.Capitoline_16@0.108,0.528,0.325,0.1813 and urn:cite:hmt:capimgs.Capitoline_16@0.379,0.5453,0.233,0.284
 
@@ -188,7 +188,7 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [65]: Iliupersis.9
 
-[66]: Apollod. Epit. 5.22
+[66]: urn:cts:greekLit:tlg0548.tlg002:e.5.22
 
 [67]: iliupersis_1.2
 
@@ -196,7 +196,7 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [69]: Iliupersis.10
 
-[70]: Apollod. Epit. 5.22
+[70]: urn:cts:greekLit:tlg0548.tlg002:e.5.22
 
 [71]: iliupersis_1.1
 
@@ -204,27 +204,27 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [73]: T.W. Allen moves this last detail is moved to the end of the summary in his edition, but I have maintained its narrative position here, as it reflects its location in the Venetus A, the only source for this summary.
 
-[74]: Apollod. Epit. 5.23
+[74]: urn:cts:greekLit:tlg0548.tlg002:e.5.23
 
-[75]: compare Apollod. Epit. 5.23 and Iliupersis.15
+[75]: compare urn:cts:greekLit:tlg0548.tlg002:e.5.23 and Iliupersis.15
 
 [76]: Iliupersis.12
 
-[77]: Apolld. Epit. 5.23
+[77]: urn:cts:greekLit:tlg0548.tlg002:e.5.23
 
 [78]: iliupersis.7 and iliupersis.8, Helenus appears named,  as do the two women, through he does not grammatically fall under the overall title of Τρῳάδες
 
 [79]: urn:cite:hmt:capimgs.Capitoline_1@0.032,0.5253,0.148,0.212
 
-[80]: see Iliad 2.123 and 6.252
+[80]: see urn:cts:greekLit:tlg0012.tlg001:2.123 and urn:cts:greekLit:tlg0012.tlg001:6.252
 
 [81]: see my chapter 5 on the events before the *Iliad* for her journey to Troy with Helen
 
-[82]: Apollod. Epit. 5.22
+[82]: urn:cts:greekLit:tlg0548.tlg002:e.5.22
 
 [83]: urn:cite:hmt:capimgs.Capitoline_16@0.577,0.5493,0.293,0.1627
 
-[84]: Apollod. Epit. 5.23
+[84]: urn:cts:greekLit:tlg0548.tlg002:e.5.23
 
 [85]: urn:cite:hmt:capimgs.Capitoline_1@0.355,0.54,0.261,0.148
 

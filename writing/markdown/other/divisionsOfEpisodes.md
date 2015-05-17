@@ -61,7 +61,7 @@ The next figures are found at the lowest level within the citadel[^28]. Again, t
 
 The remainder of the scenes within the *Iliupersis* are fairly evident in their divisions. The sacrifice of Polyxena[^29] is clearly set off from the departure of Aeneas[^30] by a row of ships and other cutting marks [^31]. At first glance, it may appear that there is only one other episode present, which centers on the tomb of Hector[^32]. However, the repetition of Helenus makes it clear that two episodes are placed along this monument. Helenus would not be named twice within the same episode, and therefore the artist of the Tabula is dividing these episodes along separate sides of Hector's tomb.
 
-[1]: Poetics 1459a37
+[1]: urn:cts:greekLit:tlg0086.tlg034:1459b
 
 [2]: cite Nunlist
 
@@ -75,7 +75,7 @@ The remainder of the scenes within the *Iliupersis* are fairly evident in their 
 
 [7]: list episode and book numbers for rest, no connection
 
-[8]: Apollodorus Epitome 5.14
+[8]: urn:cts:greekLit:tlg0548.tlg002:e.5.14 
 
 [9]: Diller 304 - 305 and Frazer's sigla
 
@@ -83,9 +83,9 @@ The remainder of the scenes within the *Iliupersis* are fairly evident in their 
 
 [11]: count number in EC retelling
 
-[12]: Apollodorus Epitome 5.1-5.2
+[12]: urn:cts:greekLit:tlg0548.tlg002:e.5.1-5.2
 
-[13]: Apollodorus Epitome 3.5
+[13]: urn:cts:greekLit:tlg0548.tlg002:e.3.5
 
 [14]: Tzetzes Proleg. 50, 86, and 114
 

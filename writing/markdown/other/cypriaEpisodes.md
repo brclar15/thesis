@@ -96,7 +96,7 @@ The last episode within the narrative bounds of the Cypria is similar to the pre
 
 [17]: cite Iliad 2
 
-[18]: Ap. 3.8.1-3.8.8
+[18]: urn:cts:greekLit:tlg0548.tlg001:3.8.1-3.8.8
 
 [19]: ὁσὸς υἱὸς ὁ Ἀχϊλλεὺς μένων ἐν τῇ πατρΐδϊ· ἔσεται πολϋχρόνϊος πλὴν ἐκ τῶν ἀδοξούντων· εἰ μετὰ τῶν Ἑλλήνων δὲ κατὰ τῶν Τρώων πλεύσει, ἔνδοξος ἔσται καὶ λαμπρὸς ἀλλὰ σϋντόμως θνήσκει
 
@@ -106,15 +106,15 @@ The last episode within the narrative bounds of the Cypria is similar to the pre
 
 [22]: Cypria.14 
 
-[23]: Apollod. Epit. 3.19
+[23]: urn:cts:greekLit:tlg0548.tlg002:e.3.19
 
 [24]: Cypria.15
 
-[25]: Apollod. Epit. 3.22
+[25]: urn:cts:greekLit:tlg0548.tlg002:e.3.22
 
 [26]: Cypria.15
 
-[27]: Apolld. E 3.22
+[27]: urn:cts:greekLit:tlg0548.tlg002:e.3.22
 
 [28]: We should except this to have come in the *Cypria*, but it remains odd that Proclus says nothing of fighting on Tenedos - West 111
 
@@ -122,7 +122,7 @@ The last episode within the narrative bounds of the Cypria is similar to the pre
 
 [30]: The absence of any reference to the killing of Tennes in Proklos' summary could indicate that it was not a part of the *Kypria*, but we really have very little means of controlling how complete that summary is - Gantz 592
 
-[31]: Apollod. Epit. 3.23-3.25
+[31]: urn:cts:greekLit:tlg0548.tlg002:e.3.23-3.25
 
 [32]: Cypria.16          
 
@@ -138,7 +138,7 @@ The last episode within the narrative bounds of the Cypria is similar to the pre
 
 [38]: proleg line part
 
-[39]: Apollod. Epit 3.30
+[39]: urn:cts:greekLit:tlg0548.tlg002:e.3.30
 
 [40]: Pausanias 4.2.7  
 
@@ -167,13 +167,13 @@ Tzetzes lists Λέσβος· Φωκέαι· Κολοφὼν Κλαζομεν�
 
 [52]: Cypria.21
 
-[53]: Apolld. E 3.32
+[53]: urn:cts:greekLit:tlg0548.tlg002:e.3.32
 
-[54]: *Iliad* 20.90-20.93, and 20.188-20.194
+[54]: urn:cts:greekLit:tlg0012.tlg001:20.90-20.93 and urn:cts:greekLit:tlg0012.tlg001:20.188-20.194
 
 [55]: Cypria.23
 
-[56]: Apollod. Epit. 3.8
+[56]: urn:cts:greekLit:tlg0548.tlg002:e.3.8
 
 [57]: Prol 724-739
 
