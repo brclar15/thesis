@@ -59,7 +59,7 @@ The scholarship on the Tabulae Iliacae has been divided on the subject of their 
 
 [11]: cite allegories book 
 
-[12]: Proleg. 134 
+[12]: urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.134 
 
 [13]: http://gallica.bnf.fr/ark:/12148/btv1b520005627.r=.langFR 
 

@@ -58,11 +58,11 @@ Proclus then writes that the sons of Thesus, Demophon and Acamas, recover their 
 
 To end his summary, Proclus writes that the Greeks raze the city, and slaughter Polyxena on the tomb of Achilles. While this action appears earlier in Apollodorus[^84], before the final allotment of spoils, it does take place after the burning of the city in this retelling as well. It is given a prime location on the Tabula, appearing almost in the center of the stone[^85]. While this does not make it the focal point of this complex document, it does allow the episode to stand out among the others. The accompanying caption lists Νεοπτόλεμος, Πολυξένη, Ὀδυσσεύς, Κάλχας, and provides Ἀχιλλέως σῆμα as the location[^86]. Proclus gives a generic third person plural verb for the sacrifice, again not wanting to name names. However, Apollodorus also follows suit, and does not provide any more expansion. Another scene, only included on the Tabula, shows Odysseus talking to Helenus, who is accompanied by Hecuba, Andromache, and Polyxena[^87]. An episode with these characters does not appear in the other retellings. It is possible that it is linked to the sacrifice of Polyxena, due to her presence, and would explain Odysseus' role in the affair. Neoptolemos is present due to the fact that the sacrifice is being made on his father's tomb. Kalchas most likely appears due to a prophecy connection, possibly dealing with the spirit of Achilles. With this, Proclus concludes his retelling of the *Iliupersis*. 
 
-[1]: Aithiopis.1
+[1]: urn:cts:greekLit:tlg4036.tlg023.msA:Aithiopis.1
 
 [2]: urn:cts:greekLit:tlg0548.tlg002:e.5.1
 
-[3]: Little Iliad.3
+[3]: urn:cts:greekLit:tlg4036.tlg023.msA:Iliasparva.3
 
 [4]: urn:cite:hmt:capimgs.Capitoline_8@0.006,0.3573,0.13,0.108
 
@@ -74,11 +74,11 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [8]: urn:cite:hmt:capimgs.Capitoline_8@0.107,0.368,0.158,0.0933
 
-[9]: Aithiopis.3
+[9]: urn:cts:greekLit:tlg4036.tlg023.msA:Aithiopis.3
 
 [10]: urn:cts:greekLit:tlg0548.tlg002:e.5.1
 
-[11]: Aithiopis.5
+[11]: urn:cts:greekLit:tlg4036.tlg023.msA:Aithiopis.5
 
 [12]: urn:cts:greekLit:tlg0548.tlg002:e.5.3
 
@@ -92,7 +92,7 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [17]: urn:cts:greekLit:tlg0012.tlg001:6.230-6.236
 
-[18]: Aithiopis.8
+[18]: urn:cts:greekLit:tlg4036.tlg023.msA:Aithiopis.8
 
 [19]: urn:cts:greekLit:tlg0548.tlg002:e.5.5
 
@@ -102,19 +102,19 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [22]: τιθέασι δὲ ἐπ᾽ αὐτῷ ἀγῶνα, ἐν ᾧ νικᾷ Εὔμηλος ἵπποις, Διομήδης σταδίῳ, Αἴας δίσκῳ, Τεῦκρος τόξῳ. Apollod. Epit. 5.5
 
-[23]: Aithiopis.10
+[23]: urn:cts:greekLit:tlg4036.tlg023.msA:Aithiopis.10
 
-[24]: Little Iliad.2
+[24]: urn:cts:greekLit:tlg4036.tlg023.msA:Iliasparva.2
 
 [25]: urn:cite:hmt:capimgs.Capitoline_8@0.779,0.384,0.104,0.0933
 
-[26]: Little Iliad.2 
+[26]: urn:cts:greekLit:tlg4036.tlg023.msA:Iliasparva.2 
 
 [27]: See West pg. 178-179 on this unconventional practice
 
 [28]: urn:cts:greekLit:tlg0548.tlg002:e.5.7
 
-[29]: Little Iliad.3
+[29]: urn:cts:greekLit:tlg4036.tlg023.msA:Iliasparva.3
 
 [30]: urn:cts:greekLit:tlg0548.tlg002:e.5.9
 
@@ -126,17 +126,17 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [34]: urn:cite:hmt:capimgs.Capitoline_8@0.004,0.4573,0.083,0.1547
 
-[35]: Little Iliad.5   
+[35]: urn:cts:greekLit:tlg4036.tlg023.msA:Iliasparva.5   
 
-[36]: Apollod. Epit. 5.11
+[36]: urn:cts:greekLit:tlg0548.tlg002:e.5.11
 
-[37]: Little Iliad.6 and urn:cts:greekLit:tlg0548.tlg002:e.5.12
+[37]: urn:cts:greekLit:tlg4036.tlg023.msA:Iliasparva.6 and urn:cts:greekLit:tlg0548.tlg002:e.5.12
 
 [38]: urn:cite:hmt:capimgs.Capitoline_8@0.059,0.448,0.132,0.1587
 
 [39]: urn:cite:hmt:capimgs.Capitoline_8@0.168,0.4533,0.157,0.1573
 
-[40]: Little Iliad.9
+[40]: urn:cts:greekLit:tlg4036.tlg023.msA:Iliasparva.9
 
 [41]: urn:cite:hmt:capimgs.Capitoline_8@0.304,0.456,0.137,0.1627
 
@@ -152,33 +152,33 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [47]: urn:cts:greekLit:tlg0548.tlg002:e.5.18
 
-[48]: Virgil Aen. 2.201
+[48]: urn:cts:latinLit:phi0690.phi003:2.201
 
-[49]: Iliupersis.5
+[49]: urn:cts:greekLit:tlg4036.tlg023.msA:Iliupersis.5
 
 [50]: urn:cts:greekLit:tlg0548.tlg002:e.5.19
 
 [51]: urn:cts:greekLit:tlg0548.tlg002:e.5.19
 
-[52]: Iliupersis.6
+[52]: urn:cts:greekLit:tlg4036.tlg023.msA:Iliupersis.6
 
-[53]: Servius on Virgil Aen. 2.150 says that the Horse was 120 feet tall, as found in West LOEB 147. This would no doubt explain the death of Echion if he neglected to use a rope to descend.
+[53]: Servius on urn:cts:latinLit:phi0690.phi003:2.150 says that the Horse was 120 feet tall, as found in West LOEB 147. This would no doubt explain the death of Echion if he neglected to use a rope to descend.
 
 [54]: urn:cite:hmt:capimgs.Capitoline_16@0.531,0.232,0.234,0.1707
 
-[55]: Iliupersis.7
+[55]: urn:cts:greekLit:tlg4036.tlg023.msA:Iliupersis.7
 
 [56]: urn:cite:hmt:capimgs.Capitoline_16@0.121,0.128,0.746,0.264
 
 [57]: urn:cts:greekLit:tlg0548.tlg002:e.5.21
 
-[58]: Iliupersis.8
+[58]: urn:cts:greekLit:tlg4036.tlg023.msA:Iliupersis.8
 
 [59]: urn:cite:hmt:capimgs.Capitoline_16@0.297,0.3787,0.372,0.2213
 
 [60]: see my chapter 5 on the events that happen before the *Iliad* for the embassy to Troy
 
-[61]: compare Virgil Aen. 2.699 and following
+[61]: compare urn:cts:latinLit:phi0690.phi003:2.699 and following
 
 [62]: urn:cts:greekLit:tlg0548.tlg002:e.5.21
 
@@ -186,19 +186,19 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [64]: urn:cite:hmt:capimgs.Capitoline_1@0.365,0.6293,0.258,0.22
 
-[65]: Iliupersis.9
+[65]: urn:cts:greekLit:tlg4036.tlg023.msA:Iliupersis.9
 
 [66]: urn:cts:greekLit:tlg0548.tlg002:e.5.22
 
-[67]: iliupersis_1.2
+[67]: urn:cts:hmt:inscrs.iltab1a.capitoline:iliupersis_1.2
 
 [68]: urn:cite:hmt:capimgs.Capitoline_16@0.571,0.38,0.357,0.2147
 
-[69]: Iliupersis.10
+[69]: urn:cts:greekLit:tlg4036.tlg023.msA:Iliupersis.10
 
 [70]: urn:cts:greekLit:tlg0548.tlg002:e.5.22
 
-[71]: iliupersis_1.1
+[71]: urn:cts:hmt:inscrs.iltab1a.capitoline:iliupersis_1.1
 
 [72]: urn:cite:hmt:capimgs.Capitoline_16@0.377,0.1413,0.261,0.156
 
@@ -208,11 +208,11 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [75]: compare urn:cts:greekLit:tlg0548.tlg002:e.5.23 and Iliupersis.15
 
-[76]: Iliupersis.12
+[76]: urn:cts:greekLit:tlg4036.tlg023.msA:Iliupersis.12
 
 [77]: urn:cts:greekLit:tlg0548.tlg002:e.5.23
 
-[78]: iliupersis.7 and iliupersis.8, Helenus appears named,  as do the two women, through he does not grammatically fall under the overall title of Τρῳάδες
+[78]: urn:cts:hmt:inscrs.iltab1a.capitoline:iliupersis.7 and urn:cts:hmt:inscrs.iltab1a.capitoline:iliupersis.8. Helenus appears named,  as do the two women, through he does not grammatically fall under the overall title of Τρῳάδες.
 
 [79]: urn:cite:hmt:capimgs.Capitoline_1@0.032,0.5253,0.148,0.212
 
@@ -228,6 +228,6 @@ To end his summary, Proclus writes that the Greeks raze the city, and slaughter 
 
 [85]: urn:cite:hmt:capimgs.Capitoline_1@0.355,0.54,0.261,0.148
 
-[86]: iliupersis.11
+[86]: urn:cts:hmt:inscrs.iltab1a.capitoline:iliupersis.11
 
-[87]: urn:cite:hmt:capimgs.Capitoline_1@0.164,0.5293,0.146,0.1587 for the image, and iliupersis.9 for the captions
+[87]: urn:cite:hmt:capimgs.Capitoline_1@0.164,0.5293,0.146,0.1587 for the image, and urn:cts:hmt:inscrs.iltab1a.capitoline:iliupersis.9 for the captions

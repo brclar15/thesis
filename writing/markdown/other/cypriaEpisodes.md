@@ -74,13 +74,13 @@ The last episode within the narrative bounds of the Cypria is similar to the pre
 
 [6]: Iliad 3  
 
-[7]: *Iliad* 3.144 and Sack of Troy
+[7]: urn:cts:greekLit:tlg0012.tlg001:3.144 and Sack of Troy
 
 [8]: cite Iliad 3
 
 [9]: see West on these
 
-[10]: Cypria.9
+[10]: urn:cts:greekLit:tlg4036.tlg023.omega1_12:Cypria.9
 
 [11]: Marks article
 
@@ -100,39 +100,39 @@ The last episode within the narrative bounds of the Cypria is similar to the pre
 
 [19]: ὁσὸς υἱὸς ὁ Ἀχϊλλεὺς μένων ἐν τῇ πατρΐδϊ· ἔσεται πολϋχρόνϊος πλὴν ἐκ τῶν ἀδοξούντων· εἰ μετὰ τῶν Ἑλλήνων δὲ κατὰ τῶν Τρώων πλεύσει, ἔνδοξος ἔσται καὶ λαμπρὸς ἀλλὰ σϋντόμως θνήσκει
 
-[20]: Tzetzes Proleg line 438-439 
+[20]: urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.438-proleg.439 
 
-[21]: Tzetzes Proleg line 171-213
+[21]: urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.171-proleg213
 
-[22]: Cypria.14 
+[22]: urn:cts:greekLit:tlg4036.tlg023.omega1_12:Cypria.14 
 
 [23]: urn:cts:greekLit:tlg0548.tlg002:e.3.19
 
-[24]: Cypria.15
+[24]: urn:cts:greekLit:tlg4036.tlg023.omega1_12:Cypria.15
 
 [25]: urn:cts:greekLit:tlg0548.tlg002:e.3.22
 
-[26]: Cypria.15
+[26]: urn:cts:greekLit:tlg4036.tlg023.omega1_12:Cypria.15
 
 [27]: urn:cts:greekLit:tlg0548.tlg002:e.3.22
 
 [28]: We should except this to have come in the *Cypria*, but it remains odd that Proclus says nothing of fighting on Tenedos - West 111
 
-[29]: Cypria.16
+[29]: urn:cts:greekLit:tlg4036.tlg023.omega1_12:Cypria.16
 
 [30]: The absence of any reference to the killing of Tennes in Proklos' summary could indicate that it was not a part of the *Kypria*, but we really have very little means of controlling how complete that summary is - Gantz 592
 
 [31]: urn:cts:greekLit:tlg0548.tlg002:e.3.23-3.25
 
-[32]: Cypria.16          
+[32]: urn:cts:greekLit:tlg4036.tlg023.omega1_12:Cypria.16          
 
-[33]: Tzetzes Proleg 611
+[33]: urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.611
 
 [34]: on the move of Philoctetes from Tenedos to Lemnos, see West 112-113
 
 [35]: see West 113
 
-[36]: Proleg 600 πρῶτος πάντων δὲ πεσὼν τῇ σϋμβολῆ πολέμου.
+[36]: urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.600 πρῶτος πάντων δὲ πεσὼν τῇ σϋμβολῆ πολέμου.
 
 [37]: Prolge Protesilaos part
 
@@ -140,19 +140,19 @@ The last episode within the narrative bounds of the Cypria is similar to the pre
 
 [39]: urn:cts:greekLit:tlg0548.tlg002:e.3.30
 
-[40]: Pausanias 4.2.7  
+[40]: urn:cts:greekLit:tlg0525.tlg001:4.2.7  
 
 [41]: on a possible digression concerning the suicide of his wife, see Severyns 1928 pg 302
 
-[42]: Prol 859-862
+[42]: urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.859-proleg.862
 
-[43]: Proleg 400-412
+[43]: urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.400-proleg.412
 
-[44]: Proleg 402-405
+[44]: urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.402-proleg.405
 
 [45]: see West 117
 
-[46]: Cypria.6
+[46]: urn:cts:greekLit:tlg4036.tlg023.omega1_12:Cypria.6
 
 [47]: cite passage
 
@@ -165,20 +165,20 @@ Tzetzes lists Λέσβος· Φωκέαι· Κολοφὼν Κλαζομεν�
 
 [51]: cite passsage
 
-[52]: Cypria.21
+[52]: urn:cts:greekLit:tlg4036.tlg023.omega1_12:Cypria.21
 
 [53]: urn:cts:greekLit:tlg0548.tlg002:e.3.32
 
 [54]: urn:cts:greekLit:tlg0012.tlg001:20.90-20.93 and urn:cts:greekLit:tlg0012.tlg001:20.188-20.194
 
-[55]: Cypria.23
+[55]: urn:cts:greekLit:tlg4036.tlg023.omega1_12:Cypria.23
 
 [56]: urn:cts:greekLit:tlg0548.tlg002:e.3.8
 
-[57]: Prol 724-739
+[57]: urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.724-proleg.739
 
 [58]: Xenophontos 197-198
 
-[59]: Prol 950 - 1131
+[59]: urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.950-proleg.1131
 
-[60]: Prol 962
+[60]: urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.962

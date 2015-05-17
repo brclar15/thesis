@@ -69,9 +69,9 @@ The remainder of the scenes within the *Iliupersis* are fairly evident in their 
 
 [4]: Fabula stands for a reconstruction, in chronological order, of the events that are narrated, irrespective of their position in the text pg. 23
 
-[5]: *Cypria* 15-17
+[5]: urn:cts:greekLit:tlg4036.tlg023.omega1_12:Cypria.15-Cypria.17
 
-[6]: *Cypria* 10
+[6]: urn:cts:greekLit:tlg4036.tlg023.omega1_12:Cypria.10
 
 [7]: list episode and book numbers for rest, no connection
 
@@ -87,15 +87,15 @@ The remainder of the scenes within the *Iliupersis* are fairly evident in their 
 
 [13]: urn:cts:greekLit:tlg0548.tlg002:e.3.5
 
-[14]: Tzetzes Proleg. 50, 86, and 114
+[14]: urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.50, urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.86, and urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.114
 
-[15]: Tzetzes Proleg. 134-13
+[15]: urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.134-proleg.13
 
-[16]: Proleg. 170-171
+[16]: urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.170-proleg171
 
-[17]: Proleg. 287
+[17]: urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.287
 
-[18]: Proleg. 505, 659, 744, and 786
+[18]: urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.505, urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.659, urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.744, and urn:cts:greekLit:tlg9022.hmt01.bnf2705:proleg.786
 
 [19]: cite Petrain 2014 188-191
 
