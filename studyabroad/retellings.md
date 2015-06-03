@@ -58,7 +58,7 @@ Brian Clark, '15
 
 ## Editing the Tabula Capitolina ##
 
-- far too complex for a print edition [inscriptiones graecae][NEED TO LINK SOMEHOW, screen shot?]
+- far too complex for a print edition -  Inscriptiones Graecae
 - digital edition allows for better usability and a more faithful representation
 - diplomatic edition represents what survives on the stone 
 
