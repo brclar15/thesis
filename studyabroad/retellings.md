@@ -29,7 +29,7 @@ Brian Clark, '15
 
 Annotated reliefs:
 
-- [Tabula Capitolina](http://beta.hpcc.uh.edu/tomcat/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:capimgs.Capitoline_1)
+- [Tabula Capitolina](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_1.jpg)
      - photography done by Nik Churik, Rebecca Finnigan during the Spring '14 semester at Loyola Rome
 
 ******
@@ -95,7 +95,7 @@ Annotated reliefs:
 
 
 
-- *Iliad*, Apollodorus, Tabula Capitolina text and [images](http://beta.hpcc.uh.edu/tomcat/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:capimgs.Capitoline_10@0.0801,0.1943,0.8799,0.1733)
+- *Iliad*, Apollodorus, Tabula Capitolina text and [images](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_9.jpg)
 
 
 ***
@@ -128,7 +128,7 @@ Extra Elements
 
 Found at the start of the *Aithiopis*
 
-- Proclus, Apollodorus, Tabula Capitolina [images](http://beta.hpcc.uh.edu/tomcat/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:capimgs.Capitoline_7@0.006,0.6947,0.313,0.148)
+- Proclus, Apollodorus, Tabula Capitolina [images](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_8.jpg)
 
 
 
