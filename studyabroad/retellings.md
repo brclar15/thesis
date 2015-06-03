@@ -23,7 +23,7 @@ Brian Clark, '15
 - [Hypothesis](http://gallica.bnf.fr/ark:/12148/btv1b52500995q/f9.zoom.r=grec%202706.langFR) of events that precede the *Iliad*
 - Apollodorus' *Library*
 
-******-
+******
 
 ## Unique Source ##
 
