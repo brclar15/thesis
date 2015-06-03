@@ -174,7 +174,7 @@ Found at the start of the *Aithiopis*
 
 ***
 
-## Materials for this project ##
+## International Research Project ##
 
 - Open Access manuscript images
      - Venetus A, BNF 2705, BNF 2706
