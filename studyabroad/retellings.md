@@ -94,7 +94,7 @@ Brian Clark, '15
 
 
 
-- *Iliad*, Apollodorus, Tabula Capitolina text and [images](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_9.jpg)
+- *Iliad*, Apollodorus, Tabula Capitolina text and [images](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_10.jpg)
 
 
 ***
