@@ -27,9 +27,8 @@ Brian Clark, '15
 
 ## Unique Source ##
 
-Annotated reliefs:
-
 - [Tabula Capitolina](http://shot.holycross.edu/eikon/tabulaeiliacae/Capitoline_1.jpg)
+     - house in the Capitoline Museum
      - photography done by Nik Churik, Rebecca Finnigan during the Spring '14 semester at Loyola Rome
 
 ******
