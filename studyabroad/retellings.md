@@ -61,7 +61,7 @@ Annotated reliefs:
 
 - far too complex for a print edition [inscriptiones graecae][NEED TO LINK SOMEHOW, screen shot?]
 - digital edition allows for better usability and a more faithful representation
-- [diplomatic edition](MY EDITION SCREEN SHOT) represents what survives on the stone 
+- diplomatic edition represents what survives on the stone 
 
 
 
