@@ -78,14 +78,6 @@ Brian Clark, '15
 
 ***
 
-
-## Two comparisons#
-
-- One from the *Iliad*
-- One from after the *Iliad* material
-
-***
-
 ## From the *Iliad* ##
 
 
@@ -117,6 +109,47 @@ Extra Elements
 
 ***
 
+
+# Summary: treatment of episodes #
+
+
+
+- vital episodes vs expanded episodes
+     - added vs omitted episodes / characters
+-  simple elements that tell a wider story
+- preferences of the different retellings:  genre, length, and goal
+
+***
+
+
+# Conclusions #
+
+- retellings present complex multiformity and intertextuality
+- vital to understanding highly compressed reuse of traditional material
+     - Homeric scholia
+
+***
+
+## Multinational Research Project ##
+
+- Open Access manuscript images
+     - Venetus A, BNF 2705, BNF 2706
+- Independent photography of the Tabula Capitolina
+
+***
+
+## Thank you! ##
+
+
+
+***
+
+## Two comparisons#
+
+- One from the *Iliad*
+- One from after the *Iliad* material
+
+***
 ## Events After the *Iliad* ##
 
 
@@ -151,39 +184,6 @@ Found at the start of the *Aithiopis*
      - She kills Machaon in Apollodorus
 - Both text sources explain why Achilles kills Thersites
 - The killing of Thersites causes a στάσις in Proclus
-
-
-***
-# Summary: treatment of episodes #
-
-
-
-- vital episodes vs expanded episodes
-     - added vs omitted episodes / characters
--  simple elements that tell a wider story
-- preferences of the different retellings:  genre, length, and goal
-
-***
-
-
-# Conclusions #
-
-- retellings present complex multiformity and intertextuality
-- vital to understanding highly compressed reuse of traditional material
-     - Homeric scholia
-
-***
-
-## Multinational Research Project ##
-
-- Open Access manuscript images
-     - Venetus A, BNF 2705, BNF 2706
-- Independent photography of the Tabula Capitolina
-
-***
-
-## Thank you! ##
-
 
 
 ***
