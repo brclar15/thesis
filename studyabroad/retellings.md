@@ -122,7 +122,7 @@ Extra Elements
 ***
 
 
-# Conclusions #
+# Findings #
 
 - retellings present complex multiformity and intertextuality
 - vital to understanding highly compressed reuse of traditional material
@@ -130,10 +130,9 @@ Extra Elements
 
 ***
 
-## Multinational Senior Project ##
+## Conclusion: Multinational Senior Project ##
 
 - Open Access manuscript images
-     - Venetus A, BNF 2705, BNF 2706
 - Independent photography of the Tabula Capitolina
 - Builds upon four years of experience
 - Incorporates skills learned from Study Abroad
