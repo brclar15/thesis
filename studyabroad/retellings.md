@@ -104,7 +104,7 @@ Extra Elements
 - Apollodorus and the *Iliad* mentions that Euphorobos wounds Patroclus
 - Apollo plays a significant role in the *Iliad*
 - The Tabula text specifies that Hector takes the armor 
-- The Tabula is the only source in which Diomedes and Phoenix visit Achilles
+- The Tabula is the **only** source in which Diomedes and Phoenix visit Achilles
 
 
 ***
