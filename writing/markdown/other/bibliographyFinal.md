@@ -13,7 +13,7 @@
 - Goertz, Donald Charles. Proclus and Tzetzes (The University of Texas 1964)
 - Graziosi, Barbara. Inventing Homer: The Early Reception of Epic (Cambridge University Press 2002)
 - Haase, Fee-Alexandra. An Intertextual Reading of a Myth: Between Poetry, Myth, Cult Topography, and History (AJCN 2007?)
-- Hildesheim, Georg Olms. Tzetzae Allegoriae Iliadis (Paris 1967)
+- Boissonade, Jean François. Tzetzae Allegoriae Iliadis (Paris 1967)
 - Holmberg, Ingrid. The Creation of the Ancient Epic Cycle (Oral Tradition 1998) 344-348
 - Lang, Andrew. Homer and the Epic (Longmans, Green, and Co. 1983) 323-348.
 - Mahaffy, J. P. A History of Classical Greek Literature Vol 1: The poets, epic and lyric (Macmillan, 1903) 101-106.
